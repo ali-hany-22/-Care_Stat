@@ -1,7 +1,8 @@
-streamlit
+streamlit==1.29.0
 plotly
 pandas
 numpy
+
 
 
 
