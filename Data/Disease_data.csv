@@ -1,0 +1,10001 @@
+disease_id,disease_name
+83810,Kidney Disease
+14592,Hypertension
+3278,Diabetes
+97196,Osteoporosis
+36048,COPD
+32098,Arthritis
+29256,Arthritis
+18289,Asthma
+96530,Osteoporosis
+13434,Hypertension
+88696,Kidney Disease
+97080,Osteoporosis
+71482,Hypothyroidism
+11395,Cancer
+77397,Hypertension
+55302,Heart Disease
+4165,Depression
+3905,Diabetes
+12280,Diabetes
+28657,Hypertension
+30495,Arthritis
+66237,Arthritis
+78907,Cancer
+3478,Heart Disease
+73563,Diabetes
+26062,Cancer
+93850,Arthritis
+85181,Osteoporosis
+91924,Kidney Disease
+71426,Osteoporosis
+54987,Cancer
+28893,Depression
+58878,Arthritis
+77236,Epilepsy
+36463,Heart Disease
+851,COPD
+99458,Stroke
+20926,Anemia
+91506,Diabetes
+55392,Stroke
+44597,Stroke
+36421,Asthma
+20379,Osteoporosis
+28221,Depression
+44118,Obesity
+13396,COPD
+12156,Asthma
+49797,Arthritis
+12676,Stroke
+47052,Obesity
+45082,Hypertension
+79131,Hypertension
+34671,Depression
+5695,Hypertension
+95647,Obesity
+60217,Anemia
+70284,Obesity
+16361,Heart Disease
+49615,COPD
+10328,Stroke
+72357,Diabetes
+38427,Osteoporosis
+82397,Epilepsy
+81070,Cancer
+47400,Hypertension
+75674,Hypothyroidism
+25203,Depression
+92349,Hypertension
+9116,Cancer
+6006,COPD
+86673,Anemia
+29871,Kidney Disease
+37930,Heart Disease
+10458,Hypothyroidism
+30512,Anemia
+13238,Obesity
+49823,Heart Disease
+36434,Arthritis
+59429,Osteoporosis
+83320,Hypertension
+47819,Diabetes
+21319,Kidney Disease
+48520,Arthritis
+46566,Stroke
+27460,COPD
+87841,Hypertension
+34993,Anemia
+91988,Arthritis
+89593,Anemia
+84939,Hypertension
+9358,Depression
+79840,COPD
+83227,Epilepsy
+22431,Kidney Disease
+70010,Anemia
+95568,Obesity
+32087,Asthma
+21417,Obesity
+60589,Obesity
+49735,Arthritis
+35382,Kidney Disease
+83886,COPD
+90198,Osteoporosis
+73000,Hypothyroidism
+28785,Kidney Disease
+89733,Kidney Disease
+42504,Hypertension
+7331,Heart Disease
+30021,Kidney Disease
+4207,Asthma
+41347,Cancer
+52581,Osteoporosis
+35093,Arthritis
+8675,Asthma
+27653,Epilepsy
+74341,Depression
+94098,COPD
+41245,Hypothyroidism
+27869,Kidney Disease
+85909,Osteoporosis
+65435,Cancer
+51856,Arthritis
+84259,Kidney Disease
+60142,Obesity
+18726,Anemia
+34718,Stroke
+18301,Stroke
+32325,Diabetes
+97647,Arthritis
+73579,Anemia
+70644,Diabetes
+34438,Stroke
+97912,Obesity
+76622,Depression
+56155,COPD
+76484,Hypertension
+52350,Arthritis
+47447,Hypothyroidism
+28746,Heart Disease
+18131,Hypothyroidism
+66784,Osteoporosis
+64686,Obesity
+11915,Arthritis
+99061,Kidney Disease
+6175,Epilepsy
+14371,Depression
+20033,Hypothyroidism
+82240,Hypothyroidism
+20969,Kidney Disease
+89192,Epilepsy
+55333,Asthma
+78172,COPD
+8326,Asthma
+50432,Arthritis
+50019,Osteoporosis
+78104,Cancer
+61348,Cancer
+69352,COPD
+32953,Osteoporosis
+72512,Heart Disease
+1504,Depression
+89166,Hypothyroidism
+94466,Heart Disease
+15014,Depression
+89353,Obesity
+70381,Arthritis
+98419,Asthma
+34973,Cancer
+84012,Epilepsy
+44587,Hypertension
+14621,Stroke
+38469,Diabetes
+56985,Anemia
+20730,Hypertension
+59470,Asthma
+425,Kidney Disease
+94646,Asthma
+94329,Stroke
+34522,Kidney Disease
+65612,Depression
+99871,Heart Disease
+23416,Hypertension
+66542,Depression
+13947,Depression
+81959,Heart Disease
+39117,Epilepsy
+83748,Cancer
+66540,COPD
+79818,Cancer
+26071,Anemia
+20032,Diabetes
+49009,Kidney Disease
+99943,Osteoporosis
+21174,Hypertension
+70697,Kidney Disease
+69514,Hypothyroidism
+74,Cancer
+78504,Stroke
+42487,COPD
+64042,Stroke
+2552,Kidney Disease
+14662,Obesity
+47576,Hypertension
+40306,COPD
+31385,Depression
+7592,Asthma
+31571,Epilepsy
+74364,Diabetes
+10322,Osteoporosis
+11226,Hypothyroidism
+95932,Osteoporosis
+63699,COPD
+9071,Cancer
+99693,Stroke
+69822,Asthma
+16483,Cancer
+16828,Hypothyroidism
+86474,Hypertension
+62296,Anemia
+72063,Kidney Disease
+21643,COPD
+34741,Anemia
+69163,Kidney Disease
+79507,Cancer
+55461,Heart Disease
+27760,Arthritis
+70686,Asthma
+98994,Obesity
+95673,Stroke
+90422,Asthma
+26365,Cancer
+93447,Stroke
+40857,Hypothyroidism
+52296,Cancer
+88039,Hypothyroidism
+85180,Diabetes
+48944,Heart Disease
+57422,Obesity
+67839,Epilepsy
+59177,Diabetes
+15860,Hypertension
+32493,Hypothyroidism
+29451,Obesity
+8392,Hypothyroidism
+44313,Anemia
+2757,Stroke
+77110,COPD
+72603,Arthritis
+30161,Diabetes
+77128,Arthritis
+28864,Hypothyroidism
+942,Heart Disease
+9305,Hypertension
+92778,Hypertension
+82719,Osteoporosis
+7716,Epilepsy
+30007,Anemia
+8834,Hypertension
+4117,Stroke
+43309,Cancer
+9287,Stroke
+67391,Asthma
+31195,Asthma
+36500,Kidney Disease
+87684,Epilepsy
+63624,Cancer
+28080,Asthma
+70678,COPD
+17342,Cancer
+94811,Anemia
+74847,Heart Disease
+75525,Depression
+61953,Arthritis
+31850,Hypothyroidism
+61993,Cancer
+53354,Stroke
+24957,Osteoporosis
+12363,Osteoporosis
+12704,Arthritis
+86374,Osteoporosis
+56498,COPD
+46438,Depression
+55519,Kidney Disease
+53883,Kidney Disease
+61213,Obesity
+95561,Epilepsy
+7100,Hypothyroidism
+88259,Cancer
+85649,Epilepsy
+84696,Hypertension
+12899,Arthritis
+7944,Arthritis
+52772,Hypertension
+95448,Obesity
+44473,Diabetes
+14322,Heart Disease
+32591,Cancer
+25112,Arthritis
+24931,Heart Disease
+70292,Arthritis
+58800,Diabetes
+18373,Hypertension
+55296,Osteoporosis
+24050,Kidney Disease
+36509,Diabetes
+60637,Arthritis
+32742,Hypertension
+9880,Hypothyroidism
+58082,Diabetes
+72132,Anemia
+12833,Obesity
+6630,Hypertension
+85477,Cancer
+70855,Arthritis
+1934,COPD
+12224,Kidney Disease
+98771,Epilepsy
+30982,Arthritis
+21798,Cancer
+53269,Asthma
+63653,Osteoporosis
+63092,Hypothyroidism
+28016,Hypothyroidism
+52565,Heart Disease
+7685,Heart Disease
+21579,Epilepsy
+49672,Arthritis
+282,Stroke
+51173,Epilepsy
+34760,Stroke
+59638,Depression
+37388,Arthritis
+55444,Hypertension
+91303,Hypertension
+95748,Kidney Disease
+72845,Depression
+86752,Obesity
+94163,Depression
+63788,Depression
+20289,Epilepsy
+24890,Anemia
+38890,Osteoporosis
+28534,Diabetes
+7665,Kidney Disease
+75914,Kidney Disease
+96434,Kidney Disease
+71066,Hypertension
+7989,Diabetes
+98038,Depression
+41104,Osteoporosis
+7492,Obesity
+6572,Stroke
+76569,Anemia
+62493,Hypertension
+65909,Arthritis
+69615,Arthritis
+20635,Arthritis
+7455,Cancer
+66562,Epilepsy
+10500,Asthma
+24356,Depression
+8981,Asthma
+77992,COPD
+8907,Epilepsy
+88501,Arthritis
+30828,Anemia
+52923,Hypothyroidism
+15713,Hypertension
+74668,Epilepsy
+32271,Stroke
+75880,Anemia
+77924,Anemia
+5209,Cancer
+81183,Hypertension
+10745,Diabetes
+54948,Kidney Disease
+86163,Cancer
+76503,Anemia
+74085,Diabetes
+68522,Hypertension
+41467,Hypothyroidism
+34179,Stroke
+26772,Anemia
+87782,Arthritis
+93872,Asthma
+41180,Depression
+31285,Epilepsy
+34814,Epilepsy
+51876,Arthritis
+17154,Anemia
+84607,Depression
+39321,Hypothyroidism
+59929,Diabetes
+41441,Asthma
+98548,Depression
+9508,Diabetes
+1220,Depression
+60068,COPD
+81416,Hypothyroidism
+73792,Stroke
+13104,Stroke
+9602,Epilepsy
+70468,COPD
+27938,Depression
+66307,Osteoporosis
+17361,Osteoporosis
+45745,Stroke
+9016,Cancer
+32018,Kidney Disease
+48434,Osteoporosis
+37353,Epilepsy
+20676,Asthma
+57433,Arthritis
+71200,COPD
+92214,Arthritis
+39651,Diabetes
+80173,Heart Disease
+85717,Osteoporosis
+69329,Cancer
+1025,Diabetes
+87538,Osteoporosis
+72692,Obesity
+39240,Diabetes
+86951,Diabetes
+13577,Heart Disease
+17601,Epilepsy
+34664,Cancer
+15129,Hypothyroidism
+14029,Anemia
+97310,Cancer
+20374,Asthma
+35697,Diabetes
+36930,Cancer
+79276,Hypertension
+27607,Anemia
+94058,Asthma
+44942,Hypertension
+26685,Heart Disease
+90111,Hypertension
+83130,Kidney Disease
+34600,Anemia
+66244,Arthritis
+64032,Depression
+32914,Hypertension
+6658,Hypothyroidism
+12097,Heart Disease
+83136,Arthritis
+55518,Heart Disease
+36265,Heart Disease
+5778,Diabetes
+464,Heart Disease
+43719,Hypertension
+17146,Depression
+83507,Kidney Disease
+34335,Heart Disease
+21178,Heart Disease
+97154,Cancer
+57912,Obesity
+72309,Hypothyroidism
+92493,COPD
+56057,Arthritis
+73519,Kidney Disease
+1267,Osteoporosis
+14663,Obesity
+9862,Arthritis
+90573,COPD
+19536,Depression
+71511,Asthma
+4722,Kidney Disease
+48393,Kidney Disease
+76350,COPD
+72420,Epilepsy
+19410,Obesity
+56333,Hypothyroidism
+16704,Stroke
+5482,Hypothyroidism
+40404,Hypertension
+47795,Diabetes
+5229,Epilepsy
+46898,Heart Disease
+27535,Heart Disease
+89399,Hypertension
+32706,Hypertension
+87416,Cancer
+13473,Arthritis
+46357,Cancer
+73385,COPD
+53264,Asthma
+81351,Hypothyroidism
+98235,Obesity
+20257,Hypothyroidism
+31029,Hypertension
+21299,Hypothyroidism
+23206,Arthritis
+54040,Obesity
+3248,COPD
+23509,Asthma
+96542,Epilepsy
+43540,Anemia
+53964,Cancer
+87806,Osteoporosis
+96345,COPD
+32527,Heart Disease
+34970,Stroke
+20866,Kidney Disease
+91917,Cancer
+14168,Diabetes
+50140,Kidney Disease
+5075,Anemia
+61694,Cancer
+29154,COPD
+26158,Hypothyroidism
+60332,Kidney Disease
+45830,Hypertension
+40001,Hypothyroidism
+29831,Asthma
+29219,COPD
+3101,Hypertension
+86511,Hypothyroidism
+25313,Hypertension
+52227,Osteoporosis
+43025,Cancer
+36517,Asthma
+9099,COPD
+36585,COPD
+46025,Heart Disease
+84080,Arthritis
+66768,Osteoporosis
+52386,Obesity
+89065,Arthritis
+70282,Kidney Disease
+43404,Kidney Disease
+3617,Anemia
+15118,COPD
+34237,Cancer
+23405,Epilepsy
+76099,COPD
+34795,Hypothyroidism
+5014,Hypothyroidism
+14208,Anemia
+78193,Diabetes
+56959,Hypertension
+45309,Kidney Disease
+95491,Depression
+41114,Anemia
+57199,COPD
+79457,Diabetes
+67033,Diabetes
+15157,Obesity
+50488,Stroke
+75574,Asthma
+24914,Kidney Disease
+33386,COPD
+5817,Asthma
+92901,Osteoporosis
+57154,Epilepsy
+221,Cancer
+68146,Osteoporosis
+70575,Depression
+90027,Cancer
+94297,Diabetes
+97248,Hypertension
+96605,Hypertension
+87900,Hypothyroidism
+25825,Osteoporosis
+47739,Hypothyroidism
+56531,Asthma
+9171,Cancer
+87062,Diabetes
+43279,Anemia
+81678,Obesity
+41145,Heart Disease
+16334,Cancer
+94339,Asthma
+39363,Depression
+66469,Asthma
+40538,Diabetes
+87410,COPD
+53528,Obesity
+42753,Hypothyroidism
+52743,Hypothyroidism
+91384,Stroke
+38752,Anemia
+72667,Diabetes
+16683,Hypothyroidism
+25144,Obesity
+55108,Arthritis
+87153,Kidney Disease
+49695,Arthritis
+88777,Kidney Disease
+98059,Hypertension
+22810,Obesity
+80676,Stroke
+74593,Cancer
+39446,Hypothyroidism
+53225,Anemia
+71819,Depression
+53,Heart Disease
+39829,Osteoporosis
+37606,Asthma
+27549,Hypothyroidism
+56346,Hypothyroidism
+76019,Arthritis
+79516,Anemia
+85813,Asthma
+42237,Stroke
+60946,Stroke
+57905,Asthma
+57954,Hypothyroidism
+88555,Depression
+28010,Diabetes
+67000,Asthma
+62021,Osteoporosis
+96463,Hypothyroidism
+22241,Obesity
+86356,Stroke
+11114,Hypothyroidism
+37196,Depression
+67561,Stroke
+87012,Kidney Disease
+82960,Anemia
+81167,Osteoporosis
+43933,Stroke
+12240,Arthritis
+98453,COPD
+30784,Asthma
+88184,Stroke
+40687,Osteoporosis
+29444,Hypertension
+26100,Depression
+19313,Anemia
+3201,Diabetes
+6057,Anemia
+32092,Epilepsy
+62277,Arthritis
+80120,Arthritis
+9545,Anemia
+59692,Hypothyroidism
+54321,Epilepsy
+82544,Obesity
+75454,COPD
+25485,Anemia
+94155,Stroke
+91272,Anemia
+50328,Arthritis
+64799,Arthritis
+52383,Diabetes
+31979,Kidney Disease
+19342,Arthritis
+85990,Depression
+90128,Obesity
+726,COPD
+98430,Anemia
+13970,Hypertension
+55724,Stroke
+28683,COPD
+23053,Obesity
+91214,Kidney Disease
+67889,Cancer
+60889,Depression
+6582,Kidney Disease
+73060,Anemia
+32662,Cancer
+15906,Obesity
+59829,Diabetes
+17477,Hypertension
+60901,Hypothyroidism
+87500,COPD
+69616,Asthma
+73259,Heart Disease
+78047,COPD
+41588,Diabetes
+98992,Hypertension
+58008,Heart Disease
+80301,Depression
+94276,Obesity
+66162,Osteoporosis
+55933,Stroke
+71810,Obesity
+58446,Depression
+20861,Heart Disease
+97472,Cancer
+62216,Hypertension
+58991,Depression
+33972,Hypothyroidism
+98536,Heart Disease
+32406,Arthritis
+83579,COPD
+36347,Diabetes
+68327,Osteoporosis
+63517,Depression
+82149,Diabetes
+31358,Cancer
+35992,Hypothyroidism
+57654,Stroke
+10155,Cancer
+93525,Kidney Disease
+37450,Osteoporosis
+30735,Osteoporosis
+35614,Osteoporosis
+44020,Kidney Disease
+41904,Arthritis
+70798,Obesity
+10561,Depression
+18136,Hypertension
+19769,Kidney Disease
+30311,Hypothyroidism
+50205,Obesity
+90957,Heart Disease
+20028,Obesity
+92591,Kidney Disease
+28043,Anemia
+8418,Hypertension
+54377,Osteoporosis
+53424,Hypothyroidism
+43369,COPD
+71121,Cancer
+61069,COPD
+54496,Kidney Disease
+8161,Depression
+27110,Obesity
+55069,Depression
+51049,Osteoporosis
+76556,COPD
+91163,Cancer
+2560,Asthma
+75456,Arthritis
+49857,Depression
+62518,Kidney Disease
+772,Depression
+46105,Kidney Disease
+39139,Osteoporosis
+98759,Hypothyroidism
+51116,Asthma
+54921,Heart Disease
+70545,Heart Disease
+97978,COPD
+96289,Depression
+71582,Cancer
+79069,Anemia
+28906,Diabetes
+63993,COPD
+28760,COPD
+35774,Arthritis
+57125,Depression
+63654,Stroke
+3804,Heart Disease
+50968,Heart Disease
+44057,Kidney Disease
+87670,Obesity
+89016,Epilepsy
+52994,Epilepsy
+94919,Epilepsy
+21632,Kidney Disease
+61261,Arthritis
+16728,Cancer
+81560,Epilepsy
+70008,Stroke
+3534,Hypothyroidism
+51645,Stroke
+77580,Osteoporosis
+73975,Asthma
+86900,Kidney Disease
+3552,Hypertension
+11003,COPD
+84246,Cancer
+56179,Kidney Disease
+17786,Kidney Disease
+60515,Heart Disease
+23819,Obesity
+6590,Hypertension
+34099,Anemia
+49689,Stroke
+42906,Arthritis
+27742,Kidney Disease
+59598,COPD
+42840,Arthritis
+44236,Stroke
+99775,Arthritis
+49692,Asthma
+36471,Diabetes
+98567,Diabetes
+55255,Arthritis
+33065,Epilepsy
+10735,Heart Disease
+61644,Anemia
+2540,Stroke
+98176,Hypertension
+70702,Epilepsy
+6826,Depression
+45870,Hypothyroidism
+29389,Kidney Disease
+85215,Heart Disease
+8993,Arthritis
+85426,Osteoporosis
+5276,Osteoporosis
+98858,Depression
+4067,Epilepsy
+32411,Depression
+26130,Arthritis
+2671,Asthma
+81439,Kidney Disease
+19973,Osteoporosis
+31266,Diabetes
+16544,Hypothyroidism
+62070,Stroke
+87747,Anemia
+14993,Stroke
+73920,Hypothyroidism
+28569,Hypertension
+60952,Stroke
+91680,Depression
+33586,Arthritis
+48351,Asthma
+21992,Stroke
+79415,Osteoporosis
+79593,Cancer
+98032,Epilepsy
+94156,Diabetes
+15012,Cancer
+21465,Arthritis
+40768,Hypothyroidism
+75849,Anemia
+3365,Hypertension
+40888,Epilepsy
+75470,Asthma
+88781,Stroke
+49192,Epilepsy
+51990,Kidney Disease
+93718,Cancer
+25995,Cancer
+9961,Heart Disease
+77607,Obesity
+90520,Stroke
+82213,Hypothyroidism
+31830,Epilepsy
+13356,Heart Disease
+91382,Anemia
+39529,Osteoporosis
+89687,Hypothyroidism
+78697,Cancer
+15866,Depression
+74177,Anemia
+5383,Hypothyroidism
+45508,Cancer
+69827,Epilepsy
+56148,Hypothyroidism
+86706,Asthma
+48571,Osteoporosis
+9038,Anemia
+66317,Epilepsy
+84874,Epilepsy
+44725,COPD
+1658,Stroke
+55057,Arthritis
+64251,Anemia
+13833,Kidney Disease
+56822,COPD
+47472,Stroke
+83307,Stroke
+60258,Cancer
+92708,Epilepsy
+20052,Kidney Disease
+57080,Arthritis
+23086,COPD
+96180,Epilepsy
+68386,Hypertension
+85256,Osteoporosis
+35400,COPD
+80728,Arthritis
+70539,COPD
+63372,Obesity
+60931,Obesity
+57091,Hypothyroidism
+95817,Cancer
+77656,Hypertension
+35179,Asthma
+42245,Asthma
+32177,Arthritis
+11359,Depression
+36559,Osteoporosis
+59087,Asthma
+31963,Osteoporosis
+98366,Arthritis
+60910,Hypertension
+74691,Depression
+79997,Depression
+87580,Obesity
+49674,Cancer
+44092,Epilepsy
+3761,Depression
+64789,Diabetes
+42600,Arthritis
+23834,Anemia
+63904,Depression
+27802,Depression
+46507,Hypothyroidism
+33862,Stroke
+44608,Heart Disease
+36655,Osteoporosis
+78139,Diabetes
+91905,Anemia
+36211,Hypothyroidism
+72848,Stroke
+1330,Heart Disease
+67715,Depression
+25042,Epilepsy
+11221,Diabetes
+31635,Obesity
+94381,COPD
+53271,Stroke
+64038,Depression
+72768,Anemia
+99374,Hypothyroidism
+31499,Anemia
+90519,Depression
+62402,Cancer
+84659,Osteoporosis
+93302,Osteoporosis
+64332,Cancer
+58743,Stroke
+2260,Heart Disease
+12196,Hypothyroidism
+38566,Arthritis
+29045,Epilepsy
+53005,Arthritis
+90673,COPD
+31890,Depression
+40135,Epilepsy
+87026,Diabetes
+76225,Depression
+48368,Obesity
+62031,Kidney Disease
+72544,Kidney Disease
+69588,Stroke
+45056,Depression
+55771,Osteoporosis
+97771,Asthma
+72140,Anemia
+43357,Epilepsy
+46112,Hypothyroidism
+92124,Asthma
+59473,Heart Disease
+35509,Cancer
+40189,Diabetes
+32951,Hypothyroidism
+30217,Depression
+15814,Heart Disease
+94540,Heart Disease
+25242,Kidney Disease
+41359,Diabetes
+15670,Hypertension
+97370,Kidney Disease
+70236,Depression
+99901,Asthma
+90461,Anemia
+24267,Epilepsy
+25105,Asthma
+28361,Diabetes
+96810,COPD
+63464,Depression
+36241,Obesity
+94972,Arthritis
+77278,Epilepsy
+99641,Obesity
+68765,Obesity
+78222,Stroke
+37093,Hypothyroidism
+13176,Depression
+25443,COPD
+38829,Stroke
+29816,Anemia
+47301,Depression
+23519,COPD
+39618,Anemia
+1854,Hypertension
+92801,Epilepsy
+16591,Diabetes
+35954,Osteoporosis
+5965,Cancer
+7146,Diabetes
+72529,Obesity
+38290,Arthritis
+91411,Kidney Disease
+16551,Hypertension
+83606,Stroke
+98669,Kidney Disease
+64340,Diabetes
+13446,Stroke
+1607,Diabetes
+75243,Arthritis
+37268,Arthritis
+61524,Anemia
+62746,Diabetes
+57733,Heart Disease
+44657,Asthma
+24164,Arthritis
+6734,Asthma
+33092,Epilepsy
+62616,Kidney Disease
+14953,Hypertension
+8564,Heart Disease
+52521,Arthritis
+64454,Epilepsy
+9710,Osteoporosis
+75631,COPD
+82502,Stroke
+89974,Obesity
+7026,Asthma
+19887,Heart Disease
+19555,Heart Disease
+73772,Osteoporosis
+39824,Osteoporosis
+11164,Hypertension
+32530,Stroke
+15525,Anemia
+73147,Asthma
+54548,COPD
+79471,Hypertension
+78135,Heart Disease
+81057,Diabetes
+29581,Hypothyroidism
+68494,COPD
+49856,Heart Disease
+59049,Kidney Disease
+58028,Hypothyroidism
+38974,Depression
+77139,Depression
+56207,Osteoporosis
+40026,Arthritis
+74531,Hypertension
+81399,Heart Disease
+7894,Osteoporosis
+79905,Anemia
+97004,Kidney Disease
+13006,Arthritis
+99973,Hypertension
+27235,Osteoporosis
+81987,Stroke
+27659,COPD
+34687,Anemia
+86563,Kidney Disease
+10641,Heart Disease
+20585,Stroke
+31439,Hypertension
+22782,Stroke
+72350,Heart Disease
+9838,Stroke
+20517,Diabetes
+350,Obesity
+53545,Cancer
+59048,Depression
+90357,Kidney Disease
+77832,Obesity
+61592,Hypertension
+38175,Cancer
+4278,Kidney Disease
+30340,Obesity
+37762,Diabetes
+92662,Anemia
+37056,Depression
+92141,Anemia
+59510,Epilepsy
+9329,Hypertension
+90096,Depression
+30595,Obesity
+34675,Kidney Disease
+81927,Hypothyroidism
+77304,Anemia
+86662,Epilepsy
+25928,Osteoporosis
+55723,Asthma
+15043,Depression
+71376,Asthma
+29466,Osteoporosis
+84886,Cancer
+19528,Kidney Disease
+34816,COPD
+18643,Heart Disease
+9359,Stroke
+7816,Hypothyroidism
+21747,Cancer
+40319,Stroke
+77993,Epilepsy
+98167,Epilepsy
+74607,Depression
+37828,Anemia
+57560,Osteoporosis
+16299,Heart Disease
+61433,COPD
+90266,Obesity
+39857,Anemia
+91715,Arthritis
+52757,Anemia
+35683,Hypothyroidism
+65597,Hypertension
+70776,COPD
+64722,Hypothyroidism
+57377,Epilepsy
+10543,Arthritis
+78385,Stroke
+5224,Epilepsy
+56626,Heart Disease
+96276,Heart Disease
+42247,Kidney Disease
+79129,Depression
+32816,Obesity
+3390,Diabetes
+11970,Epilepsy
+30005,Anemia
+88381,Obesity
+75392,Asthma
+76955,Epilepsy
+2719,Arthritis
+88117,Obesity
+35325,Stroke
+75529,COPD
+5273,Obesity
+99125,COPD
+22962,Hypothyroidism
+61669,Heart Disease
+68021,Osteoporosis
+85394,Hypothyroidism
+57963,COPD
+36458,Cancer
+23788,Diabetes
+76720,Cancer
+57132,Arthritis
+83202,Hypertension
+64451,Arthritis
+11959,Osteoporosis
+61605,Depression
+45607,Epilepsy
+53523,Cancer
+43687,Stroke
+42081,Arthritis
+87835,Osteoporosis
+13710,Epilepsy
+21079,Kidney Disease
+43228,Osteoporosis
+53955,Epilepsy
+90921,Epilepsy
+64942,Stroke
+37777,Diabetes
+86846,Hypertension
+52488,COPD
+99680,Arthritis
+72102,Depression
+4809,Osteoporosis
+59614,Arthritis
+11542,COPD
+41224,Kidney Disease
+33082,Heart Disease
+42372,Obesity
+15194,Epilepsy
+52976,Cancer
+67449,Cancer
+150,Obesity
+86200,Depression
+71118,Osteoporosis
+60552,Cancer
+54165,Obesity
+7104,Obesity
+24586,Osteoporosis
+67952,Epilepsy
+47419,COPD
+81609,COPD
+99148,COPD
+65338,Arthritis
+81973,Hypertension
+57939,Osteoporosis
+99613,Arthritis
+6764,Obesity
+26680,Hypertension
+35003,Osteoporosis
+71987,Cancer
+17172,Stroke
+37752,Osteoporosis
+57424,Asthma
+91521,Arthritis
+63532,Arthritis
+15915,Osteoporosis
+3783,Epilepsy
+82578,COPD
+79806,Osteoporosis
+31365,Heart Disease
+93032,Stroke
+20758,Cancer
+40730,Heart Disease
+72199,COPD
+1792,Hypertension
+72384,Anemia
+53476,Arthritis
+12217,COPD
+14871,Arthritis
+60482,Obesity
+15396,Asthma
+84896,COPD
+20181,Diabetes
+65323,Osteoporosis
+93926,Cancer
+38254,Asthma
+66698,COPD
+92459,Diabetes
+35838,Diabetes
+54459,Cancer
+63242,COPD
+61894,Osteoporosis
+31946,Asthma
+59871,Kidney Disease
+72255,Anemia
+18958,Stroke
+50277,Epilepsy
+24983,Hypertension
+78561,Anemia
+66616,Diabetes
+97818,Heart Disease
+17892,COPD
+9150,Epilepsy
+36208,Epilepsy
+54387,Epilepsy
+44548,Obesity
+66550,Asthma
+35018,Diabetes
+336,COPD
+37072,Anemia
+95164,Epilepsy
+39132,Hypertension
+76931,Anemia
+76011,Hypertension
+86499,Depression
+64178,Epilepsy
+19476,Hypertension
+58529,Heart Disease
+70592,Kidney Disease
+63483,Kidney Disease
+45236,Diabetes
+43573,Asthma
+72340,Asthma
+99991,Stroke
+71228,Heart Disease
+49441,COPD
+59682,Hypertension
+42176,Arthritis
+24727,Hypertension
+91422,Cancer
+31300,Stroke
+74946,Depression
+50196,Heart Disease
+30613,Heart Disease
+53841,Stroke
+5720,Heart Disease
+41704,Arthritis
+97609,Stroke
+92435,Cancer
+49968,Depression
+50604,Epilepsy
+86991,Hypothyroidism
+85461,Epilepsy
+19936,COPD
+64923,Anemia
+4852,Heart Disease
+16547,Depression
+65836,COPD
+77356,Heart Disease
+43515,Heart Disease
+13154,Diabetes
+57711,Heart Disease
+13069,Osteoporosis
+68937,Hypertension
+59890,Stroke
+2011,Arthritis
+94692,Kidney Disease
+18894,Arthritis
+53736,COPD
+85823,Kidney Disease
+20232,Hypertension
+9807,Asthma
+61537,Arthritis
+34737,Asthma
+44375,Cancer
+81691,Hypertension
+90794,Asthma
+52098,Diabetes
+85175,Depression
+10527,Epilepsy
+43065,Osteoporosis
+88389,Heart Disease
+69942,Epilepsy
+49808,COPD
+41505,Diabetes
+82155,Arthritis
+94203,COPD
+99536,Osteoporosis
+63956,COPD
+70912,Osteoporosis
+4705,Anemia
+80931,Epilepsy
+8968,Hypertension
+30771,Kidney Disease
+82727,Arthritis
+89705,Hypothyroidism
+37667,COPD
+29817,Stroke
+97880,Stroke
+11846,Kidney Disease
+56881,Heart Disease
+12903,Kidney Disease
+99663,Stroke
+83066,Hypothyroidism
+92260,Arthritis
+13173,Depression
+58153,Hypertension
+21805,Cancer
+90964,Arthritis
+39251,Kidney Disease
+3794,Asthma
+6028,Hypothyroidism
+42516,COPD
+7355,Anemia
+38452,Asthma
+46984,Hypertension
+49131,Diabetes
+56450,Asthma
+19080,Stroke
+32007,COPD
+69621,Heart Disease
+54008,Osteoporosis
+89364,Anemia
+23600,Heart Disease
+22280,Hypothyroidism
+22946,COPD
+10350,Epilepsy
+79887,Hypertension
+81226,Epilepsy
+89539,Osteoporosis
+31566,COPD
+65230,Osteoporosis
+76435,Depression
+18758,COPD
+30433,Cancer
+60443,Cancer
+83611,Epilepsy
+33289,Epilepsy
+60236,Hypertension
+33466,Heart Disease
+87404,Diabetes
+1231,Hypothyroidism
+60981,Depression
+37700,Osteoporosis
+88815,Obesity
+71643,Heart Disease
+20706,COPD
+9681,Diabetes
+57898,Hypertension
+45293,Arthritis
+77014,Kidney Disease
+39210,Anemia
+83746,Anemia
+55615,Heart Disease
+90480,Heart Disease
+32780,Diabetes
+59878,Stroke
+39599,Kidney Disease
+26111,Anemia
+50422,COPD
+63335,Heart Disease
+13979,Diabetes
+31091,Stroke
+49986,Stroke
+74963,Asthma
+47049,Epilepsy
+75341,Cancer
+38780,Kidney Disease
+91655,Epilepsy
+38696,Hypothyroidism
+2875,COPD
+86275,Asthma
+51879,Heart Disease
+35976,Depression
+1061,Kidney Disease
+89889,Anemia
+97605,Epilepsy
+6428,Hypertension
+79482,Epilepsy
+97671,Obesity
+65107,Depression
+37512,Obesity
+30162,Obesity
+79569,Kidney Disease
+46179,Hypertension
+28705,Anemia
+83442,Asthma
+24920,Obesity
+81381,Depression
+32850,Osteoporosis
+88835,Epilepsy
+99035,COPD
+94493,Kidney Disease
+86400,Depression
+89241,Anemia
+17927,Stroke
+82345,Cancer
+12735,Diabetes
+82242,Epilepsy
+84717,Hypertension
+5167,Obesity
+40492,COPD
+57779,Obesity
+4373,Hypertension
+75965,Stroke
+47823,Depression
+95991,Anemia
+17224,Cancer
+11813,Anemia
+38680,Diabetes
+42823,Kidney Disease
+97973,Anemia
+54460,Cancer
+23021,Epilepsy
+26318,Depression
+17322,Diabetes
+70701,Arthritis
+47953,Cancer
+69579,Obesity
+65771,Heart Disease
+35720,Stroke
+21567,Epilepsy
+33681,Kidney Disease
+63156,Epilepsy
+38684,Stroke
+97853,Diabetes
+44396,Arthritis
+15095,COPD
+61385,Cancer
+9869,Asthma
+18449,Hypothyroidism
+98848,COPD
+29571,Epilepsy
+88647,Hypothyroidism
+94924,Osteoporosis
+88395,Epilepsy
+52089,Hypertension
+73048,Diabetes
+47942,Kidney Disease
+11836,Heart Disease
+51717,Stroke
+1824,Arthritis
+34663,Osteoporosis
+70329,Asthma
+16199,COPD
+59609,Cancer
+48311,Diabetes
+88188,Cancer
+98174,Depression
+88125,Hypertension
+34362,Arthritis
+76619,Anemia
+49941,Hypothyroidism
+83695,Hypertension
+48689,Epilepsy
+14201,Hypertension
+88452,Kidney Disease
+30647,Anemia
+61797,Asthma
+3280,Epilepsy
+81205,Hypothyroidism
+73584,Osteoporosis
+42992,COPD
+79964,Cancer
+29015,Osteoporosis
+84889,COPD
+8285,Depression
+83283,Anemia
+60852,Epilepsy
+91891,Epilepsy
+39608,Arthritis
+85097,Epilepsy
+53516,Cancer
+15292,Asthma
+18320,Depression
+5943,Arthritis
+4877,Hypothyroidism
+39893,Heart Disease
+64569,Cancer
+15220,Osteoporosis
+12739,Hypothyroidism
+30775,Asthma
+70457,Anemia
+17781,Hypertension
+50940,COPD
+59459,Stroke
+48629,Stroke
+87881,Anemia
+97404,Depression
+91289,Obesity
+70804,Hypothyroidism
+54935,Stroke
+76983,Cancer
+97290,COPD
+95236,Anemia
+20253,Diabetes
+54379,COPD
+85841,Osteoporosis
+12978,COPD
+64139,Anemia
+80694,Heart Disease
+53492,Heart Disease
+36666,Kidney Disease
+4288,Epilepsy
+90476,Anemia
+48566,Asthma
+28477,Epilepsy
+58115,Cancer
+58287,Epilepsy
+30947,Obesity
+47537,Obesity
+13022,Cancer
+89873,Stroke
+48147,Cancer
+71364,Depression
+84518,Epilepsy
+47012,Hypothyroidism
+7936,Obesity
+52184,Anemia
+36160,Arthritis
+24878,Osteoporosis
+16011,Arthritis
+59600,Heart Disease
+12015,Depression
+86870,Arthritis
+27801,Anemia
+84109,Stroke
+83819,Depression
+78269,Diabetes
+2799,Obesity
+6629,Osteoporosis
+43713,Epilepsy
+31925,Osteoporosis
+16505,Hypothyroidism
+74000,Stroke
+26896,Depression
+8992,Depression
+72641,Kidney Disease
+27152,Stroke
+76858,Anemia
+28305,Kidney Disease
+30539,Asthma
+43064,Epilepsy
+19340,Diabetes
+78116,Asthma
+371,Cancer
+36342,Heart Disease
+18964,Obesity
+17038,Anemia
+70807,Hypertension
+32853,Anemia
+22871,Anemia
+14408,Epilepsy
+86646,Hypertension
+3379,Cancer
+17275,Hypothyroidism
+1947,Epilepsy
+46955,Diabetes
+31186,Osteoporosis
+77182,Asthma
+42437,Depression
+2068,Anemia
+22838,Kidney Disease
+34782,Asthma
+6868,Hypertension
+16614,Epilepsy
+97218,Stroke
+55176,COPD
+68955,Obesity
+14896,Heart Disease
+97735,Osteoporosis
+8330,Depression
+62422,Kidney Disease
+58756,Hypertension
+47453,Anemia
+67271,Obesity
+77812,Anemia
+14293,Kidney Disease
+59245,Anemia
+66039,Cancer
+29038,Depression
+80623,Obesity
+5683,Kidney Disease
+95321,Osteoporosis
+86363,Hypothyroidism
+68347,Stroke
+39535,Epilepsy
+60036,Anemia
+84323,Cancer
+4082,Diabetes
+7972,Heart Disease
+62781,Hypertension
+52640,Arthritis
+55872,Kidney Disease
+89928,Kidney Disease
+14150,Hypothyroidism
+64260,COPD
+93375,Arthritis
+58138,Osteoporosis
+9632,Hypertension
+10589,Depression
+42219,Hypertension
+79730,Stroke
+19442,Kidney Disease
+8609,Osteoporosis
+16540,Anemia
+36046,Hypertension
+81830,Epilepsy
+82978,Asthma
+76724,Osteoporosis
+71874,COPD
+93343,Hypothyroidism
+42622,Diabetes
+49925,Diabetes
+78301,Obesity
+69541,Stroke
+38652,Diabetes
+59469,COPD
+66263,Obesity
+79354,Obesity
+56387,Depression
+12999,Asthma
+91983,Arthritis
+14996,Cancer
+85814,Depression
+85316,Heart Disease
+72264,Kidney Disease
+94481,Stroke
+28183,Asthma
+56370,Asthma
+59186,Asthma
+29949,Hypertension
+54239,Heart Disease
+44424,Anemia
+59441,Depression
+52262,Heart Disease
+54524,Kidney Disease
+95631,Arthritis
+12463,Epilepsy
+40966,Hypothyroidism
+55936,Heart Disease
+40963,Asthma
+87177,Arthritis
+33408,Epilepsy
+49060,Kidney Disease
+20006,COPD
+90023,Epilepsy
+62163,COPD
+8799,Kidney Disease
+11957,Diabetes
+11188,Hypothyroidism
+12219,Stroke
+56606,Epilepsy
+12656,Hypothyroidism
+97594,COPD
+96835,Kidney Disease
+48843,Cancer
+17054,Asthma
+72924,Hypertension
+7861,Epilepsy
+76869,Obesity
+73608,Heart Disease
+73620,COPD
+43207,Kidney Disease
+87819,Depression
+16021,Osteoporosis
+53845,COPD
+46346,Epilepsy
+87207,Anemia
+98341,COPD
+55435,Arthritis
+94510,Depression
+6743,Anemia
+78696,Epilepsy
+40953,Hypertension
+46090,Arthritis
+13579,Depression
+75748,Heart Disease
+66507,Obesity
+27884,Heart Disease
+20280,COPD
+86079,Osteoporosis
+63201,COPD
+29392,Diabetes
+14184,Anemia
+45890,Kidney Disease
+72910,Depression
+48176,COPD
+15058,Diabetes
+99956,Heart Disease
+36512,Anemia
+75248,Kidney Disease
+29643,Stroke
+56244,Osteoporosis
+73526,Diabetes
+81490,Hypothyroidism
+80422,Heart Disease
+88470,Osteoporosis
+84239,Epilepsy
+72972,Anemia
+3441,Hypothyroidism
+79822,Hypothyroidism
+86223,COPD
+90894,Stroke
+35054,Stroke
+23647,Arthritis
+35818,Heart Disease
+92104,Stroke
+99930,Obesity
+40499,Arthritis
+44541,Kidney Disease
+46009,Arthritis
+800,Heart Disease
+23777,COPD
+18776,Kidney Disease
+74228,Stroke
+86159,Osteoporosis
+52531,Stroke
+9120,Kidney Disease
+18595,Kidney Disease
+97120,Anemia
+82991,Asthma
+4018,Kidney Disease
+12026,Hypertension
+97794,Hypothyroidism
+69531,Kidney Disease
+28197,Kidney Disease
+49308,Diabetes
+55028,COPD
+59460,Stroke
+44681,Epilepsy
+20631,Diabetes
+48503,Heart Disease
+40846,Obesity
+94581,Osteoporosis
+42517,Asthma
+74395,Hypertension
+78148,Hypothyroidism
+11135,COPD
+6895,Obesity
+20392,Osteoporosis
+20632,Depression
+98885,Asthma
+80981,Arthritis
+6522,Asthma
+88338,Stroke
+10693,Cancer
+35665,Hypothyroidism
+58079,Obesity
+86761,Cancer
+55576,Cancer
+63656,Hypothyroidism
+79570,COPD
+54287,Anemia
+35804,Asthma
+28255,COPD
+98951,Hypothyroidism
+67154,Anemia
+14918,Epilepsy
+45242,Stroke
+56349,COPD
+14534,Osteoporosis
+37125,Anemia
+88895,Obesity
+88930,Stroke
+77743,Hypertension
+63783,Epilepsy
+69066,Hypertension
+87442,Asthma
+40425,Stroke
+5952,Arthritis
+28903,Anemia
+51807,Kidney Disease
+78554,Osteoporosis
+7180,Kidney Disease
+1007,Depression
+26794,Anemia
+39507,Stroke
+27686,Cancer
+17987,Obesity
+33491,Hypertension
+37938,Stroke
+43007,Depression
+15726,Diabetes
+1013,COPD
+65193,Cancer
+56446,Hypertension
+23028,Epilepsy
+16932,Obesity
+49834,Kidney Disease
+69806,Osteoporosis
+92231,Kidney Disease
+65570,COPD
+73233,Heart Disease
+87562,Depression
+46421,Anemia
+9447,Kidney Disease
+52044,Obesity
+97260,Hypertension
+5544,Kidney Disease
+57176,Arthritis
+2456,Epilepsy
+60260,Diabetes
+10205,Heart Disease
+41033,Hypothyroidism
+75465,Cancer
+56267,Obesity
+75156,Hypothyroidism
+53008,Heart Disease
+92995,Arthritis
+83904,Kidney Disease
+54747,Hypertension
+37947,Kidney Disease
+15096,Anemia
+53088,Epilepsy
+2733,Hypothyroidism
+42568,Osteoporosis
+22527,COPD
+81018,Kidney Disease
+60305,Depression
+90388,Hypertension
+47428,Asthma
+11551,Diabetes
+57240,Diabetes
+13875,COPD
+31891,Epilepsy
+57104,Hypertension
+77184,Hypertension
+52487,Arthritis
+68676,Hypothyroidism
+10308,Cancer
+51873,Asthma
+40668,Depression
+97754,Epilepsy
+44500,Obesity
+29041,Kidney Disease
+43655,Osteoporosis
+22037,Osteoporosis
+10011,Cancer
+66910,Depression
+82998,Heart Disease
+14945,Osteoporosis
+69547,Osteoporosis
+66840,Asthma
+25415,Hypothyroidism
+45793,Depression
+46019,Kidney Disease
+95339,Hypertension
+84599,Anemia
+19358,Epilepsy
+30968,Heart Disease
+13474,Depression
+19194,COPD
+33550,Diabetes
+25856,Osteoporosis
+22740,Obesity
+78957,Arthritis
+20036,Epilepsy
+99642,Epilepsy
+99503,Arthritis
+85918,Anemia
+9876,Obesity
+23218,Hypertension
+82306,Kidney Disease
+64764,Obesity
+60811,Cancer
+98886,Hypothyroidism
+73889,Kidney Disease
+99598,Obesity
+75952,Diabetes
+58838,Depression
+89277,COPD
+73989,Arthritis
+84278,Hypertension
+83269,Anemia
+81857,Anemia
+42363,Epilepsy
+82210,Hypertension
+41436,Kidney Disease
+19786,Arthritis
+57640,Kidney Disease
+8950,Kidney Disease
+61462,Heart Disease
+57961,Diabetes
+82756,Diabetes
+39691,Stroke
+36002,Obesity
+77518,Arthritis
+7362,Asthma
+46129,Stroke
+66497,Heart Disease
+9724,Arthritis
+40685,Hypertension
+60521,Anemia
+59233,Stroke
+4929,Cancer
+7456,Arthritis
+48331,Heart Disease
+37627,Arthritis
+10057,Anemia
+84497,Anemia
+11835,Arthritis
+80610,Obesity
+77867,Stroke
+66462,Asthma
+50394,Stroke
+60648,Hypothyroidism
+76064,Heart Disease
+72655,Diabetes
+96851,COPD
+5376,Anemia
+58947,Asthma
+74928,Asthma
+85437,Cancer
+24672,COPD
+42143,Stroke
+79299,Asthma
+62341,Hypertension
+65715,Kidney Disease
+19773,Anemia
+8109,Diabetes
+59050,Asthma
+13566,Diabetes
+45015,Obesity
+93626,Stroke
+11053,Stroke
+66132,Arthritis
+84689,Heart Disease
+22617,Obesity
+5130,Diabetes
+32472,Asthma
+92749,COPD
+57595,Diabetes
+68690,Asthma
+68517,Osteoporosis
+79928,Depression
+20807,Cancer
+47696,Hypertension
+48870,Osteoporosis
+37079,Hypertension
+50779,Epilepsy
+53578,Epilepsy
+44350,Stroke
+88984,Obesity
+78366,Cancer
+6863,Heart Disease
+82691,Hypertension
+84843,Epilepsy
+43863,Cancer
+8639,Arthritis
+43213,Heart Disease
+12387,Diabetes
+73133,Osteoporosis
+88916,Stroke
+50667,Hypothyroidism
+37243,Anemia
+33029,Kidney Disease
+94861,Cancer
+86057,COPD
+78997,Epilepsy
+19709,Kidney Disease
+43694,Diabetes
+10682,Diabetes
+76380,Epilepsy
+86980,Anemia
+18537,Depression
+45851,Depression
+40662,Kidney Disease
+91551,Hypertension
+86787,Epilepsy
+51374,Osteoporosis
+16901,Hypothyroidism
+92908,Epilepsy
+11104,Hypertension
+40577,Hypothyroidism
+49372,Hypertension
+84343,Obesity
+43054,Heart Disease
+16750,Asthma
+87833,Hypertension
+92121,Asthma
+96832,COPD
+89838,Heart Disease
+68995,Kidney Disease
+12249,Heart Disease
+84675,Cancer
+87878,Osteoporosis
+55496,Obesity
+66648,Depression
+47425,Heart Disease
+2389,Cancer
+47526,COPD
+40483,Epilepsy
+23627,Cancer
+28074,Heart Disease
+44791,Depression
+63736,Hypertension
+25166,Stroke
+29693,Osteoporosis
+18030,Hypertension
+20308,Anemia
+10114,Kidney Disease
+38770,Kidney Disease
+13256,Hypothyroidism
+66543,Stroke
+70748,Cancer
+96815,Osteoporosis
+69013,Anemia
+4947,Arthritis
+86760,Depression
+44140,Epilepsy
+81006,Hypothyroidism
+17176,Arthritis
+78282,Depression
+49377,Obesity
+20218,Anemia
+21266,Epilepsy
+23703,Depression
+90812,Depression
+81885,Osteoporosis
+21697,Hypertension
+94526,Obesity
+57366,Depression
+5726,Obesity
+53852,Kidney Disease
+47749,COPD
+88652,Obesity
+94317,Asthma
+31133,Kidney Disease
+58222,Hypothyroidism
+80031,Epilepsy
+37346,Hypertension
+98617,Hypertension
+98112,Anemia
+58841,Hypertension
+30671,Hypertension
+69993,Depression
+31348,Hypertension
+40562,Osteoporosis
+61474,Osteoporosis
+25430,Obesity
+48213,Stroke
+88907,Asthma
+74766,Cancer
+57749,Diabetes
+60513,Heart Disease
+36932,Cancer
+50052,Cancer
+65916,Obesity
+69135,Kidney Disease
+54874,Hypertension
+21241,Depression
+26174,Obesity
+79254,Anemia
+18140,Kidney Disease
+32768,Stroke
+6839,Depression
+84040,Anemia
+62991,Hypothyroidism
+48655,Osteoporosis
+72684,Diabetes
+93244,COPD
+67621,Heart Disease
+16341,COPD
+37363,Obesity
+10993,Hypertension
+21012,Heart Disease
+35755,Cancer
+58893,Arthritis
+67286,Asthma
+57340,Kidney Disease
+12021,Epilepsy
+29102,Arthritis
+59130,Anemia
+45820,Hypertension
+3495,Obesity
+54381,Anemia
+6980,Cancer
+51964,Obesity
+65799,Hypertension
+49015,Stroke
+30903,COPD
+50615,Heart Disease
+10696,Arthritis
+49140,Stroke
+29430,Depression
+3694,Anemia
+41770,Cancer
+12987,Stroke
+93677,Anemia
+85191,Heart Disease
+43947,Heart Disease
+19142,Kidney Disease
+18035,Kidney Disease
+5020,Cancer
+37601,Diabetes
+61925,Heart Disease
+91235,Hypothyroidism
+18191,Kidney Disease
+99462,Anemia
+92476,Osteoporosis
+61487,COPD
+58799,Diabetes
+80654,Asthma
+688,COPD
+10384,Osteoporosis
+2490,Stroke
+33544,COPD
+28266,Hypothyroidism
+19597,Obesity
+71932,Obesity
+95320,Diabetes
+79807,Asthma
+69176,Anemia
+55476,Asthma
+14573,Heart Disease
+31147,Kidney Disease
+39472,Depression
+15970,Hypertension
+6258,Asthma
+31252,Osteoporosis
+55027,Kidney Disease
+81633,Diabetes
+59914,Hypertension
+8232,Osteoporosis
+14530,Cancer
+65513,Arthritis
+78215,Depression
+70261,Depression
+2154,Epilepsy
+82831,Obesity
+67551,Asthma
+75372,Obesity
+31711,COPD
+94181,Osteoporosis
+18818,Obesity
+38177,Stroke
+56261,Heart Disease
+205,Heart Disease
+80584,Hypertension
+46244,Hypothyroidism
+31531,Diabetes
+74798,Asthma
+54600,Asthma
+24551,Stroke
+87080,Heart Disease
+87584,Diabetes
+68614,Kidney Disease
+47265,Hypertension
+8870,COPD
+68951,Epilepsy
+71313,Kidney Disease
+66496,Depression
+66535,Epilepsy
+72633,Heart Disease
+2665,Epilepsy
+51177,Depression
+61621,COPD
+5706,Arthritis
+83318,Stroke
+50709,Cancer
+48929,Hypertension
+33246,Obesity
+97952,Depression
+2128,Hypertension
+46805,COPD
+8855,Kidney Disease
+45193,Kidney Disease
+31604,Heart Disease
+96068,Epilepsy
+86127,Cancer
+82346,Kidney Disease
+13587,COPD
+76271,Diabetes
+96362,Arthritis
+99179,Depression
+43583,Heart Disease
+17486,Diabetes
+5811,Diabetes
+46176,Arthritis
+71567,COPD
+44374,Arthritis
+84252,Stroke
+22949,Asthma
+89742,Stroke
+60899,COPD
+91146,COPD
+62722,Obesity
+82802,Hypertension
+23891,Diabetes
+17675,Epilepsy
+8270,Osteoporosis
+93853,Depression
+59988,Asthma
+4847,Asthma
+38462,Depression
+26422,Cancer
+5741,Osteoporosis
+26144,Arthritis
+5492,Cancer
+41365,Cancer
+40642,Anemia
+67552,Kidney Disease
+52196,Stroke
+71176,Obesity
+62049,Hypertension
+33202,Depression
+4799,Anemia
+98735,Osteoporosis
+84790,Diabetes
+25048,Depression
+37501,Diabetes
+46789,Epilepsy
+6265,Hypothyroidism
+85948,Hypertension
+43506,Anemia
+35811,Obesity
+16315,Heart Disease
+48237,Depression
+57272,Heart Disease
+52431,Depression
+97426,Osteoporosis
+57637,Kidney Disease
+50678,Depression
+44438,COPD
+24486,Hypertension
+65038,Depression
+90710,Diabetes
+65211,Obesity
+48148,Asthma
+68062,Stroke
+34959,Heart Disease
+10828,Epilepsy
+95300,Anemia
+55640,Osteoporosis
+10345,Hypothyroidism
+56440,Obesity
+78964,Hypertension
+23652,Depression
+71496,Anemia
+38504,Hypertension
+42101,Arthritis
+13447,Depression
+10494,Heart Disease
+42981,Depression
+86628,Cancer
+38750,Hypertension
+40173,Depression
+58447,Anemia
+78986,COPD
+94065,Osteoporosis
+55851,Obesity
+21842,Arthritis
+90408,Obesity
+58183,Stroke
+46077,Asthma
+58606,Hypertension
+5551,Cancer
+95265,Kidney Disease
+46210,Hypertension
+80589,Cancer
+57008,Cancer
+35986,Arthritis
+83816,Hypothyroidism
+7518,Stroke
+9835,Obesity
+87973,Obesity
+83560,Osteoporosis
+53242,Anemia
+47619,Kidney Disease
+67251,Anemia
+98290,Asthma
+89051,Arthritis
+4081,Hypertension
+18714,Asthma
+79635,COPD
+88878,Arthritis
+57432,Asthma
+4561,Heart Disease
+16545,Asthma
+8812,Stroke
+30932,Stroke
+84562,Kidney Disease
+48015,Hypertension
+47467,Asthma
+50181,Stroke
+74349,Kidney Disease
+4244,Epilepsy
+79310,Epilepsy
+20111,Stroke
+89006,Heart Disease
+58972,Stroke
+48623,Heart Disease
+48760,Epilepsy
+58188,Kidney Disease
+10077,Hypothyroidism
+75225,Hypothyroidism
+18047,Heart Disease
+69397,Kidney Disease
+48096,Kidney Disease
+52171,Heart Disease
+41207,Obesity
+85139,Anemia
+36528,Kidney Disease
+32717,Obesity
+14869,Asthma
+3396,Epilepsy
+96426,Hypertension
+24385,Epilepsy
+65410,Epilepsy
+67861,Kidney Disease
+50723,COPD
+73619,Stroke
+15435,COPD
+34311,Heart Disease
+34116,Diabetes
+92279,Obesity
+58493,Cancer
+28124,Hypertension
+80199,COPD
+37431,Epilepsy
+90961,Epilepsy
+64382,Diabetes
+26237,Diabetes
+16074,Obesity
+17790,Anemia
+9706,COPD
+59250,Hypertension
+22630,Kidney Disease
+93502,Anemia
+58341,Anemia
+11506,Hypertension
+89381,Heart Disease
+41889,Heart Disease
+87535,Cancer
+45537,Depression
+93000,Epilepsy
+8511,Heart Disease
+72089,Cancer
+71063,Stroke
+38058,Osteoporosis
+39315,Hypothyroidism
+20644,Diabetes
+93298,Epilepsy
+93003,Hypothyroidism
+91779,Stroke
+83584,Heart Disease
+22818,Kidney Disease
+47381,Arthritis
+66683,Obesity
+29391,Heart Disease
+15907,Epilepsy
+26342,Cancer
+18202,Asthma
+64752,Diabetes
+3445,Epilepsy
+47303,Hypertension
+72616,Stroke
+75009,Hypothyroidism
+48353,Anemia
+61263,Obesity
+72305,Osteoporosis
+17009,Hypertension
+80209,Cancer
+11300,Kidney Disease
+8617,Asthma
+40539,Diabetes
+52187,Arthritis
+93969,Osteoporosis
+94223,Epilepsy
+62739,Epilepsy
+68903,Cancer
+53843,Cancer
+53665,Heart Disease
+75353,Asthma
+9666,Obesity
+16426,Obesity
+41553,Hypothyroidism
+84192,COPD
+9720,Depression
+58979,Depression
+61057,Stroke
+89143,Obesity
+67811,Kidney Disease
+45156,Heart Disease
+16821,Diabetes
+72260,Stroke
+83859,Kidney Disease
+77042,Kidney Disease
+23850,Obesity
+16912,Hypertension
+56704,Obesity
+65911,Hypertension
+7263,Cancer
+16274,Kidney Disease
+67908,Depression
+20056,COPD
+39862,COPD
+21581,Osteoporosis
+21229,Anemia
+42291,Kidney Disease
+92973,Hypothyroidism
+29552,Heart Disease
+45353,Anemia
+68012,Asthma
+37230,Obesity
+10336,Hypertension
+32847,Heart Disease
+25729,Kidney Disease
+83238,Asthma
+35972,Hypothyroidism
+16406,Obesity
+81922,COPD
+80534,Kidney Disease
+69924,Osteoporosis
+12245,Kidney Disease
+65873,Depression
+84015,Asthma
+22103,Heart Disease
+77569,Osteoporosis
+76106,Hypertension
+20210,COPD
+22439,Cancer
+86341,Depression
+81851,Kidney Disease
+94454,Stroke
+79316,Obesity
+44252,Anemia
+73874,Asthma
+5399,Kidney Disease
+3718,Osteoporosis
+10646,Anemia
+5958,Osteoporosis
+84076,Kidney Disease
+75598,Hypothyroidism
+34688,Cancer
+85344,Hypertension
+27631,Kidney Disease
+74991,Kidney Disease
+54602,Depression
+81016,Cancer
+83753,Obesity
+3969,Diabetes
+65278,Obesity
+82203,COPD
+71509,Asthma
+37967,Arthritis
+84136,Obesity
+39596,Stroke
+63300,Epilepsy
+32096,Arthritis
+89783,Arthritis
+53227,Asthma
+38985,Asthma
+59446,Hypertension
+9564,COPD
+90257,Anemia
+7852,Stroke
+20719,Hypertension
+57619,Cancer
+54476,Stroke
+63471,Cancer
+60875,Anemia
+26741,Osteoporosis
+44589,Hypothyroidism
+18830,Cancer
+40970,Diabetes
+94157,Kidney Disease
+41853,Obesity
+96233,Hypothyroidism
+45268,Stroke
+52260,Heart Disease
+17139,Asthma
+99701,Heart Disease
+48567,Depression
+67499,Asthma
+73616,Asthma
+13917,Asthma
+41827,Anemia
+31685,Osteoporosis
+61141,Stroke
+16059,Heart Disease
+35058,Stroke
+58929,Hypothyroidism
+32495,Asthma
+18465,Osteoporosis
+12689,Epilepsy
+6632,Diabetes
+38038,Depression
+50351,Obesity
+80658,Kidney Disease
+54805,Osteoporosis
+32541,Arthritis
+20932,Epilepsy
+42917,Heart Disease
+75718,COPD
+94519,Stroke
+40988,Osteoporosis
+24881,Stroke
+20885,Epilepsy
+65308,Arthritis
+67466,Cancer
+61186,Arthritis
+65373,COPD
+40441,Stroke
+65191,Stroke
+3037,Epilepsy
+11802,Hypothyroidism
+51543,Anemia
+66249,Arthritis
+59930,Obesity
+31552,Kidney Disease
+28199,Heart Disease
+76460,Epilepsy
+46254,Epilepsy
+6377,Stroke
+6624,COPD
+36877,Stroke
+64866,Depression
+78317,Cancer
+85755,Cancer
+88148,Depression
+61680,Asthma
+37453,Anemia
+70345,Arthritis
+1071,Stroke
+14089,Heart Disease
+56482,Asthma
+17555,Anemia
+95355,COPD
+47943,Diabetes
+52855,Kidney Disease
+47964,Epilepsy
+5930,Anemia
+52505,Obesity
+6705,Cancer
+74747,Hypothyroidism
+73638,Hypertension
+25513,Osteoporosis
+47516,Anemia
+37827,Cancer
+9637,Anemia
+50639,Hypertension
+66093,COPD
+59028,Hypertension
+72070,Stroke
+36663,Asthma
+81689,COPD
+89181,Epilepsy
+80090,Hypothyroidism
+15572,Cancer
+16864,Asthma
+12672,Anemia
+51629,Depression
+48915,Hypertension
+44444,Hypothyroidism
+73116,Arthritis
+47920,Anemia
+98954,Epilepsy
+18909,Hypothyroidism
+26090,Obesity
+78966,Hypothyroidism
+66731,Diabetes
+52610,Depression
+65546,Diabetes
+5938,Depression
+5100,Cancer
+17961,Obesity
+93531,Arthritis
+43652,Depression
+62094,Hypertension
+68069,Obesity
+59898,Arthritis
+19521,Diabetes
+79463,Obesity
+67568,Hypothyroidism
+18321,Hypertension
+42987,Anemia
+80356,Osteoporosis
+41750,Kidney Disease
+51505,Obesity
+80805,Stroke
+96904,Asthma
+39221,Asthma
+77820,Diabetes
+44089,COPD
+66494,Hypothyroidism
+66809,Anemia
+69774,Epilepsy
+64205,Osteoporosis
+92895,Anemia
+73783,Asthma
+39294,Stroke
+62245,Osteoporosis
+2180,Epilepsy
+48281,Epilepsy
+43416,Heart Disease
+88317,Diabetes
+14366,Hypothyroidism
+54596,Hypertension
+76507,Diabetes
+40327,COPD
+95069,Arthritis
+90183,Anemia
+82478,Asthma
+3492,Cancer
+78238,Osteoporosis
+62205,Heart Disease
+34803,Cancer
+85929,Depression
+75821,Hypertension
+75711,Stroke
+29824,COPD
+94555,Arthritis
+6731,COPD
+76483,Hypertension
+62973,Diabetes
+22349,Arthritis
+68712,Depression
+82447,Kidney Disease
+81230,Stroke
+49832,Heart Disease
+19369,Epilepsy
+89224,Hypertension
+31745,Hypertension
+4138,Anemia
+75047,Hypothyroidism
+91818,Epilepsy
+14404,Heart Disease
+25006,Cancer
+2482,Diabetes
+57807,Kidney Disease
+41116,Cancer
+54890,Heart Disease
+19848,Arthritis
+54127,Osteoporosis
+90505,Asthma
+26724,COPD
+53788,Depression
+65774,Diabetes
+80147,Heart Disease
+61814,Obesity
+96447,Arthritis
+95342,Heart Disease
+8163,Depression
+92507,Asthma
+18098,Kidney Disease
+67984,Kidney Disease
+27176,Hypertension
+73516,Cancer
+42604,Obesity
+86799,Hypertension
+62701,Cancer
+68875,Cancer
+49391,Cancer
+41124,Stroke
+22699,Cancer
+60249,Cancer
+69878,Diabetes
+44869,Depression
+71601,Anemia
+46437,Epilepsy
+88587,Diabetes
+89226,Kidney Disease
+84319,Depression
+90873,Obesity
+34650,COPD
+79963,Osteoporosis
+63462,Diabetes
+25200,Obesity
+32311,Stroke
+36569,Hypertension
+73149,Obesity
+39124,Arthritis
+29473,Osteoporosis
+39008,Kidney Disease
+37880,Kidney Disease
+92392,Hypertension
+27168,Stroke
+90471,Heart Disease
+92404,Osteoporosis
+64094,Stroke
+41555,Obesity
+62888,Asthma
+45718,Diabetes
+73464,Obesity
+94589,Cancer
+35842,Obesity
+37721,Anemia
+15974,Kidney Disease
+75166,Asthma
+88686,Anemia
+71197,Stroke
+49767,Kidney Disease
+51712,Epilepsy
+45237,Osteoporosis
+19198,Epilepsy
+38070,Kidney Disease
+5513,Asthma
+93603,Stroke
+10358,Asthma
+45398,Hypertension
+57983,Osteoporosis
+85979,Stroke
+33612,Epilepsy
+97955,Diabetes
+62793,COPD
+28047,Arthritis
+26485,Diabetes
+35537,Stroke
+73664,Arthritis
+91248,Hypothyroidism
+35601,Diabetes
+17992,Obesity
+14316,Hypothyroidism
+80698,COPD
+97110,Cancer
+76917,Depression
+31363,Anemia
+31779,Cancer
+6653,Epilepsy
+87796,COPD
+69604,Diabetes
+29579,Stroke
+83616,Kidney Disease
+30518,Arthritis
+6880,COPD
+13133,Obesity
+54172,Anemia
+43292,Stroke
+94025,Diabetes
+61918,Anemia
+13178,Kidney Disease
+89285,Obesity
+18018,COPD
+679,Hypertension
+72135,Stroke
+20701,Obesity
+53334,Depression
+85575,Hypothyroidism
+62350,Depression
+62580,Osteoporosis
+85267,Epilepsy
+26143,Hypothyroidism
+99078,Depression
+37649,Obesity
+42096,Asthma
+37409,Epilepsy
+7754,Osteoporosis
+11725,Epilepsy
+85498,Obesity
+75252,Hypothyroidism
+30437,Stroke
+70143,Cancer
+96821,COPD
+94780,Stroke
+4888,Hypertension
+54773,Osteoporosis
+23040,Depression
+4763,Hypertension
+52034,Depression
+64930,Heart Disease
+24420,Anemia
+98173,Asthma
+37941,Cancer
+4910,COPD
+1214,Obesity
+39110,Hypertension
+74443,Hypertension
+79007,Obesity
+14064,Kidney Disease
+43914,COPD
+37298,COPD
+59552,Epilepsy
+84058,Heart Disease
+71211,Osteoporosis
+68723,Depression
+64738,Asthma
+17589,Osteoporosis
+66088,Epilepsy
+61344,Obesity
+35761,Epilepsy
+25272,Diabetes
+14764,Osteoporosis
+43343,Anemia
+21298,Hypothyroidism
+95829,Obesity
+60150,Heart Disease
+84972,Depression
+33720,COPD
+94188,Kidney Disease
+24405,Stroke
+1846,Diabetes
+96549,Hypertension
+44185,Kidney Disease
+38669,Kidney Disease
+74420,Depression
+99258,Obesity
+25318,Cancer
+23002,Stroke
+80079,Osteoporosis
+83719,Kidney Disease
+53148,Asthma
+56059,Diabetes
+67538,Asthma
+42982,Anemia
+11368,Heart Disease
+52538,Kidney Disease
+87720,Stroke
+12502,Epilepsy
+24219,Diabetes
+18430,Asthma
+42415,Hypertension
+32512,Arthritis
+895,Stroke
+34181,Kidney Disease
+50275,Obesity
+30870,Obesity
+58554,Depression
+98796,Heart Disease
+34995,Diabetes
+43204,Heart Disease
+39576,Asthma
+76344,Kidney Disease
+94749,Epilepsy
+75088,Obesity
+1498,Obesity
+34282,Epilepsy
+85679,Stroke
+47127,Hypertension
+90802,Heart Disease
+30972,Asthma
+8142,Cancer
+87528,Obesity
+15495,Depression
+61000,Obesity
+40213,Kidney Disease
+20934,COPD
+53138,Arthritis
+89925,Hypertension
+65866,Diabetes
+92216,Osteoporosis
+40760,Asthma
+90477,Epilepsy
+15389,Cancer
+83717,Depression
+38671,Hypothyroidism
+48174,Cancer
+80560,Hypertension
+28947,COPD
+28721,Stroke
+17507,COPD
+62676,Osteoporosis
+20078,Epilepsy
+59634,Arthritis
+98007,Heart Disease
+79395,COPD
+48971,Osteoporosis
+54505,Hypothyroidism
+92004,Epilepsy
+71989,Arthritis
+61712,Hypertension
+99267,Asthma
+70453,Anemia
+87044,Hypertension
+28627,Epilepsy
+99858,Asthma
+32435,Hypothyroidism
+89173,Osteoporosis
+98925,Epilepsy
+78094,Hypertension
+10730,Stroke
+68879,Kidney Disease
+58556,Anemia
+69228,Obesity
+92244,Kidney Disease
+10237,Obesity
+73946,Osteoporosis
+14707,Hypertension
+8094,Cancer
+71781,Cancer
+66255,COPD
+26497,Hypothyroidism
+75065,COPD
+70341,Anemia
+19641,Asthma
+21566,Osteoporosis
+68202,Osteoporosis
+15235,Hypothyroidism
+89167,Osteoporosis
+26922,Kidney Disease
+93967,Asthma
+76434,Stroke
+64071,Obesity
+11919,Cancer
+66895,Arthritis
+58390,Hypertension
+7292,Arthritis
+59432,Stroke
+17294,Asthma
+67272,Arthritis
+54450,Stroke
+59873,Epilepsy
+73912,Diabetes
+7567,Obesity
+73242,Cancer
+60604,Heart Disease
+88181,Obesity
+40392,Epilepsy
+94801,Stroke
+2853,Cancer
+51897,Asthma
+33352,Heart Disease
+395,Hypothyroidism
+28560,Hypertension
+75800,Hypertension
+9572,COPD
+5936,Depression
+55534,Osteoporosis
+45158,Osteoporosis
+91800,Epilepsy
+8357,Cancer
+70931,Depression
+7897,Stroke
+9046,Depression
+61875,Anemia
+4159,Heart Disease
+37629,Hypertension
+53591,Asthma
+23590,Obesity
+17750,Kidney Disease
+84085,Hypertension
+95589,Epilepsy
+84656,Epilepsy
+55097,Kidney Disease
+49081,Cancer
+50132,Obesity
+58790,Asthma
+49479,Hypothyroidism
+49236,Anemia
+10518,Stroke
+89486,Cancer
+86742,Kidney Disease
+70687,Heart Disease
+17431,Asthma
+85660,Stroke
+45582,Asthma
+15549,Depression
+23392,Cancer
+70419,Hypothyroidism
+51518,Anemia
+69316,Diabetes
+16691,Anemia
+95401,Hypertension
+29188,Cancer
+455,Asthma
+99113,COPD
+2979,Asthma
+39107,Asthma
+60686,Obesity
+88276,Hypothyroidism
+94253,Osteoporosis
+71361,Arthritis
+55591,Obesity
+69721,Cancer
+49712,Hypothyroidism
+30102,COPD
+32441,Anemia
+60375,Hypertension
+45371,COPD
+20332,Arthritis
+36129,Kidney Disease
+24704,Cancer
+95030,COPD
+14790,Asthma
+4222,Kidney Disease
+86533,COPD
+54950,Heart Disease
+80599,Cancer
+2050,Hypertension
+31544,Cancer
+27011,Kidney Disease
+8819,Asthma
+13224,Heart Disease
+77849,Heart Disease
+4400,Asthma
+58515,Asthma
+78352,Kidney Disease
+88083,Heart Disease
+92181,Osteoporosis
+6380,Hypothyroidism
+32077,Heart Disease
+97064,Obesity
+5798,Anemia
+52725,Hypothyroidism
+57535,Heart Disease
+30715,Diabetes
+70747,Anemia
+98878,Anemia
+7398,Diabetes
+18367,Hypertension
+66046,Diabetes
+37914,Kidney Disease
+30692,Stroke
+95881,Heart Disease
+75511,COPD
+41799,Kidney Disease
+75690,Arthritis
+78370,Stroke
+88150,Heart Disease
+42030,Depression
+31051,Heart Disease
+39552,Kidney Disease
+18777,Diabetes
+86535,Epilepsy
+68321,Hypothyroidism
+28972,Kidney Disease
+54206,Cancer
+39387,COPD
+36064,Kidney Disease
+72970,COPD
+77550,Epilepsy
+96365,Arthritis
+22955,Stroke
+82050,Stroke
+88965,Kidney Disease
+55994,Depression
+72856,COPD
+64962,Epilepsy
+6145,Hypertension
+45143,Osteoporosis
+84320,Diabetes
+87994,Asthma
+49958,Epilepsy
+68742,Depression
+41777,Epilepsy
+91266,Epilepsy
+54568,Arthritis
+53511,Obesity
+19558,Heart Disease
+39306,Asthma
+49343,Obesity
+24101,Anemia
+98882,Osteoporosis
+70507,Obesity
+62065,Osteoporosis
+31584,Anemia
+29536,Obesity
+39418,Depression
+92743,Asthma
+18920,Stroke
+60689,Obesity
+7552,Cancer
+73713,Cancer
+54090,Hypertension
+54592,Obesity
+73044,Arthritis
+69467,Epilepsy
+17575,Hypertension
+50910,COPD
+31831,Epilepsy
+33422,Arthritis
+26651,Asthma
+43288,Hypertension
+84765,Diabetes
+10363,COPD
+58954,Depression
+48637,Anemia
+12119,Heart Disease
+70206,Depression
+24966,Arthritis
+6755,Anemia
+35187,Hypothyroidism
+49436,Asthma
+88299,Anemia
+79294,Obesity
+79026,Hypothyroidism
+5183,Heart Disease
+9539,Osteoporosis
+24662,Obesity
+99837,Arthritis
+77015,Stroke
+94936,Asthma
+88008,Epilepsy
+73249,Cancer
+28444,Epilepsy
+62835,Epilepsy
+27379,Hypothyroidism
+43642,COPD
+39739,Epilepsy
+2009,Diabetes
+27762,Hypertension
+24906,Depression
+97186,Cancer
+15376,Epilepsy
+97894,Arthritis
+98871,Arthritis
+62773,Heart Disease
+31797,Obesity
+91177,Diabetes
+79220,Diabetes
+26805,COPD
+51987,Epilepsy
+31369,Heart Disease
+72362,Hypothyroidism
+42154,Anemia
+37101,Kidney Disease
+49894,Kidney Disease
+61112,Epilepsy
+69946,COPD
+85029,Cancer
+47088,Diabetes
+34283,Anemia
+47139,Hypertension
+67215,Depression
+65179,Asthma
+61080,Hypothyroidism
+12924,COPD
+94688,Osteoporosis
+99828,Obesity
+41973,Stroke
+26624,Depression
+48589,Obesity
+41015,Diabetes
+54254,Depression
+5992,Diabetes
+73731,Heart Disease
+29002,Cancer
+97157,Arthritis
+19126,Obesity
+2125,Cancer
+34180,COPD
+72523,Hypertension
+76550,Depression
+75909,Cancer
+94373,Epilepsy
+54732,Stroke
+38691,Cancer
+19976,COPD
+25715,Anemia
+43236,Heart Disease
+30149,Kidney Disease
+49786,Heart Disease
+74683,Hypertension
+32208,Asthma
+65444,Hypertension
+72173,Depression
+85800,Obesity
+89764,Stroke
+44245,Obesity
+33728,Cancer
+64044,Obesity
+94838,Stroke
+84108,Asthma
+96940,Arthritis
+64303,Heart Disease
+60401,Cancer
+22050,Depression
+96045,Cancer
+46160,Diabetes
+22185,Diabetes
+18344,Diabetes
+94412,Asthma
+71636,Osteoporosis
+64004,Obesity
+24123,Stroke
+71058,Epilepsy
+84123,Cancer
+7698,Epilepsy
+68674,Asthma
+4433,Heart Disease
+9742,Hypothyroidism
+6358,Cancer
+836,Asthma
+54053,Obesity
+18021,Hypothyroidism
+82667,Heart Disease
+30334,Obesity
+8908,Asthma
+92690,Depression
+19795,Heart Disease
+1198,Osteoporosis
+28668,Anemia
+66287,COPD
+59770,Heart Disease
+48916,Obesity
+7923,Cancer
+80980,Anemia
+83588,Cancer
+87392,Cancer
+80808,Epilepsy
+63334,Osteoporosis
+86413,Heart Disease
+63944,COPD
+2061,Epilepsy
+866,Anemia
+69758,Diabetes
+53914,Obesity
+1553,Obesity
+2192,Kidney Disease
+69391,Hypertension
+94659,Depression
+36010,Heart Disease
+70220,COPD
+37576,Stroke
+2246,Hypothyroidism
+65826,Osteoporosis
+91469,Anemia
+88346,Osteoporosis
+56436,Kidney Disease
+23496,Diabetes
+14026,Heart Disease
+12624,Epilepsy
+68732,COPD
+19516,Kidney Disease
+25156,Stroke
+81235,Stroke
+69003,Heart Disease
+33084,Heart Disease
+46457,Arthritis
+35038,Osteoporosis
+52022,Diabetes
+10357,Heart Disease
+48896,Epilepsy
+53218,Asthma
+60161,Cancer
+74055,Kidney Disease
+31877,Osteoporosis
+91388,Heart Disease
+29603,Stroke
+39318,Anemia
+89658,Depression
+10566,Asthma
+85686,Anemia
+85182,Kidney Disease
+99560,Arthritis
+4152,Diabetes
+12255,Heart Disease
+53120,Osteoporosis
+49710,Hypertension
+72443,Arthritis
+62390,Diabetes
+83459,Epilepsy
+1238,Obesity
+92123,Depression
+22463,Asthma
+10837,Depression
+65517,Osteoporosis
+56873,Arthritis
+84529,Depression
+43420,Cancer
+74167,Stroke
+12499,Heart Disease
+69226,Hypothyroidism
+5577,Epilepsy
+30115,Anemia
+27710,Anemia
+90739,Osteoporosis
+74289,Osteoporosis
+62324,Diabetes
+35532,Osteoporosis
+6102,Asthma
+9744,Cancer
+89709,Arthritis
+36749,Cancer
+73860,Obesity
+86259,Kidney Disease
+4312,Epilepsy
+23508,Cancer
+41220,Depression
+2052,Obesity
+76943,Asthma
+18899,Epilepsy
+98599,Hypothyroidism
+93416,Cancer
+52205,Obesity
+10084,Cancer
+39226,Obesity
+21292,Kidney Disease
+73919,Stroke
+31519,Anemia
+74277,Osteoporosis
+51007,Kidney Disease
+88740,Kidney Disease
+70852,Stroke
+43480,Osteoporosis
+50311,COPD
+99039,Heart Disease
+96959,Epilepsy
+18343,Arthritis
+90349,Arthritis
+94917,COPD
+10279,Cancer
+65639,COPD
+97708,Arthritis
+45332,COPD
+7038,Stroke
+12803,COPD
+57290,Osteoporosis
+30427,Arthritis
+9963,Osteoporosis
+44642,Osteoporosis
+79320,Epilepsy
+80460,Obesity
+78067,Epilepsy
+51996,Obesity
+42778,Cancer
+3883,Hypothyroidism
+83115,Hypothyroidism
+35825,Stroke
+59054,Osteoporosis
+64304,COPD
+29902,COPD
+46636,Hypertension
+72487,Heart Disease
+49207,Kidney Disease
+56603,Cancer
+24345,Depression
+89088,Hypothyroidism
+76791,Depression
+86595,Anemia
+49816,Obesity
+11232,Stroke
+81083,Stroke
+38715,Asthma
+32302,COPD
+93468,Diabetes
+9634,COPD
+10752,Osteoporosis
+35123,Hypertension
+20214,Obesity
+49807,Hypothyroidism
+93280,Epilepsy
+83086,Kidney Disease
+20221,COPD
+96948,Osteoporosis
+51068,Epilepsy
+41507,Arthritis
+47277,Arthritis
+13965,Anemia
+11995,Cancer
+680,COPD
+40405,Hypothyroidism
+58292,Cancer
+47175,Osteoporosis
+99791,COPD
+35358,Asthma
+13399,Hypertension
+17367,Heart Disease
+11442,Osteoporosis
+24561,Heart Disease
+56489,Arthritis
+58830,Arthritis
+73005,Diabetes
+72710,Kidney Disease
+67166,Hypothyroidism
+53483,Cancer
+13538,Arthritis
+3442,Kidney Disease
+11746,Arthritis
+46388,Diabetes
+72642,Hypertension
+12198,Depression
+78240,Obesity
+78386,Osteoporosis
+42523,Epilepsy
+50493,Hypertension
+1617,Kidney Disease
+38253,Stroke
+54238,Asthma
+50829,Diabetes
+11101,Cancer
+95006,Hypothyroidism
+73339,Asthma
+31816,Depression
+74967,Kidney Disease
+68302,Hypothyroidism
+22227,Hypothyroidism
+89825,Hypothyroidism
+49903,Epilepsy
+22216,Epilepsy
+18198,Kidney Disease
+35247,Arthritis
+39469,Stroke
+35180,COPD
+64634,Obesity
+19127,COPD
+8292,Kidney Disease
+21916,Diabetes
+56973,Hypothyroidism
+36170,Stroke
+55194,Hypertension
+39289,Kidney Disease
+63469,Heart Disease
+10082,Arthritis
+47333,Cancer
+32990,Osteoporosis
+32321,Osteoporosis
+94489,Anemia
+81924,Hypothyroidism
+64985,Diabetes
+77831,Hypothyroidism
+80828,Hypothyroidism
+25630,Asthma
+60012,Depression
+14021,Hypothyroidism
+17758,Anemia
+39932,Asthma
+887,Hypothyroidism
+51864,Hypothyroidism
+43544,Diabetes
+81289,Anemia
+49792,Depression
+43193,Stroke
+57700,Epilepsy
+43874,Asthma
+56441,Hypothyroidism
+85332,Osteoporosis
+77908,Anemia
+17842,Hypothyroidism
+39378,COPD
+79064,Hypothyroidism
+91133,Diabetes
+26326,Diabetes
+62784,COPD
+23283,Heart Disease
+52198,Heart Disease
+41830,Hypertension
+38200,Hypothyroidism
+96321,Obesity
+91089,COPD
+82955,Epilepsy
+64357,Kidney Disease
+75481,Cancer
+31775,Cancer
+42714,Epilepsy
+49290,Hypothyroidism
+36739,Asthma
+51502,Anemia
+47843,Cancer
+14927,Epilepsy
+73905,COPD
+26188,Arthritis
+77624,Stroke
+71516,Hypertension
+23583,Obesity
+3527,Asthma
+95317,Osteoporosis
+60505,Epilepsy
+92847,Kidney Disease
+27479,COPD
+57469,Osteoporosis
+38185,Asthma
+90811,Diabetes
+9064,Osteoporosis
+53627,Obesity
+88208,Stroke
+18242,COPD
+83012,Heart Disease
+39692,Kidney Disease
+31722,Stroke
+33119,Arthritis
+86332,Asthma
+20203,Heart Disease
+93747,Anemia
+55460,Kidney Disease
+49412,Hypothyroidism
+9694,Depression
+58860,Anemia
+78372,Depression
+62814,Cancer
+76315,Obesity
+52534,Hypertension
+70040,Depression
+66402,Kidney Disease
+90663,Hypertension
+54827,Asthma
+71256,Asthma
+4818,Epilepsy
+47124,Obesity
+91964,Hypothyroidism
+70373,Arthritis
+77833,Diabetes
+83647,COPD
+11138,Depression
+14335,Arthritis
+32536,Epilepsy
+86193,Stroke
+87122,COPD
+46531,Obesity
+21802,COPD
+84803,Heart Disease
+80304,Osteoporosis
+5806,Heart Disease
+73822,Diabetes
+84545,COPD
+88797,Kidney Disease
+84769,Obesity
+52378,Osteoporosis
+98655,Arthritis
+43463,Diabetes
+56420,Kidney Disease
+13886,Hypertension
+1382,Epilepsy
+33913,COPD
+29098,Asthma
+66935,Depression
+97891,Kidney Disease
+67999,Cancer
+73137,Hypothyroidism
+76089,Hypothyroidism
+90133,Hypothyroidism
+75397,Osteoporosis
+28971,Stroke
+58429,COPD
+49036,Osteoporosis
+51266,Hypertension
+60694,Kidney Disease
+89070,Hypothyroidism
+77147,COPD
+90496,Obesity
+19758,Heart Disease
+45215,Arthritis
+3219,Arthritis
+63277,Asthma
+13703,Epilepsy
+38722,Asthma
+54522,Epilepsy
+11253,Osteoporosis
+15213,Heart Disease
+95702,Obesity
+18569,Depression
+45656,Osteoporosis
+40880,Cancer
+44966,Hypothyroidism
+59681,Epilepsy
+27114,Stroke
+68303,Cancer
+63298,Stroke
+45652,Kidney Disease
+62411,Anemia
+12795,Arthritis
+57431,Stroke
+94633,Arthritis
+91326,Kidney Disease
+59303,Stroke
+41800,Heart Disease
+8804,Anemia
+39356,Stroke
+5856,Hypertension
+93163,Cancer
+15084,Epilepsy
+2960,Cancer
+44967,Osteoporosis
+84930,Obesity
+14334,Hypertension
+88754,Hypothyroidism
+21542,Heart Disease
+97057,Hypertension
+31970,Diabetes
+67632,Anemia
+22865,Cancer
+72339,Hypothyroidism
+20989,Cancer
+43383,Arthritis
+73380,Heart Disease
+55885,Cancer
+60562,Asthma
+30389,Asthma
+53090,Obesity
+82543,Anemia
+24176,Cancer
+24430,Epilepsy
+83948,Hypertension
+86154,Kidney Disease
+56640,Arthritis
+51849,Osteoporosis
+3826,Heart Disease
+96650,Epilepsy
+80492,Hypertension
+25863,Hypothyroidism
+58926,Cancer
+77621,Epilepsy
+56302,Stroke
+50965,Diabetes
+583,Epilepsy
+92371,Asthma
+28153,Cancer
+26972,Depression
+36483,Epilepsy
+98608,Heart Disease
+92243,Diabetes
+8200,Cancer
+13336,Epilepsy
+70371,Kidney Disease
+24505,Stroke
+47945,COPD
+42727,Osteoporosis
+25830,Diabetes
+59972,Depression
+14936,COPD
+34387,Anemia
+87910,Diabetes
+64157,Osteoporosis
+69168,Arthritis
+83769,Heart Disease
+41078,Hypertension
+78246,Diabetes
+50939,Depression
+80125,Obesity
+51451,Osteoporosis
+76939,Hypertension
+14972,Cancer
+45603,Diabetes
+46135,Hypothyroidism
+80918,Hypothyroidism
+22613,Hypertension
+88288,Hypothyroidism
+92535,Epilepsy
+38986,Diabetes
+80541,COPD
+77354,Depression
+11108,Asthma
+88094,Stroke
+17556,Asthma
+41049,Stroke
+15448,Kidney Disease
+31270,Osteoporosis
+15328,Kidney Disease
+23992,Depression
+90890,Obesity
+18528,Hypothyroidism
+66954,Depression
+50916,Epilepsy
+54819,Anemia
+78174,Hypothyroidism
+18070,Hypothyroidism
+75340,Depression
+50293,Depression
+55448,Hypertension
+24347,Kidney Disease
+83296,Kidney Disease
+70435,Anemia
+90889,Cancer
+84575,Asthma
+22706,Kidney Disease
+72733,Anemia
+21871,Obesity
+37858,Hypertension
+18388,Asthma
+24523,Cancer
+41232,Depression
+59113,Cancer
+81187,Asthma
+47059,Osteoporosis
+1256,Arthritis
+63518,Anemia
+17895,Diabetes
+25575,Stroke
+50324,Diabetes
+73607,COPD
+66248,Epilepsy
+85599,Kidney Disease
+64876,Osteoporosis
+53626,Cancer
+89744,Depression
+54477,Cancer
+93079,Depression
+58176,Anemia
+64054,Arthritis
+21922,Arthritis
+10835,Epilepsy
+74107,Obesity
+4044,Asthma
+99753,COPD
+28905,Arthritis
+38284,Hypothyroidism
+4285,Hypothyroidism
+36025,Osteoporosis
+29470,Stroke
+70465,Hypertension
+37836,Diabetes
+22047,Stroke
+59942,Kidney Disease
+74140,Depression
+97323,Heart Disease
+64921,Stroke
+72053,Hypothyroidism
+66952,Hypothyroidism
+14838,Hypothyroidism
+75066,Diabetes
+14969,Arthritis
+35112,Arthritis
+71186,Hypertension
+48085,Hypertension
+71046,Heart Disease
+99193,Diabetes
+5453,Epilepsy
+99615,Heart Disease
+94238,Kidney Disease
+57850,Osteoporosis
+71611,Anemia
+28644,Diabetes
+55725,Arthritis
+13423,Osteoporosis
+96467,Diabetes
+85678,Depression
+98480,Epilepsy
+32444,Arthritis
+39021,Cancer
+4224,Arthritis
+34447,Stroke
+45688,Anemia
+11401,Stroke
+57549,Diabetes
+15386,Asthma
+31056,Cancer
+27509,COPD
+96680,Arthritis
+77060,Anemia
+90326,Hypothyroidism
+45957,Osteoporosis
+93159,Heart Disease
+79988,Obesity
+82938,Heart Disease
+56120,Heart Disease
+21755,Stroke
+80760,Kidney Disease
+18249,Anemia
+27082,Obesity
+27124,Arthritis
+7780,COPD
+74720,Hypothyroidism
+45982,Asthma
+69767,Kidney Disease
+36842,Cancer
+78231,Arthritis
+70617,Depression
+22069,COPD
+42421,COPD
+92281,Diabetes
+38356,Cancer
+37923,Heart Disease
+75069,Hypothyroidism
+35041,Osteoporosis
+67425,Hypothyroidism
+89037,Asthma
+12481,Kidney Disease
+17771,Kidney Disease
+98316,Depression
+53948,Cancer
+7770,Epilepsy
+36349,Diabetes
+85969,Obesity
+16631,Kidney Disease
+91937,Kidney Disease
+17392,Depression
+32725,Stroke
+19168,Cancer
+93243,Obesity
+42217,Osteoporosis
+32447,Depression
+99807,Depression
+88635,Asthma
+51472,COPD
+64154,Depression
+18634,Asthma
+75684,Stroke
+82890,Cancer
+35221,Epilepsy
+82288,Arthritis
+54293,Anemia
+49174,Arthritis
+59243,COPD
+9898,Anemia
+83050,Osteoporosis
+12202,Asthma
+52802,Stroke
+67582,Epilepsy
+98278,Hypothyroidism
+36467,Diabetes
+91056,Cancer
+48374,Depression
+59597,Depression
+63968,Cancer
+42898,Cancer
+76278,Asthma
+324,Depression
+96039,Arthritis
+12208,COPD
+95804,Arthritis
+60089,Obesity
+83209,Kidney Disease
+87050,Hypertension
+91395,Hypothyroidism
+46952,Epilepsy
+8300,Anemia
+70048,Obesity
+52129,Hypertension
+28551,Cancer
+56314,Osteoporosis
+27767,Anemia
+64843,Arthritis
+35197,Diabetes
+42318,COPD
+37171,Depression
+44270,Kidney Disease
+71737,Heart Disease
+75750,Heart Disease
+17117,Diabetes
+74205,Anemia
+63614,Hypertension
+45054,Arthritis
+89463,Stroke
+99910,Stroke
+6345,Heart Disease
+6021,Osteoporosis
+13051,Kidney Disease
+82074,Cancer
+60238,Arthritis
+2134,Epilepsy
+16284,Arthritis
+20707,Anemia
+57840,Hypothyroidism
+59836,Obesity
+88,COPD
+56072,Hypothyroidism
+26518,Diabetes
+90255,Arthritis
+17290,Hypothyroidism
+85196,Arthritis
+39566,Osteoporosis
+20837,Hypertension
+35916,Osteoporosis
+12234,Stroke
+85798,Epilepsy
+47242,Hypothyroidism
+32819,Arthritis
+10803,Osteoporosis
+48738,Heart Disease
+87098,Osteoporosis
+85054,Arthritis
+21695,Depression
+6787,Hypothyroidism
+51949,Arthritis
+81999,Cancer
+40043,Obesity
+95156,Stroke
+91677,COPD
+98989,Depression
+30689,Epilepsy
+56260,Cancer
+85915,Kidney Disease
+11953,Obesity
+92235,COPD
+12475,COPD
+142,Obesity
+27973,Cancer
+62496,Hypothyroidism
+10215,Epilepsy
+17393,Epilepsy
+77814,Hypertension
+29647,Stroke
+68084,Osteoporosis
+89126,Epilepsy
+58335,Stroke
+1217,Anemia
+1056,Obesity
+91173,Hypothyroidism
+45032,Arthritis
+15806,Obesity
+55353,Obesity
+90968,Depression
+17324,Diabetes
+62613,Heart Disease
+9283,Anemia
+30008,Arthritis
+50209,Osteoporosis
+11708,Asthma
+95782,Diabetes
+13425,COPD
+13526,Cancer
+41071,Hypothyroidism
+48177,Heart Disease
+39223,Heart Disease
+17973,Osteoporosis
+50164,Depression
+98717,COPD
+17451,Asthma
+84092,Arthritis
+88753,Obesity
+18724,Arthritis
+8966,Depression
+69534,Heart Disease
+73831,Anemia
+1110,Arthritis
+79995,Epilepsy
+85199,Cancer
+21511,Kidney Disease
+57684,Kidney Disease
+46030,Obesity
+94690,COPD
+27925,Stroke
+82323,Anemia
+98077,Epilepsy
+19840,Osteoporosis
+53963,Kidney Disease
+80750,Osteoporosis
+89989,Epilepsy
+57984,Epilepsy
+28474,Asthma
+11362,Osteoporosis
+13168,Stroke
+18351,Obesity
+98624,Asthma
+16142,Asthma
+77276,Osteoporosis
+95683,Cancer
+50335,Epilepsy
+46076,Asthma
+56280,Hypothyroidism
+41222,Hypothyroidism
+18327,Cancer
+32477,Kidney Disease
+36302,Diabetes
+84491,Cancer
+11042,Diabetes
+72534,Anemia
+78774,Anemia
+78644,Hypertension
+79638,Anemia
+37345,Kidney Disease
+90502,Diabetes
+3515,Stroke
+86298,Diabetes
+39537,Depression
+26928,Asthma
+67862,Anemia
+79551,Kidney Disease
+24726,Arthritis
+98021,Hypertension
+51347,Osteoporosis
+38737,Asthma
+84694,Diabetes
+7152,Arthritis
+31370,Cancer
+64865,Epilepsy
+50578,Obesity
+14777,Diabetes
+31599,Heart Disease
+65481,Kidney Disease
+83634,Kidney Disease
+77847,Hypothyroidism
+9307,Heart Disease
+69243,Hypothyroidism
+1581,Epilepsy
+47329,Kidney Disease
+41480,Epilepsy
+17299,Diabetes
+50703,Diabetes
+74498,Cancer
+55163,Cancer
+47895,Depression
+71612,Diabetes
+89514,Diabetes
+22645,Cancer
+99972,Osteoporosis
+61736,COPD
+9567,Cancer
+2187,COPD
+76986,Diabetes
+8851,Cancer
+1807,Anemia
+34365,Osteoporosis
+28277,Kidney Disease
+5220,Depression
+7925,Stroke
+52163,Hypothyroidism
+37550,Asthma
+82388,Hypertension
+93405,Hypothyroidism
+65673,Hypertension
+54451,Cancer
+91987,Asthma
+52727,Arthritis
+83956,Arthritis
+70328,Heart Disease
+70471,Cancer
+80746,COPD
+20012,Anemia
+36368,Obesity
+10957,COPD
+40620,Stroke
+67017,Depression
+26633,Hypertension
+20365,Obesity
+70305,Depression
+42827,Epilepsy
+51213,Heart Disease
+76865,Arthritis
+83138,Osteoporosis
+89267,Arthritis
+84299,COPD
+8665,Kidney Disease
+40654,Anemia
+91576,Anemia
+57342,Hypertension
+95677,Kidney Disease
+31278,Anemia
+7589,Kidney Disease
+32044,Stroke
+56948,Diabetes
+15202,Hypertension
+59424,Depression
+80254,Depression
+79800,Depression
+7212,Cancer
+87304,Epilepsy
+97215,Diabetes
+86252,Kidney Disease
+97079,Diabetes
+23022,Osteoporosis
+15655,Asthma
+1660,Hypertension
+92785,Epilepsy
+17984,Anemia
+91946,Depression
+1487,Kidney Disease
+21473,Stroke
+65065,Obesity
+45443,Heart Disease
+68551,Anemia
+67793,Hypertension
+94472,Hypothyroidism
+33980,Cancer
+21884,Hypothyroidism
+48741,Diabetes
+16637,Arthritis
+98274,Arthritis
+35227,Hypothyroidism
+96067,Anemia
+15473,Osteoporosis
+3847,Hypothyroidism
+43910,Heart Disease
+56272,Epilepsy
+35649,COPD
+68662,Diabetes
+8371,Hypothyroidism
+34465,Hypertension
+93365,Kidney Disease
+75582,Hypothyroidism
+82251,COPD
+10101,Hypothyroidism
+65031,Cancer
+59663,Heart Disease
+66949,Kidney Disease
+47202,Diabetes
+7266,Asthma
+65484,Hypothyroidism
+74302,Anemia
+21873,Obesity
+48193,Diabetes
+20618,Arthritis
+33438,Heart Disease
+13487,Asthma
+75223,Stroke
+88358,Anemia
+94736,Osteoporosis
+15117,Anemia
+29937,Depression
+97095,Hypothyroidism
+66692,Hypertension
+5772,COPD
+1610,Asthma
+32053,Heart Disease
+6026,Arthritis
+61835,Heart Disease
+47707,Anemia
+50197,Anemia
+19671,Depression
+23456,Kidney Disease
+4635,Hypothyroidism
+72465,Cancer
+93588,Obesity
+85944,Depression
+54967,Stroke
+29427,Osteoporosis
+42179,Asthma
+32540,Stroke
+54559,Osteoporosis
+94409,Osteoporosis
+41934,Hypertension
+35554,Cancer
+10208,Osteoporosis
+74912,Obesity
+48864,Diabetes
+15650,Hypertension
+65803,Depression
+88254,Arthritis
+6903,Anemia
+23507,Hypertension
+29253,Obesity
+67603,Heart Disease
+6019,Stroke
+52550,Heart Disease
+9034,Heart Disease
+60960,Depression
+37002,Stroke
+40723,Obesity
+42899,Diabetes
+11322,Kidney Disease
+72494,COPD
+59866,Stroke
+1044,Epilepsy
+48354,Epilepsy
+26302,Arthritis
+38219,Obesity
+73899,Cancer
+39834,Depression
+96937,Depression
+81620,Asthma
+31795,Kidney Disease
+60807,Heart Disease
+48270,Kidney Disease
+77554,Depression
+64665,Hypertension
+25614,Stroke
+96005,Heart Disease
+71638,COPD
+99677,Stroke
+32129,Arthritis
+19735,Osteoporosis
+835,Hypertension
+53744,Hypertension
+3133,COPD
+70981,Asthma
+45406,Depression
+83354,Osteoporosis
+90893,Stroke
+1257,Kidney Disease
+43911,Asthma
+191,Osteoporosis
+99474,Depression
+49319,Obesity
+96741,Obesity
+13624,Hypertension
+26895,Hypertension
+69443,Diabetes
+31217,COPD
+55026,Epilepsy
+64491,Obesity
+7850,Stroke
+18661,COPD
+93277,Hypertension
+36677,Asthma
+12193,Hypertension
+5754,Asthma
+30339,Depression
+68125,Epilepsy
+54140,Cancer
+91861,Cancer
+48823,Cancer
+60091,Depression
+98028,Hypertension
+11128,Diabetes
+76122,Hypertension
+12527,Obesity
+66247,Cancer
+17499,Hypertension
+83521,Heart Disease
+51688,Heart Disease
+9808,Stroke
+74425,Obesity
+57014,Anemia
+86827,Depression
+17132,Diabetes
+31034,COPD
+38230,Depression
+34208,Depression
+41288,Stroke
+91845,Hypertension
+96384,Osteoporosis
+42762,Hypothyroidism
+41688,Cancer
+59343,Hypothyroidism
+35645,Arthritis
+30619,Heart Disease
+9789,Cancer
+26569,Asthma
+17840,Kidney Disease
+76638,Depression
+14283,Asthma
+20369,Asthma
+13848,COPD
+21544,COPD
+58925,COPD
+61086,Epilepsy
+41160,Asthma
+53282,Hypertension
+15825,Asthma
+70244,Depression
+46961,COPD
+27215,Depression
+40410,COPD
+60731,Epilepsy
+34735,Stroke
+15717,Hypertension
+11851,Obesity
+20658,COPD
+89922,Arthritis
+39874,Osteoporosis
+92367,Kidney Disease
+91341,Epilepsy
+79076,Heart Disease
+5286,Heart Disease
+42964,Arthritis
+19441,Epilepsy
+11955,Hypertension
+93212,Asthma
+32534,COPD
+46627,Diabetes
+51936,Depression
+67300,Obesity
+6416,Anemia
+88759,Heart Disease
+39169,Depression
+34100,Stroke
+22789,Anemia
+4073,Obesity
+53004,Epilepsy
+59270,Obesity
+72869,Depression
+98052,Anemia
+72105,Anemia
+32748,Anemia
+12415,Kidney Disease
+60560,Heart Disease
+13357,Asthma
+18322,COPD
+15919,Obesity
+1567,Heart Disease
+8083,Osteoporosis
+29135,Arthritis
+17133,Epilepsy
+25969,Obesity
+48790,Asthma
+89952,Depression
+82614,Obesity
+84500,COPD
+11015,Osteoporosis
+76326,Osteoporosis
+76823,Kidney Disease
+33924,Epilepsy
+9828,Heart Disease
+2857,Stroke
+8450,Arthritis
+25919,Obesity
+84670,Depression
+58121,COPD
+16880,Anemia
+12055,Stroke
+43456,Depression
+5596,Obesity
+60423,Hypertension
+6637,Hypothyroidism
+22018,Heart Disease
+75220,Arthritis
+56774,Heart Disease
+94952,Cancer
+51773,Asthma
+65028,Kidney Disease
+3864,Stroke
+50165,Cancer
+89550,Diabetes
+55923,Osteoporosis
+22650,Epilepsy
+46392,Osteoporosis
+28143,Arthritis
+24530,Epilepsy
+36042,Stroke
+36681,COPD
+58459,Anemia
+19481,Osteoporosis
+4541,Hypertension
+81156,Anemia
+80868,Anemia
+32215,Stroke
+84840,Stroke
+65390,Depression
+54000,Kidney Disease
+72179,Epilepsy
+62787,Asthma
+7992,Kidney Disease
+11497,COPD
+36670,Arthritis
+50202,COPD
+54949,Kidney Disease
+84233,Asthma
+68919,Osteoporosis
+32656,Depression
+82674,Stroke
+71258,Depression
+2559,Hypertension
+50134,Epilepsy
+47069,Heart Disease
+62873,Epilepsy
+71371,Heart Disease
+63527,Depression
+45093,Cancer
+74141,Cancer
+65849,Hypothyroidism
+42153,Hypothyroidism
+50905,Anemia
+35446,Osteoporosis
+23568,Depression
+3416,Cancer
+41795,Diabetes
+78265,Stroke
+28707,Obesity
+3840,Osteoporosis
+36822,Hypothyroidism
+7679,Stroke
+61824,Cancer
+69393,Heart Disease
+46849,Kidney Disease
+76544,Hypothyroidism
+30508,Hypertension
+20922,Hypertension
+13124,Stroke
+32487,Arthritis
+86096,Kidney Disease
+31608,Kidney Disease
+34934,Obesity
+69951,Asthma
+96607,Kidney Disease
+7328,Heart Disease
+28758,Diabetes
+75457,Heart Disease
+50911,Kidney Disease
+46504,Kidney Disease
+22768,Kidney Disease
+23081,Depression
+31005,Stroke
+77662,Obesity
+41681,Stroke
+96744,Depression
+91439,Hypertension
+47026,Diabetes
+77537,Hypertension
+3697,COPD
+92202,Arthritis
+91823,Cancer
+46095,Osteoporosis
+74403,Cancer
+73873,Cancer
+18625,Heart Disease
+73807,Osteoporosis
+64517,Heart Disease
+71057,Arthritis
+40508,Epilepsy
+23010,Obesity
+64282,Depression
+4975,Epilepsy
+11830,Stroke
+30490,Kidney Disease
+78861,Heart Disease
+28679,Osteoporosis
+2612,Cancer
+69002,Asthma
+62650,Obesity
+89,Diabetes
+43481,Epilepsy
+80495,Hypertension
+26406,COPD
+17103,Depression
+44663,Hypothyroidism
+93970,Hypertension
+23260,Hypertension
+42413,Anemia
+7806,Osteoporosis
+2872,Asthma
+19360,Obesity
+76888,COPD
+92365,Obesity
+18566,Epilepsy
+14538,Stroke
+68982,Arthritis
+47826,Cancer
+9506,Epilepsy
+48967,Obesity
+92345,Epilepsy
+51851,Hypertension
+76810,Epilepsy
+13242,Osteoporosis
+44113,Osteoporosis
+42284,Epilepsy
+17884,Obesity
+95990,Hypertension
+57261,COPD
+83789,Diabetes
+63858,Stroke
+85089,Osteoporosis
+41586,Hypertension
+22833,Diabetes
+92691,Anemia
+73659,Obesity
+90906,Kidney Disease
+80440,Hypertension
+46769,Kidney Disease
+29260,Stroke
+87232,Asthma
+77194,Hypothyroidism
+22983,Osteoporosis
+49595,Arthritis
+40215,Cancer
+96206,Asthma
+90242,Cancer
+38602,Asthma
+23292,Obesity
+95529,Cancer
+235,Depression
+92013,Epilepsy
+75082,Arthritis
+51327,Stroke
+74381,Depression
+23865,Kidney Disease
+78956,Asthma
+41709,Asthma
+80134,Kidney Disease
+28953,Kidney Disease
+83839,Depression
+74127,Depression
+13645,Diabetes
+65035,Osteoporosis
+18434,Heart Disease
+43406,Hypothyroidism
+97693,Arthritis
+10198,Epilepsy
+31194,Heart Disease
+45457,Depression
+41879,Depression
+22005,Diabetes
+83386,Osteoporosis
+11629,Arthritis
+92925,Arthritis
+87821,COPD
+83768,Stroke
+95588,Osteoporosis
+44007,Stroke
+58540,Stroke
+1493,Hypertension
+34761,Heart Disease
+27483,Hypertension
+32707,Stroke
+90855,Anemia
+8885,Cancer
+45938,Asthma
+33640,Obesity
+14160,Obesity
+94426,Arthritis
+167,Epilepsy
+6310,Hypertension
+50585,COPD
+57438,Kidney Disease
+96021,Anemia
+55004,Epilepsy
+54266,Cancer
+64629,Kidney Disease
+49638,Obesity
+46036,Heart Disease
+71568,Depression
+49197,Heart Disease
+13294,Depression
+62847,Heart Disease
+75766,Hypertension
+85323,Obesity
+99384,Obesity
+90067,Anemia
+29567,Epilepsy
+59151,Heart Disease
+9661,Asthma
+4379,Anemia
+38654,Kidney Disease
+2631,Osteoporosis
+41774,Stroke
+34226,COPD
+13726,Hypothyroidism
+9725,Heart Disease
+44801,Heart Disease
+22296,Hypertension
+49212,Kidney Disease
+21090,Asthma
+95942,Obesity
+9830,Hypertension
+71702,Arthritis
+12203,COPD
+44295,Hypertension
+77860,Asthma
+80431,Obesity
+63273,Osteoporosis
+92340,Asthma
+4062,Cancer
+56534,Depression
+85673,Depression
+21626,Heart Disease
+79602,Asthma
+56911,Heart Disease
+20591,Depression
+7019,Depression
+13272,Asthma
+43397,Epilepsy
+26941,Kidney Disease
+24901,Cancer
+53645,Osteoporosis
+72628,Hypothyroidism
+94638,Kidney Disease
+95679,Hypothyroidism
+70795,Asthma
+34768,Cancer
+86585,Asthma
+36899,Epilepsy
+38980,COPD
+31135,Asthma
+12571,Asthma
+6505,Obesity
+51498,Anemia
+74943,Epilepsy
+72045,Heart Disease
+64349,Diabetes
+20131,Anemia
+7144,Obesity
+47294,Diabetes
+500,Epilepsy
+56047,Asthma
+11485,Arthritis
+38607,Anemia
+86772,Depression
+81931,Cancer
+78671,Cancer
+62957,Kidney Disease
+26171,Epilepsy
+12712,Depression
+3373,Kidney Disease
+27125,Epilepsy
+22391,Depression
+83648,Osteoporosis
+38248,Anemia
+10739,Epilepsy
+62071,Epilepsy
+15139,Asthma
+40416,Hypertension
+52096,Heart Disease
+61727,Diabetes
+64106,Stroke
+86643,Stroke
+34734,Arthritis
+11945,COPD
+84130,Diabetes
+71319,COPD
+50793,Arthritis
+24232,Cancer
+48630,COPD
+49996,Asthma
+48418,Stroke
+24455,Epilepsy
+58428,Heart Disease
+5848,Osteoporosis
+34510,Stroke
+60956,Stroke
+34524,Epilepsy
+29654,Cancer
+35200,Cancer
+73956,Hypertension
+8079,Heart Disease
+19808,Hypertension
+98596,COPD
+91287,Stroke
+87486,Cancer
+12675,Anemia
+11233,Obesity
+87574,Cancer
+45061,Anemia
+70968,Stroke
+54262,Diabetes
+99150,Stroke
+77296,Osteoporosis
+29820,Epilepsy
+72561,Cancer
+7993,Arthritis
+50738,Depression
+68495,Hypertension
+54870,Osteoporosis
+70190,Anemia
+90055,Kidney Disease
+62236,Stroke
+30886,Arthritis
+62424,COPD
+39171,Anemia
+10348,Diabetes
+51747,Epilepsy
+93625,COPD
+4551,Obesity
+65811,Anemia
+74870,Anemia
+67740,Hypertension
+74905,Epilepsy
+88805,Anemia
+81300,Hypertension
+19326,Stroke
+15765,Stroke
+99246,Arthritis
+58856,Arthritis
+22659,Stroke
+21910,Osteoporosis
+27772,Heart Disease
+25260,Osteoporosis
+16539,Obesity
+5593,Anemia
+55492,Osteoporosis
+10271,Heart Disease
+89538,Kidney Disease
+57067,Depression
+26465,Asthma
+82211,Heart Disease
+19382,Asthma
+77994,Stroke
+33801,Arthritis
+41910,Anemia
+95302,Arthritis
+8783,Stroke
+11406,Diabetes
+50868,Heart Disease
+72923,Obesity
+52082,Cancer
+72358,COPD
+42746,Heart Disease
+36202,Cancer
+68116,Asthma
+60051,Obesity
+1620,Osteoporosis
+91804,COPD
+81665,COPD
+68493,Heart Disease
+54997,COPD
+14748,Anemia
+19613,Cancer
+19424,Hypothyroidism
+74264,Kidney Disease
+77061,Anemia
+76372,Hypertension
+99402,Asthma
+13845,Stroke
+73752,Stroke
+13237,Depression
+37498,Hypothyroidism
+45071,Diabetes
+53856,COPD
+34620,Anemia
+50206,Kidney Disease
+85824,Asthma
+63646,Osteoporosis
+74976,Anemia
+79817,Asthma
+62003,Arthritis
+22570,Asthma
+36099,Osteoporosis
+52818,Obesity
+18855,Anemia
+81034,Arthritis
+79777,Stroke
+89235,Anemia
+90919,Kidney Disease
+52654,Depression
+5083,Epilepsy
+51877,Asthma
+43449,Heart Disease
+90507,Kidney Disease
+31139,COPD
+6460,Kidney Disease
+97746,Depression
+62287,Depression
+35203,Epilepsy
+48816,Hypertension
+2651,Kidney Disease
+44284,Stroke
+39722,Hypothyroidism
+40756,Stroke
+36745,Hypertension
+64437,Depression
+91250,Cancer
+12873,Osteoporosis
+29878,COPD
+17614,Osteoporosis
+39384,Hypothyroidism
+97481,Hypothyroidism
+42056,Obesity
+35313,Epilepsy
+95525,Epilepsy
+54627,Obesity
+79295,Heart Disease
+84614,Diabetes
+11703,Anemia
+24633,Stroke
+57896,Anemia
+27707,Osteoporosis
+53368,Hypertension
+97117,Osteoporosis
+63499,Epilepsy
+99548,Kidney Disease
+67698,Kidney Disease
+7367,Osteoporosis
+67537,Obesity
+20836,Anemia
+8600,Hypertension
+40779,Stroke
+93004,Cancer
+66426,Depression
+52872,Arthritis
+17779,Depression
+68719,Anemia
+74537,Arthritis
+22772,Epilepsy
+25265,COPD
+26309,Obesity
+7553,Anemia
+32701,COPD
+4334,Obesity
+59827,Cancer
+6626,Heart Disease
+47235,Asthma
+92357,Heart Disease
+26097,Anemia
+35910,Epilepsy
+48280,Stroke
+60846,Obesity
+66207,Hypothyroidism
+52028,Kidney Disease
+83284,Stroke
+16236,Diabetes
+89282,Diabetes
+4005,Hypertension
+48819,Kidney Disease
+64066,Stroke
+77862,Anemia
+58471,Epilepsy
+23276,Diabetes
+62204,Hypertension
+76923,Hypothyroidism
+45843,Anemia
+45121,Asthma
+21432,Epilepsy
+33903,Epilepsy
+90289,Diabetes
+11847,Depression
+37364,Arthritis
+3597,Osteoporosis
+6507,Hypothyroidism
+21352,Asthma
+75007,Hypothyroidism
+28091,Kidney Disease
+29012,COPD
+84853,Asthma
+29505,Anemia
+88826,Hypothyroidism
+27096,Hypothyroidism
+35269,COPD
+85404,Hypertension
+53674,Kidney Disease
+67276,Obesity
+2628,COPD
+89417,Hypertension
+1166,Obesity
+62140,Kidney Disease
+84852,Hypothyroidism
+22701,Kidney Disease
+78792,Asthma
+1109,Diabetes
+29329,Depression
+33081,Kidney Disease
+79736,COPD
+40037,Osteoporosis
+93420,Osteoporosis
+92978,Stroke
+84245,Arthritis
+36094,Depression
+55549,Kidney Disease
+49345,Hypertension
+45706,Osteoporosis
+28601,Hypertension
+61171,Diabetes
+39602,Arthritis
+88761,Epilepsy
+68241,Hypertension
+81737,Asthma
+52055,Heart Disease
+76609,Arthritis
+13410,Cancer
+963,Kidney Disease
+67045,Epilepsy
+86816,Diabetes
+49051,Diabetes
+73591,Osteoporosis
+84848,Obesity
+77826,Anemia
+79829,Hypertension
+37051,Anemia
+39121,Depression
+89707,Osteoporosis
+14169,Asthma
+63142,Epilepsy
+8367,Hypertension
+44077,Arthritis
+36239,Depression
+83964,Hypertension
+42616,Osteoporosis
+36291,Stroke
+34229,Hypertension
+85998,Hypertension
+93204,Obesity
+85389,Obesity
+39163,Hypothyroidism
+24688,COPD
+19651,Asthma
+67802,Depression
+31496,Stroke
+7441,Anemia
+78647,Stroke
+52965,Anemia
+86577,Asthma
+41888,Kidney Disease
+89228,Kidney Disease
+18340,Asthma
+3336,Hypertension
+85904,Cancer
+38745,Heart Disease
+34003,Diabetes
+54862,Heart Disease
+53031,Kidney Disease
+50891,Asthma
+96564,Epilepsy
+4629,Obesity
+76418,Osteoporosis
+92808,Arthritis
+74978,Kidney Disease
+24892,Osteoporosis
+44979,Asthma
+95230,Hypothyroidism
+29145,Depression
+89957,Heart Disease
+70075,Kidney Disease
+83665,Epilepsy
+62355,Anemia
+88063,Arthritis
+46988,Hypertension
+39347,Hypothyroidism
+86194,Hypertension
+73170,Asthma
+23741,Stroke
+38506,Hypertension
+12793,Heart Disease
+61706,Osteoporosis
+16769,Depression
+97113,Obesity
+33902,Depression
+95051,Obesity
+73273,Stroke
+99997,Asthma
+23995,Arthritis
+89091,COPD
+43992,Kidney Disease
+85778,Hypertension
+11704,Arthritis
+29131,Cancer
+46567,Heart Disease
+29272,Heart Disease
+97545,Osteoporosis
+40250,Heart Disease
+55112,COPD
+43426,Stroke
+48717,Osteoporosis
+34152,Diabetes
+76751,Anemia
+38541,Anemia
+60786,Kidney Disease
+15437,Hypothyroidism
+61674,COPD
+7035,Arthritis
+83151,Cancer
+76490,Heart Disease
+76062,Cancer
+81350,Arthritis
+9334,Osteoporosis
+25499,Depression
+65598,COPD
+15704,Kidney Disease
+89220,Diabetes
+50026,Stroke
+69446,Hypothyroidism
+39106,Stroke
+54146,Arthritis
+7086,Epilepsy
+19762,Depression
+18004,Hypertension
+26253,Arthritis
+44914,Epilepsy
+53633,Kidney Disease
+74632,Heart Disease
+59974,Hypertension
+18772,Cancer
+41469,Hypothyroidism
+93804,Diabetes
+23639,Obesity
+10592,Hypothyroidism
+63908,Obesity
+43598,Asthma
+82710,Depression
+23176,Anemia
+41079,Anemia
+83165,Heart Disease
+7603,Depression
+617,Obesity
+59251,Cancer
+35851,Kidney Disease
+27444,Asthma
+99771,Stroke
+22099,Epilepsy
+75534,Stroke
+20766,Hypertension
+64169,Diabetes
+11539,Heart Disease
+16961,Hypertension
+56847,Diabetes
+83032,COPD
+56283,Arthritis
+52873,Diabetes
+56233,Hypothyroidism
+62573,Diabetes
+50242,Stroke
+611,Depression
+4944,Cancer
+69963,COPD
+26137,Kidney Disease
+95768,Osteoporosis
+48903,Cancer
+1845,Stroke
+42233,Depression
+99201,Depression
+69603,Osteoporosis
+24979,Depression
+2348,Hypertension
+88702,Kidney Disease
+540,Cancer
+82141,Cancer
+96154,Heart Disease
+32613,Asthma
+29657,COPD
+90901,Hypertension
+45134,COPD
+40906,Hypertension
+16899,Cancer
+13462,Hypothyroidism
+50272,Arthritis
+65973,Stroke
+77158,Asthma
+40123,Cancer
+21891,Obesity
+8557,Depression
+39085,Heart Disease
+38119,Kidney Disease
+59759,Stroke
+95398,Anemia
+68195,Kidney Disease
+78167,Kidney Disease
+68697,Kidney Disease
+44280,Hypertension
+56841,COPD
+90017,Osteoporosis
+17536,Depression
+44922,Osteoporosis
+64248,Anemia
+47087,Arthritis
+98319,Diabetes
+24697,Arthritis
+21611,Hypertension
+2506,Hypothyroidism
+29939,Depression
+29402,Hypertension
+95311,Epilepsy
+17197,Heart Disease
+27681,Heart Disease
+96216,Diabetes
+77292,COPD
+66143,Kidney Disease
+22149,Osteoporosis
+16143,Kidney Disease
+48049,Osteoporosis
+93206,Asthma
+4897,Hypertension
+49177,Diabetes
+83928,Osteoporosis
+33526,Asthma
+70088,Osteoporosis
+81675,Diabetes
+6368,Asthma
+77846,Epilepsy
+6286,Obesity
+86765,Cancer
+14170,Cancer
+85664,Stroke
+2587,Anemia
+6322,Osteoporosis
+90406,COPD
+15176,Asthma
+58237,Obesity
+49840,Asthma
+71733,Osteoporosis
+33126,Stroke
+62180,Anemia
+91995,COPD
+20070,Osteoporosis
+26934,Hypothyroidism
+91120,Hypertension
+89881,Stroke
+82616,Hypothyroidism
+1219,Diabetes
+39467,Obesity
+55164,Stroke
+86725,Depression
+13235,COPD
+86832,Cancer
+68197,Hypertension
+35386,COPD
+81631,Osteoporosis
+79381,Heart Disease
+17978,Kidney Disease
+54896,Hypertension
+13751,Epilepsy
+67054,Epilepsy
+94210,Cancer
+80962,Obesity
+15431,Diabetes
+37054,Epilepsy
+14943,Anemia
+13928,Heart Disease
+65239,Asthma
+26037,Obesity
+79823,Asthma
+26181,COPD
+34471,Stroke
+68569,Hypertension
+26433,Hypothyroidism
+46913,Heart Disease
+92200,Kidney Disease
+53707,Osteoporosis
+38712,Hypertension
+21020,Arthritis
+5164,Osteoporosis
+71845,Cancer
+65058,Diabetes
+27222,Diabetes
+90204,Anemia
+63001,Anemia
+43332,Diabetes
+30737,Arthritis
+358,Diabetes
+1671,Epilepsy
+88032,Obesity
+11665,Depression
+14474,Hypothyroidism
+75255,Asthma
+87690,Asthma
+64763,Hypothyroidism
+19548,Anemia
+11807,Diabetes
+67070,Cancer
+9836,Stroke
+94840,Hypothyroidism
+13276,Osteoporosis
+33540,Osteoporosis
+84454,Kidney Disease
+30298,Depression
+59867,Arthritis
+38800,Obesity
+34619,Arthritis
+60853,Depression
+6564,Hypothyroidism
+13082,Osteoporosis
+22898,Obesity
+5170,COPD
+38085,Anemia
+47214,Hypertension
+88705,Heart Disease
+40987,Obesity
+55836,Hypertension
+96801,Cancer
+15191,Kidney Disease
+12451,Hypothyroidism
+99379,Diabetes
+6014,Asthma
+18139,Arthritis
+86947,Stroke
+84829,Cancer
+43078,Diabetes
+46861,Depression
+57372,Hypertension
+81501,Hypothyroidism
+35167,Epilepsy
+96084,Anemia
+12183,COPD
+48840,Stroke
+44921,Anemia
+23969,COPD
+14920,Obesity
+52530,Hypertension
+52461,Cancer
+59839,Epilepsy
+35629,Diabetes
+50556,Obesity
+90426,Arthritis
+62684,COPD
+55278,Heart Disease
+85045,Stroke
+21860,COPD
+14818,Osteoporosis
+17368,Heart Disease
+95212,Arthritis
+7686,Epilepsy
+20892,Obesity
+13593,Heart Disease
+54529,Epilepsy
+77430,Stroke
+63265,Stroke
+74572,Arthritis
+88918,Osteoporosis
+57430,Hypothyroidism
+23758,Cancer
+80127,Stroke
+49774,Stroke
+47002,Arthritis
+80131,Asthma
+3777,Diabetes
+89714,Hypothyroidism
+95325,Depression
+17125,Diabetes
+63318,Arthritis
+63979,Cancer
+14802,Obesity
+53907,Kidney Disease
+57761,Anemia
+6025,Osteoporosis
+8301,Hypothyroidism
+34290,Diabetes
+85848,Obesity
+41187,Diabetes
+88857,Stroke
+68788,Kidney Disease
+97468,Depression
+94866,Anemia
+74057,Osteoporosis
+29358,Osteoporosis
+87797,COPD
+44341,Hypertension
+68039,Arthritis
+68564,Cancer
+90209,Arthritis
+91826,Depression
+81033,Epilepsy
+12483,Diabetes
+56734,Asthma
+86732,Osteoporosis
+95243,COPD
+32581,Hypertension
+63167,Diabetes
+45318,Hypothyroidism
+86993,Arthritis
+88643,Hypothyroidism
+84070,Anemia
+50446,Cancer
+19484,Depression
+73183,Osteoporosis
+80335,Hypothyroidism
+1526,Obesity
+84331,Epilepsy
+20568,Osteoporosis
+66265,Hypertension
+61510,Heart Disease
+64990,Hypertension
+21679,Cancer
+9812,Asthma
+98491,Kidney Disease
+64441,Anemia
+42026,Depression
+31574,Hypertension
+43371,Heart Disease
+6599,Heart Disease
+66444,Diabetes
+29190,Depression
+72154,Kidney Disease
+49628,Asthma
+52858,Arthritis
+30801,COPD
+10332,COPD
+60174,Anemia
+58220,Obesity
+75108,Hypothyroidism
+58733,Stroke
+11536,Depression
+65333,Osteoporosis
+58598,Anemia
+41426,Osteoporosis
+15559,Obesity
+97679,Obesity
+85638,Epilepsy
+2329,COPD
+13453,Arthritis
+52879,Hypertension
+54046,Arthritis
+4696,Asthma
+73024,Stroke
+71971,Stroke
+22,Heart Disease
+11913,Hypertension
+79194,Asthma
+81142,Hypertension
+83563,Asthma
+39924,Epilepsy
+66628,Epilepsy
+73706,Obesity
+27112,Depression
+85799,Hypertension
+88011,Cancer
+59796,Obesity
+44676,Stroke
+47624,Arthritis
+7113,Epilepsy
+29218,COPD
+59566,Epilepsy
+43512,COPD
+73420,Anemia
+81232,Hypertension
+78636,Hypertension
+62014,Asthma
+93933,Stroke
+86136,Kidney Disease
+47617,COPD
+93836,Anemia
+59314,Osteoporosis
+12771,Osteoporosis
+99525,Heart Disease
+86364,Diabetes
+29064,Arthritis
+287,Anemia
+44742,Anemia
+46548,Obesity
+83055,Asthma
+38270,Hypertension
+71786,Osteoporosis
+68417,Arthritis
+49006,Obesity
+92025,Depression
+13935,Cancer
+6000,Diabetes
+21516,Kidney Disease
+64542,COPD
+18408,COPD
+93959,Anemia
+97322,Asthma
+94576,Diabetes
+53636,Depression
+14019,Anemia
+33330,Epilepsy
+80065,Cancer
+25679,Osteoporosis
+24581,Cancer
+15826,Arthritis
+51497,Hypertension
+28257,Epilepsy
+59905,Hypertension
+93950,Stroke
+44293,Stroke
+14125,Asthma
+99241,Hypertension
+54325,Diabetes
+6094,Diabetes
+83000,Anemia
+88098,Stroke
+77176,Arthritis
+16150,Asthma
+59950,Arthritis
+86305,Anemia
+77242,Depression
+66086,Obesity
+17647,Kidney Disease
+65382,Kidney Disease
+568,Kidney Disease
+69515,Hypertension
+96497,Heart Disease
+6366,Heart Disease
+56729,COPD
+76692,Hypothyroidism
+23226,Anemia
+90677,Hypertension
+75832,Diabetes
+22760,Hypertension
+95747,Arthritis
+16827,Hypothyroidism
+13573,Kidney Disease
+50778,Epilepsy
+86182,Stroke
+78714,Asthma
+79450,Hypertension
+42184,Hypothyroidism
+66074,Anemia
+50418,Anemia
+54875,Stroke
+90769,Obesity
+99925,Hypertension
+32537,Diabetes
+35860,Epilepsy
+52149,Diabetes
+44939,Asthma
+38557,Hypothyroidism
+59355,Heart Disease
+17481,Depression
+18111,Anemia
+54099,Osteoporosis
+78974,Depression
+91752,Epilepsy
+98097,Diabetes
+67147,Depression
+39179,Kidney Disease
+71802,Depression
+41144,Asthma
+93306,Obesity
+96576,Arthritis
+72559,Hypothyroidism
+82913,Asthma
+28487,COPD
+26330,COPD
+27487,Epilepsy
+81810,Hypothyroidism
+93635,Asthma
+38086,Diabetes
+89995,Heart Disease
+45258,Heart Disease
+88129,Heart Disease
+17389,Arthritis
+93113,Kidney Disease
+85208,COPD
+23306,Epilepsy
+71105,Depression
+91004,Hypothyroidism
+83476,Cancer
+42255,Epilepsy
+93107,Diabetes
+15126,Hypertension
+99716,COPD
+46168,Depression
+73699,Asthma
+62963,Depression
+76389,Arthritis
+74794,Kidney Disease
+87445,Hypothyroidism
+93077,Stroke
+54719,Cancer
+88374,Arthritis
+98024,Kidney Disease
+69979,Stroke
+37477,Cancer
+55363,Stroke
+1673,Diabetes
+68515,Depression
+13955,Stroke
+3312,Osteoporosis
+49921,Obesity
+19048,Epilepsy
+6955,Cancer
+87851,Stroke
+7419,Epilepsy
+26201,Obesity
+98328,Hypothyroidism
+21094,Heart Disease
+37567,Cancer
+89573,Obesity
+32841,Depression
+19192,COPD
+8130,Asthma
+90517,Diabetes
+26738,Obesity
+98775,Heart Disease
+70932,Arthritis
+4234,Diabetes
+47013,Hypothyroidism
+59322,Stroke
+13432,Stroke
+80754,COPD
+88542,Diabetes
+96926,Stroke
+73647,Epilepsy
+29400,Cancer
+97309,Obesity
+84819,Stroke
+73566,Heart Disease
+50972,Arthritis
+31142,Asthma
+66967,Hypertension
+91242,Arthritis
+37701,Kidney Disease
+90824,Arthritis
+87096,COPD
+6157,Cancer
+50014,Anemia
+50797,Stroke
+89803,Hypothyroidism
+40980,Osteoporosis
+72368,Diabetes
+7051,Stroke
+1699,Arthritis
+97474,Heart Disease
+32943,Anemia
+26619,Stroke
+81338,Depression
+58073,Obesity
+29563,Hypothyroidism
+83071,Anemia
+93001,Anemia
+48200,Asthma
+98973,Asthma
+77120,Arthritis
+71645,Heart Disease
+96790,Obesity
+79087,Stroke
+25751,Osteoporosis
+95015,Osteoporosis
+25362,Obesity
+38558,Hypothyroidism
+58827,Heart Disease
+23255,Diabetes
+89477,Osteoporosis
+9760,Osteoporosis
+24507,Obesity
+22779,Heart Disease
+96348,Heart Disease
+67350,Asthma
+15643,Heart Disease
+49440,Arthritis
+5326,Anemia
+56165,Stroke
+36583,Hypothyroidism
+72954,Epilepsy
+34634,Cancer
+17048,COPD
+21093,Asthma
+33425,Epilepsy
+739,Diabetes
+43327,Hypertension
+61122,Diabetes
+93020,Arthritis
+20290,Heart Disease
+5235,Arthritis
+20146,Diabetes
+42287,Cancer
+78234,Epilepsy
+6665,Diabetes
+81968,Obesity
+80689,Hypothyroidism
+86755,Heart Disease
+64297,Arthritis
+75061,Stroke
+72110,Asthma
+46934,Obesity
+9552,Osteoporosis
+92757,Asthma
+41662,Hypothyroidism
+68864,Stroke
+28830,Anemia
+24100,Anemia
+68236,Obesity
+8936,Diabetes
+66209,Diabetes
+20889,Asthma
+54516,Heart Disease
+71182,Osteoporosis
+70390,Hypothyroidism
+52876,Asthma
+12051,Stroke
+45796,Hypertension
+28992,Anemia
+27964,Cancer
+86944,Anemia
+43500,Obesity
+43393,Hypertension
+47290,Obesity
+38479,Osteoporosis
+28632,Kidney Disease
+98652,Depression
+81039,Heart Disease
+69533,Hypertension
+62240,Obesity
+73575,COPD
+98583,Obesity
+85105,Asthma
+1153,Asthma
+15036,Osteoporosis
+87679,Depression
+45351,Stroke
+58414,Kidney Disease
+31502,Epilepsy
+84182,Kidney Disease
+80439,Obesity
+81412,Asthma
+31958,Osteoporosis
+5226,Cancer
+42065,Osteoporosis
+49987,Hypothyroidism
+14860,Hypothyroidism
+50577,Heart Disease
+33631,Stroke
+70809,Obesity
+94892,Arthritis
+37070,Kidney Disease
+3238,Heart Disease
+67746,Anemia
+49146,Asthma
+67411,Depression
+66680,COPD
+58400,Osteoporosis
+63806,Osteoporosis
+5747,COPD
+38854,Asthma
+85397,Asthma
+25232,Osteoporosis
+41984,Diabetes
+67357,Osteoporosis
+10793,Heart Disease
+12577,Depression
+21940,Anemia
+70513,Stroke
+69888,Heart Disease
+960,Diabetes
+82173,Asthma
+8581,Heart Disease
+27627,Obesity
+87862,Hypothyroidism
+82511,Stroke
+27941,Heart Disease
+89837,Arthritis
+55601,Kidney Disease
+13621,Heart Disease
+26945,Hypertension
+70484,Hypothyroidism
+92109,Epilepsy
+97173,Asthma
+57047,Obesity
+84746,Osteoporosis
+9452,Hypertension
+97896,Arthritis
+89921,Obesity
+20152,Obesity
+3113,Asthma
+60191,Kidney Disease
+93961,Hypothyroidism
+43478,Hypertension
+4965,Anemia
+11471,Osteoporosis
+9600,Kidney Disease
+23329,Kidney Disease
+33018,Osteoporosis
+9232,Hypothyroidism
+75361,Obesity
+29837,Epilepsy
+33901,Diabetes
+53429,COPD
+50860,Arthritis
+59129,Arthritis
+82603,Osteoporosis
+53011,Hypertension
+56757,Obesity
+41471,COPD
+2213,Stroke
+51052,Hypertension
+88250,Osteoporosis
+15506,Diabetes
+70101,Diabetes
+773,Depression
+84072,Epilepsy
+81048,Osteoporosis
+8288,Depression
+99085,Asthma
+97773,Hypothyroidism
+76756,Depression
+91866,Epilepsy
+9514,Hypothyroidism
+46884,Depression
+65907,Obesity
+13911,Cancer
+37989,Depression
+89899,Hypertension
+39498,Anemia
+79503,Epilepsy
+11338,Stroke
+57367,Anemia
+49992,Heart Disease
+51788,Kidney Disease
+86602,Stroke
+4039,Kidney Disease
+62126,Arthritis
+20489,Asthma
+69922,Epilepsy
+28818,Hypertension
+17875,Stroke
+97878,Anemia
+51248,Diabetes
+71529,COPD
+38663,Diabetes
+83105,Obesity
+18884,COPD
+39066,Hypertension
+88773,Hypertension
+95594,Obesity
+84926,Asthma
+48906,Hypothyroidism
+1461,Depression
+72551,Asthma
+72754,Osteoporosis
+18530,Hypertension
+16152,Cancer
+5475,Hypothyroidism
+659,Hypertension
+75067,Obesity
+78204,Heart Disease
+51653,Heart Disease
+70405,Hypothyroidism
+71765,Epilepsy
+11157,Osteoporosis
+39936,Diabetes
+27532,Depression
+98080,Kidney Disease
+97180,Asthma
+95150,Heart Disease
+45069,Hypothyroidism
+27752,Depression
+54087,Asthma
+84663,Diabetes
+67181,Hypertension
+18671,Obesity
+21096,Arthritis
+24116,Arthritis
+28939,Depression
+80856,Osteoporosis
+33127,Cancer
+25470,Osteoporosis
+15023,Hypothyroidism
+23770,Osteoporosis
+87946,Cancer
+74356,COPD
+7128,Kidney Disease
+98440,COPD
+71939,COPD
+60458,Arthritis
+84498,Hypertension
+9587,Diabetes
+38096,Depression
+8829,Heart Disease
+32858,Cancer
+12871,Anemia
+25875,Epilepsy
+95104,Asthma
+63857,Diabetes
+43365,Obesity
+46810,Diabetes
+16805,Depression
+87988,Hypertension
+85914,COPD
+30740,Anemia
+13113,Kidney Disease
+37373,Kidney Disease
+81201,Heart Disease
+9149,Epilepsy
+41652,Arthritis
+63682,Hypertension
+59067,Diabetes
+43036,Arthritis
+80785,Asthma
+86431,Kidney Disease
+40065,COPD
+90892,Hypertension
+76568,Epilepsy
+19974,Anemia
+74128,Hypertension
+74299,COPD
+47774,Stroke
+41462,Depression
+56139,Epilepsy
+633,Epilepsy
+41053,Hypothyroidism
+32266,Kidney Disease
+29035,COPD
+93349,Hypertension
+96969,Kidney Disease
+83995,Cancer
+57163,Depression
+36264,Asthma
+47118,Obesity
+17603,Hypothyroidism
+89073,Depression
+96072,Obesity
+43458,Asthma
+62908,Epilepsy
+60666,Diabetes
+58373,COPD
+47020,Epilepsy
+40038,Epilepsy
+63828,COPD
+72308,Arthritis
+14264,Anemia
+23038,COPD
+84613,Heart Disease
+79511,Diabetes
+10744,Asthma
+36780,Stroke
+18350,Osteoporosis
+70597,Kidney Disease
+25746,Hypertension
+34502,Hypertension
+96147,Kidney Disease
+82132,Obesity
+10022,Stroke
+95345,Cancer
+9882,Depression
+2441,Stroke
+66476,Heart Disease
+82788,Arthritis
+4088,Cancer
+76269,Diabetes
+75877,Anemia
+53101,Depression
+77337,Anemia
+27886,Cancer
+4804,Depression
+72298,Cancer
+34159,Kidney Disease
+71233,Anemia
+70736,Hypothyroidism
+61879,Epilepsy
+85709,Heart Disease
+47948,Hypothyroidism
+51445,Arthritis
+29269,Epilepsy
+77280,COPD
+96105,Hypertension
+38141,Depression
+17548,Hypothyroidism
+60909,Anemia
+65683,Osteoporosis
+66900,Diabetes
+11869,Cancer
+52007,Heart Disease
+47692,Hypothyroidism
+65820,Cancer
+1388,Stroke
+86858,Heart Disease
+31310,Kidney Disease
+80482,Heart Disease
+89674,Asthma
+21737,Hypertension
+99248,Stroke
+67388,Epilepsy
+18398,Asthma
+58487,Asthma
+20869,Arthritis
+23480,Stroke
+74233,Arthritis
+74162,Asthma
+86430,Diabetes
+19162,Depression
+96458,Hypertension
+95945,Kidney Disease
+63373,Depression
+47028,Arthritis
+5297,Anemia
+28681,Kidney Disease
+63916,Asthma
+30375,Anemia
+8239,Heart Disease
+34649,COPD
+48422,Obesity
+30673,Hypothyroidism
+5610,Osteoporosis
+87632,Hypothyroidism
+27102,Stroke
+67880,Hypertension
+47349,Hypertension
+61561,Depression
+59591,Cancer
+6086,Depression
+5230,Cancer
+85003,Obesity
+42476,Anemia
+13529,COPD
+92240,Cancer
+68337,Epilepsy
+83042,Hypothyroidism
+35847,Anemia
+97243,Diabetes
+34513,Stroke
+75842,Osteoporosis
+71349,Heart Disease
+74732,Heart Disease
+22786,Cancer
+49369,Stroke
+49613,Depression
+47880,Hypertension
+77028,Depression
+85634,Asthma
+10202,Asthma
+67720,Heart Disease
+32975,Heart Disease
+49326,Heart Disease
+29215,Stroke
+67681,Hypertension
+53194,Hypothyroidism
+46255,Hypertension
+45224,Heart Disease
+63813,Stroke
+63191,Hypertension
+79195,Stroke
+864,COPD
+65776,Anemia
+18214,Cancer
+57658,Hypothyroidism
+21706,Obesity
+30145,Hypothyroidism
+10104,Depression
+67441,COPD
+84341,Depression
+36806,Kidney Disease
+27723,Epilepsy
+19692,Heart Disease
+24498,Heart Disease
+20625,Epilepsy
+47477,Diabetes
+78908,Asthma
+94018,COPD
+15509,Depression
+86652,Asthma
+30191,Heart Disease
+54344,Heart Disease
+43283,Kidney Disease
+94405,Osteoporosis
+14855,Depression
+63113,Diabetes
+88503,Depression
+62759,Hypothyroidism
+62786,Hypothyroidism
+27617,Obesity
+77436,Osteoporosis
+21134,Arthritis
+84837,Diabetes
+53857,Osteoporosis
+2942,Epilepsy
+31938,Hypothyroidism
+5655,COPD
+16762,Hypothyroidism
+75168,Obesity
+77640,Diabetes
+21119,Obesity
+17658,Anemia
+82515,Stroke
+67193,COPD
+5136,COPD
+75008,COPD
+19249,Anemia
+33850,Epilepsy
+23597,Anemia
+67717,Osteoporosis
+53143,Kidney Disease
+78558,Hypertension
+73872,Anemia
+83574,Arthritis
+2440,Asthma
+94312,COPD
+95417,Osteoporosis
+86736,Epilepsy
+37152,Stroke
+11239,Anemia
+28389,Obesity
+58877,COPD
+79498,Osteoporosis
+61789,Depression
+63133,Heart Disease
+22356,Kidney Disease
+28752,Hypertension
+53840,Arthritis
+78753,Epilepsy
+18705,Arthritis
+76368,Hypothyroidism
+23839,Anemia
+81685,Depression
+86461,Osteoporosis
+21983,Epilepsy
+94920,Stroke
+89861,Cancer
+59437,Anemia
+78188,Obesity
+77410,Anemia
+9023,Diabetes
+30122,Cancer
+49572,Stroke
+50523,Asthma
+17329,Hypertension
+14230,COPD
+2170,Osteoporosis
+26522,Cancer
+68512,Depression
+66107,Asthma
+89701,Stroke
+55023,Anemia
+19603,Cancer
+79365,Hypothyroidism
+12622,Heart Disease
+62373,Diabetes
+80576,Asthma
+78618,Arthritis
+5116,Hypothyroidism
+69655,Anemia
+65972,Arthritis
+98616,Anemia
+15403,Diabetes
+12214,Arthritis
+63208,Diabetes
+86427,Epilepsy
+17082,Diabetes
+79098,Hypothyroidism
+70685,Obesity
+157,Osteoporosis
+88940,Arthritis
+85096,COPD
+56557,Obesity
+68425,Anemia
+55139,Epilepsy
+48546,Cancer
+5693,Depression
+91441,Kidney Disease
+69444,Hypothyroidism
+56224,Hypertension
+30079,Kidney Disease
+63192,Diabetes
+49969,Arthritis
+45943,Obesity
+77207,Epilepsy
+97175,Heart Disease
+99816,Epilepsy
+91318,Asthma
+75513,Anemia
+12807,Epilepsy
+55769,Heart Disease
+33360,Cancer
+62539,Obesity
+30475,Obesity
+10986,Asthma
+37128,Anemia
+78419,Hypothyroidism
+71267,COPD
+53562,Osteoporosis
+33791,Anemia
+24775,Osteoporosis
+716,Hypertension
+92949,COPD
+97471,Diabetes
+932,Depression
+75757,Diabetes
+68490,Asthma
+15444,Anemia
+68126,Heart Disease
+49155,Stroke
+85792,Arthritis
+26924,Anemia
+90146,Arthritis
+41405,Kidney Disease
+53588,Arthritis
+47483,Kidney Disease
+20287,Arthritis
+55846,COPD
+85403,Kidney Disease
+76725,Depression
+33244,Cancer
+34249,Diabetes
+70268,Anemia
+55517,Stroke
+74012,Stroke
+47925,Kidney Disease
+80200,Diabetes
+36118,Epilepsy
+89208,Hypothyroidism
+52095,Asthma
+98955,Kidney Disease
+26698,Asthma
+54162,Heart Disease
+72365,Stroke
+73080,Diabetes
+63238,Arthritis
+23425,COPD
+48524,Heart Disease
+73281,Stroke
+63407,COPD
+33263,Osteoporosis
+40193,Osteoporosis
+75713,Kidney Disease
+45135,COPD
+92470,Depression
+52183,Hypothyroidism
+96440,Depression
+18096,Anemia
+15608,Obesity
+98017,Epilepsy
+30116,COPD
+58536,Arthritis
+91660,Epilepsy
+21206,COPD
+13143,Kidney Disease
+28109,Cancer
+66629,Anemia
+52502,Heart Disease
+44359,Depression
+72165,Heart Disease
+80481,Hypertension
+91364,Diabetes
+89727,Cancer
+92640,Kidney Disease
+6822,Anemia
+21068,Anemia
+51000,Obesity
+83345,Cancer
+693,Kidney Disease
+11939,Heart Disease
+61822,Heart Disease
+78675,COPD
+57065,COPD
+11552,Kidney Disease
+8399,Hypertension
+34483,Epilepsy
+29067,Hypertension
+48606,Obesity
+10490,COPD
+79826,Kidney Disease
+4948,Obesity
+94960,Anemia
+50374,COPD
+52513,COPD
+80473,Kidney Disease
+86006,Osteoporosis
+68289,Hypothyroidism
+37548,Kidney Disease
+93271,COPD
+78311,Arthritis
+7531,Asthma
+22973,Cancer
+83924,Stroke
+64797,Arthritis
+57536,Hypothyroidism
+1403,Diabetes
+26438,Stroke
+86099,Anemia
+67915,Stroke
+37487,Stroke
+25525,Heart Disease
+4405,Depression
+78579,Kidney Disease
+66918,Obesity
+67608,Kidney Disease
+91547,Asthma
+30365,Osteoporosis
+80634,Diabetes
+22214,Kidney Disease
+88345,Epilepsy
+4726,COPD
+47151,COPD
+31359,Hypothyroidism
+85854,Depression
+37,Depression
+20636,Depression
+11382,Osteoporosis
+36167,Diabetes
+52354,Heart Disease
+46285,Osteoporosis
+87773,Heart Disease
+51792,Anemia
+76818,Arthritis
+26255,Obesity
+2014,Osteoporosis
+96590,Osteoporosis
+92225,Arthritis
+11818,Kidney Disease
+72036,Cancer
+37289,Kidney Disease
+95176,Stroke
+73284,Epilepsy
+76406,Hypothyroidism
+45625,Kidney Disease
+45544,Obesity
+36242,Cancer
+29661,COPD
+79477,Anemia
+25496,Asthma
+59606,Anemia
+52947,Kidney Disease
+75354,Hypothyroidism
+609,Cancer
+34223,Asthma
+22942,COPD
+53363,Hypertension
+66353,Epilepsy
+13954,Asthma
+73220,Osteoporosis
+9487,COPD
+65951,Osteoporosis
+38568,Stroke
+44560,Cancer
+15336,Stroke
+67277,Hypothyroidism
+33776,Asthma
+70504,Kidney Disease
+75352,Hypothyroidism
+32786,Obesity
+90989,Kidney Disease
+58034,Hypertension
+49424,Arthritis
+73815,Obesity
+63390,Arthritis
+31886,Osteoporosis
+99283,Anemia
+44520,COPD
+89337,Depression
+60387,Stroke
+76916,Hypothyroidism
+3584,Obesity
+63172,Obesity
+15239,COPD
+33792,Heart Disease
+8854,COPD
+50157,Epilepsy
+28885,Anemia
+88724,Hypertension
+91904,Epilepsy
+30137,Diabetes
+41383,Anemia
+54057,Kidney Disease
+46281,Heart Disease
+67699,Heart Disease
+70208,Heart Disease
+1274,Hypertension
+91857,Epilepsy
+34517,Hypothyroidism
+32539,Arthritis
+37655,Cancer
+12190,Hypertension
+52288,Anemia
+88302,Kidney Disease
+98145,Depression
+44825,Cancer
+9965,COPD
+72686,Depression
+23394,Diabetes
+62463,Anemia
+41139,Anemia
+46338,Asthma
+28647,Asthma
+75197,Arthritis
+35268,Obesity
+23957,Depression
+97800,Heart Disease
+89536,Hypothyroidism
+24925,Hypothyroidism
+65404,Epilepsy
+96614,Asthma
+26170,Obesity
+30783,Anemia
+96394,Osteoporosis
+31726,Asthma
+34787,Stroke
+30042,Hypertension
+26577,Epilepsy
+32728,Obesity
+81080,Kidney Disease
+46665,Asthma
+20446,Obesity
+13983,Kidney Disease
+15712,Diabetes
+10287,Diabetes
+88580,Epilepsy
+86956,COPD
+64574,Arthritis
+80455,Stroke
+868,Stroke
+70972,Asthma
+5539,Heart Disease
+63214,Stroke
+48653,Asthma
+81352,Epilepsy
+41342,Stroke
+64532,Stroke
+75303,Stroke
+36009,Hypertension
+64330,Asthma
+66995,Heart Disease
+36735,Depression
+52150,Kidney Disease
+29110,Depression
+98326,Depression
+75584,Depression
+16809,Epilepsy
+7097,Depression
+68909,Diabetes
+55466,Diabetes
+62694,Cancer
+70879,Arthritis
+4268,Osteoporosis
+65860,Obesity
+45519,Diabetes
+51605,Hypothyroidism
+89959,Obesity
+22911,Stroke
+59925,Anemia
+15776,Cancer
+91520,Arthritis
+67922,Diabetes
+60302,Kidney Disease
+41373,Diabetes
+90336,Kidney Disease
+1103,Osteoporosis
+1549,Arthritis
+88356,Arthritis
+27623,Osteoporosis
+49732,Hypothyroidism
+76153,Obesity
+13205,COPD
+42655,Asthma
+47395,Hypertension
+80318,Depression
+34039,Cancer
+71901,Heart Disease
+34452,COPD
+31082,Asthma
+35311,Hypertension
+61780,Anemia
+80358,Diabetes
+44970,COPD
+47962,COPD
+24105,Epilepsy
+65374,Osteoporosis
+55567,Cancer
+27594,Heart Disease
+54931,Cancer
+91843,Obesity
+98591,Depression
+48799,Hypothyroidism
+47851,Kidney Disease
+52506,Asthma
+36651,Obesity
+59077,Hypothyroidism
+23578,Epilepsy
+74895,Obesity
+17188,Stroke
+75483,Arthritis
+89916,Asthma
+29958,Hypothyroidism
+13090,Hypothyroidism
+94478,Stroke
+30907,Depression
+72789,Diabetes
+56651,Arthritis
+49923,Arthritis
+25698,Osteoporosis
+19116,Asthma
+96802,Arthritis
+19601,Osteoporosis
+61995,Diabetes
+1276,Heart Disease
+23148,Cancer
+55249,Asthma
+65483,Hypertension
+17625,Obesity
+82660,Osteoporosis
+67765,Kidney Disease
+69990,Stroke
+94445,Diabetes
+63782,Depression
+39326,Hypothyroidism
+32895,Kidney Disease
+73680,COPD
+74427,Stroke
+6253,Cancer
+52219,Heart Disease
+12972,Diabetes
+90510,Heart Disease
+21409,Diabetes
+7869,Kidney Disease
+28241,Hypertension
+62460,Kidney Disease
+82557,Anemia
+58963,Diabetes
+97595,Diabetes
+43864,Osteoporosis
+34048,Hypertension
+47312,Depression
+47226,Epilepsy
+73446,Depression
+73071,Hypertension
+33779,Cancer
+45107,COPD
+2599,Epilepsy
+53970,Osteoporosis
+15890,Asthma
+46018,Arthritis
+89074,Osteoporosis
+79374,Kidney Disease
+26077,Kidney Disease
+75609,Diabetes
+85179,COPD
+85082,Depression
+70574,Kidney Disease
+22877,Hypertension
+37304,Kidney Disease
+46544,Cancer
+42610,COPD
+88236,Heart Disease
+66904,Heart Disease
+63896,Osteoporosis
+96537,Asthma
+58580,Depression
+10277,Anemia
+49947,Hypothyroidism
+80434,Hypertension
+37555,Cancer
+60784,Osteoporosis
+82799,Heart Disease
+18985,Hypertension
+21964,COPD
+83962,Hypertension
+44222,Stroke
+55288,Hypertension
+82742,Epilepsy
+80256,Arthritis
+74925,Heart Disease
+53054,Arthritis
+9351,Stroke
+10369,COPD
+21233,Anemia
+45039,Cancer
+29912,Arthritis
+41088,Obesity
+41533,Osteoporosis
+85591,Depression
+38188,COPD
+93117,Asthma
+79349,Diabetes
+84494,Cancer
+51833,Epilepsy
+35553,Hypothyroidism
+58313,Arthritis
+47600,Osteoporosis
+76928,Hypothyroidism
+68280,Epilepsy
+59020,Obesity
+21930,Arthritis
+24102,Diabetes
+3027,Diabetes
+16389,Kidney Disease
+95390,Hypertension
+30753,Hypothyroidism
+32983,Hypertension
+97501,Anemia
+91841,Heart Disease
+98269,Kidney Disease
+27600,Epilepsy
+21877,Asthma
+52041,Hypertension
+13501,Stroke
+12524,Cancer
+8361,Hypertension
+71884,Osteoporosis
+7055,Osteoporosis
+3455,Hypertension
+52037,Hypothyroidism
+68679,COPD
+10911,Kidney Disease
+13622,Arthritis
+34400,Epilepsy
+81015,COPD
+20352,COPD
+11050,Epilepsy
+85830,Diabetes
+51097,Hypertension
+40549,Anemia
+30062,Asthma
+32426,Anemia
+96677,Diabetes
+37247,Anemia
+58085,COPD
+82114,Obesity
+16569,Stroke
+17206,Kidney Disease
+69041,Obesity
+22361,Depression
+3744,Osteoporosis
+4607,Hypertension
+86972,Hypertension
+46771,Anemia
+42624,Stroke
+62410,Hypothyroidism
+61235,Diabetes
+35705,Diabetes
+71898,Anemia
+58306,Asthma
+17709,Kidney Disease
+91438,Kidney Disease
+23204,Asthma
+77441,Obesity
+78326,Obesity
+59840,Hypothyroidism
+82712,Epilepsy
+98161,Heart Disease
+83342,COPD
+73922,Hypothyroidism
+57013,Osteoporosis
+68610,Hypertension
+83858,Obesity
+83824,Anemia
+69964,Obesity
+40587,Asthma
+45504,Hypertension
+63131,Depression
+70735,Depression
+29770,Epilepsy
+11738,COPD
+57915,Anemia
+40352,Depression
+54028,Osteoporosis
+34053,Anemia
+20410,Epilepsy
+39789,Stroke
+1383,Depression
+12,Kidney Disease
+68592,Hypothyroidism
+99391,Stroke
+17865,Asthma
+45073,Hypertension
+37586,Asthma
+61498,Osteoporosis
+70136,Osteoporosis
+1090,Diabetes
+90147,Anemia
+64478,Asthma
+99021,Hypertension
+62530,Depression
+39270,Hypothyroidism
+1197,Heart Disease
+56418,Epilepsy
+38393,Stroke
+78250,Heart Disease
+30305,Kidney Disease
+946,Epilepsy
+71855,Asthma
+48974,Heart Disease
+24716,Depression
+53967,Stroke
+73472,Obesity
+57292,Heart Disease
+51740,Diabetes
+32754,Anemia
+21400,Kidney Disease
+93708,Hypothyroidism
+96615,Anemia
+84671,Osteoporosis
+51081,Hypothyroidism
+49592,Asthma
+28913,Epilepsy
+34469,Hypothyroidism
+10382,Epilepsy
+55343,Hypertension
+81962,Hypothyroidism
+31399,Depression
+67713,Epilepsy
+80375,Diabetes
+90954,Hypertension
+89737,COPD
+35633,Kidney Disease
+37313,Obesity
+84994,Diabetes
+97376,Osteoporosis
+69722,Anemia
+35235,Kidney Disease
+54120,Cancer
+24641,Stroke
+8973,Osteoporosis
+23908,Heart Disease
+17907,Osteoporosis
+37957,Heart Disease
+14464,Arthritis
+83478,Kidney Disease
+80967,Anemia
+59345,Obesity
+35669,Cancer
+91812,Cancer
+81625,Osteoporosis
+64486,Osteoporosis
+24613,Heart Disease
+42027,Hypertension
+2542,Depression
+19942,Kidney Disease
+70119,Osteoporosis
+2900,Arthritis
+24371,Epilepsy
+13405,Obesity
+36977,Kidney Disease
+35283,Kidney Disease
+93742,Kidney Disease
+57464,Depression
+95303,Asthma
+1075,Anemia
+30514,Anemia
+11822,Cancer
+19750,Hypothyroidism
+1930,Heart Disease
+64694,Diabetes
+28467,Diabetes
+44815,Kidney Disease
+55082,Hypothyroidism
+40838,Asthma
+65325,Cancer
+48679,Anemia
+60776,Epilepsy
+91348,Anemia
+43286,Epilepsy
+10515,Anemia
+98378,Asthma
+19148,Hypertension
+7345,Stroke
+34931,Epilepsy
+51435,Obesity
+9356,Arthritis
+61623,Obesity
+23803,COPD
+25191,Diabetes
+32778,Cancer
+1653,Arthritis
+15985,Cancer
+93674,Kidney Disease
+32631,Depression
+50436,Depression
+58059,Anemia
+32396,Arthritis
+96681,Hypertension
+4392,Epilepsy
+26106,Epilepsy
+60402,Stroke
+96380,Heart Disease
+12315,Epilepsy
+68306,Hypertension
+87294,Anemia
+27321,Epilepsy
+61974,Epilepsy
+51003,Obesity
+89318,Hypertension
+40908,Epilepsy
+42344,Osteoporosis
+20789,Kidney Disease
+82465,Diabetes
+95451,Hypertension
+5529,Depression
+97612,Depression
+72034,Diabetes
+68278,Cancer
+16009,Cancer
+63075,Diabetes
+83692,Anemia
+39166,Hypertension
+26047,Stroke
+47241,Heart Disease
+6827,Heart Disease
+87385,Kidney Disease
+28545,COPD
+14801,Hypothyroidism
+30928,Cancer
+82956,Cancer
+56906,Arthritis
+42534,Kidney Disease
+1974,Kidney Disease
+21936,Epilepsy
+36188,Obesity
+76637,Obesity
+15682,Anemia
+31862,Diabetes
+1170,Anemia
+5504,Arthritis
+76162,Anemia
+90538,Epilepsy
+62294,Obesity
+90230,Cancer
+78146,Stroke
+20315,Heart Disease
+11728,Heart Disease
+32600,Epilepsy
+20669,Osteoporosis
+65525,Kidney Disease
+11980,Obesity
+89908,Osteoporosis
+81087,Epilepsy
+44357,Hypertension
+99557,Hypertension
+81937,Stroke
+7871,Kidney Disease
+7834,Arthritis
+46598,Diabetes
+84485,Obesity
+20174,Obesity
+70300,Anemia
+14076,Kidney Disease
+16492,Stroke
+63942,COPD
+30497,Cancer
+41515,Cancer
+73184,Obesity
+84495,Osteoporosis
+99181,Hypertension
+45523,Diabetes
+57503,Hypothyroidism
+96100,Asthma
+25292,Epilepsy
+2798,Asthma
+90341,Anemia
+49514,Osteoporosis
+46945,Osteoporosis
+94948,Osteoporosis
+17659,Depression
+32859,Hypertension
+5175,COPD
+63609,Heart Disease
+92618,Arthritis
+57344,Arthritis
+73272,Hypertension
+38628,Hypothyroidism
+71137,Anemia
+91362,Depression
+64237,Arthritis
+24874,Epilepsy
+74278,Anemia
+24461,Stroke
+71253,Arthritis
+45569,Osteoporosis
+42425,Obesity
+95997,Hypertension
+61393,Stroke
+36087,Depression
+78470,Diabetes
+72682,Hypothyroidism
+21016,Kidney Disease
+9027,Anemia
+69617,Kidney Disease
+20319,Heart Disease
+58901,Hypertension
+38754,Stroke
+70989,Hypothyroidism
+48118,Epilepsy
+59517,Epilepsy
+94,Kidney Disease
+83627,Heart Disease
+66316,Cancer
+49681,Asthma
+96161,Epilepsy
+24318,Diabetes
+2453,Cancer
+81229,Osteoporosis
+47720,Diabetes
+81290,Cancer
+31298,Hypothyroidism
+42034,Depression
+94503,Anemia
+8302,Heart Disease
+86283,Epilepsy
+70642,Hypothyroidism
+50789,Cancer
+24886,Stroke
+89551,Hypothyroidism
+65214,Hypothyroidism
+72281,Asthma
+20202,Osteoporosis
+80352,Heart Disease
+37110,Asthma
+42283,Osteoporosis
+53713,Anemia
+84004,Asthma
+42208,Hypertension
+14478,Depression
+12616,Kidney Disease
+68576,Heart Disease
+86362,Heart Disease
+8739,Hypothyroidism
+5737,Obesity
+23414,Cancer
+4099,Hypothyroidism
+26486,Depression
+14031,Depression
+63618,Heart Disease
+25115,Hypothyroidism
+12943,Osteoporosis
+4170,Stroke
+74843,Arthritis
+84115,COPD
+50934,Depression
+86235,Obesity
+64213,COPD
+68920,Epilepsy
+81785,Stroke
+91922,Asthma
+77371,Asthma
+33546,Depression
+6433,Heart Disease
+48018,Osteoporosis
+28930,Hypothyroidism
+79423,Osteoporosis
+94089,Cancer
+9289,COPD
+1715,Anemia
+27359,Osteoporosis
+85950,Cancer
+64409,Anemia
+10480,Obesity
+61349,Osteoporosis
+83744,Osteoporosis
+7956,Hypothyroidism
+47307,Cancer
+73140,Kidney Disease
+97449,Arthritis
+54519,Arthritis
+92855,Arthritis
+7641,Heart Disease
+80862,Osteoporosis
+34840,COPD
+69339,Kidney Disease
+5328,Obesity
+96246,Hypothyroidism
+9225,Kidney Disease
+39833,Asthma
+28298,Osteoporosis
+68089,Kidney Disease
+12729,Asthma
+13267,Cancer
+95049,Cancer
+30279,Osteoporosis
+69685,Kidney Disease
+50506,Obesity
+24832,Osteoporosis
+25312,Hypertension
+68969,Stroke
+86098,Obesity
+32605,Cancer
+74714,Epilepsy
+23448,Heart Disease
+73193,Heart Disease
+98198,Kidney Disease
+73156,Osteoporosis
+54419,Depression
+97793,Kidney Disease
+13829,Osteoporosis
+83705,Hypothyroidism
+75571,Anemia
+46918,Cancer
+88407,COPD
+60125,Hypothyroidism
+92084,Anemia
+87194,Depression
+55977,Stroke
+13644,Diabetes
+21864,Cancer
+23644,Hypertension
+72085,Diabetes
+52632,Depression
+66151,Asthma
+44238,Diabetes
+86184,Kidney Disease
+20732,Diabetes
+78632,Arthritis
+58066,COPD
+41307,Stroke
+72100,Stroke
+42553,Asthma
+48722,COPD
+56438,Kidney Disease
+95140,COPD
+42395,Asthma
+79745,Anemia
+31551,Diabetes
+73812,Osteoporosis
+28039,Stroke
+49160,COPD
+72120,Arthritis
+97593,Stroke
+33303,Cancer
+47187,Diabetes
+59297,Obesity
+58654,Anemia
+52047,Epilepsy
+25,Hypertension
+95199,Heart Disease
+4543,Anemia
+37287,Kidney Disease
+78087,Osteoporosis
+2136,Cancer
+67844,Anemia
+17705,Arthritis
+39562,Osteoporosis
+860,Kidney Disease
+39365,Cancer
+29083,Depression
+28157,Arthritis
+41275,Cancer
+2844,Stroke
+90402,Stroke
+72569,Stroke
+67013,Osteoporosis
+72918,COPD
+74922,Osteoporosis
+20278,Kidney Disease
+12358,Diabetes
+4946,Hypothyroidism
+60341,Depression
+46616,Depression
+20461,Depression
+18141,Stroke
+34732,Kidney Disease
+48114,Obesity
+76304,Cancer
+32749,Diabetes
+39361,Diabetes
+12046,Osteoporosis
+74774,COPD
+52402,Arthritis
+74588,Heart Disease
+28499,Anemia
+96241,Stroke
+10118,Anemia
+94841,Anemia
+42558,Epilepsy
+63246,Anemia
+22662,Arthritis
+63999,Hypothyroidism
+90386,Kidney Disease
+75527,Osteoporosis
+78018,Osteoporosis
+84181,Kidney Disease
+39373,Obesity
+4898,Stroke
+95786,Heart Disease
+50010,Cancer
+10286,Osteoporosis
+7329,Heart Disease
+43829,Arthritis
+56925,Stroke
+54594,Osteoporosis
+15799,Arthritis
+29716,COPD
+97999,Epilepsy
+85561,Asthma
+78944,Kidney Disease
+83084,Hypertension
+82862,Asthma
+50133,Asthma
+7094,Osteoporosis
+39948,Cancer
+68731,Hypertension
+5397,Depression
+70769,Diabetes
+74044,Depression
+19605,COPD
+42838,Cancer
+65850,COPD
+91457,Asthma
+28940,Asthma
+20079,Heart Disease
+6621,Anemia
+88294,COPD
+95889,Diabetes
+51495,Obesity
+58407,Epilepsy
+98676,Osteoporosis
+78005,Hypothyroidism
+75399,Asthma
+66155,Diabetes
+29109,Asthma
+56614,Hypothyroidism
+37982,Obesity
+51684,Heart Disease
+19400,Diabetes
+17326,Stroke
+44062,Hypothyroidism
+10819,Kidney Disease
+62371,Heart Disease
+74899,Anemia
+97689,Kidney Disease
+6463,COPD
+71847,Epilepsy
+52322,Stroke
+34413,Heart Disease
+11151,Cancer
+52235,Obesity
+56949,Hypertension
+91471,Stroke
+17088,Osteoporosis
+99881,Obesity
+17677,Cancer
+63035,Arthritis
+73308,Asthma
+25966,Cancer
+51815,Hypertension
+85491,Stroke
+74885,Cancer
+25703,Asthma
+73553,Depression
+80739,Cancer
+96425,Cancer
+68714,Depression
+32275,Hypertension
+31760,Obesity
+9390,Arthritis
+34898,Hypothyroidism
+56369,Arthritis
+42390,Kidney Disease
+89749,Obesity
+75499,Obesity
+11743,Obesity
+14749,COPD
+88047,Arthritis
+54209,Stroke
+55514,Heart Disease
+47876,Cancer
+45653,Epilepsy
+24967,Cancer
+42039,Anemia
+45157,Stroke
+77840,Kidney Disease
+85905,Diabetes
+3172,Hypertension
+39953,Kidney Disease
+22184,Obesity
+45838,Epilepsy
+80769,Arthritis
+81681,Hypothyroidism
+19112,Kidney Disease
+57732,Heart Disease
+5882,Hypothyroidism
+30603,Heart Disease
+26173,Arthritis
+89831,Diabetes
+48997,Kidney Disease
+99317,Hypothyroidism
+95484,Obesity
+11247,Depression
+14728,Hypothyroidism
+96938,Stroke
+7148,Hypertension
+31856,Depression
+81396,COPD
+19356,Cancer
+37707,Osteoporosis
+1800,COPD
+44993,Diabetes
+90937,Hypothyroidism
+14585,Cancer
+39992,Anemia
+58990,Stroke
+61759,Obesity
+2981,Cancer
+43499,Stroke
+27395,Cancer
+96994,Epilepsy
+70517,Epilepsy
+27770,Diabetes
+26712,COPD
+71620,Hypothyroidism
+68585,Kidney Disease
+98350,Arthritis
+63311,Obesity
+81663,Cancer
+95672,Hypertension
+18526,Hypertension
+91104,Asthma
+91587,Stroke
+87590,Cancer
+2410,Cancer
+49362,Diabetes
+76415,Kidney Disease
+86969,Hypertension
+69048,Arthritis
+5699,Kidney Disease
+33483,Kidney Disease
+22324,Stroke
+7878,Arthritis
+37226,Anemia
+26305,Kidney Disease
+91295,Depression
+80997,Anemia
+35557,Hypertension
+6957,Arthritis
+60943,Cancer
+85820,Anemia
+1092,Osteoporosis
+8729,Hypothyroidism
+86556,Osteoporosis
+35561,Stroke
+86898,Depression
+86520,Kidney Disease
+14141,Anemia
+2500,Hypertension
+38337,Osteoporosis
+85119,Kidney Disease
+50662,Asthma
+30299,Diabetes
+49899,Epilepsy
+66655,Osteoporosis
+13055,Obesity
+63525,Diabetes
+78263,Hypertension
+69672,Hypertension
+11537,Diabetes
+24434,Asthma
+26066,Stroke
+65621,COPD
+60029,Cancer
+73490,Hypertension
+93384,Heart Disease
+2816,Anemia
+5210,Arthritis
+39967,Hypothyroidism
+43721,COPD
+64216,Depression
+51563,Depression
+97568,Epilepsy
+20578,Kidney Disease
+2408,Depression
+45453,Depression
+89694,Obesity
+46125,Diabetes
+46580,Depression
+81950,Kidney Disease
+39626,Hypertension
+30959,Cancer
+65700,Diabetes
+36159,Kidney Disease
+8127,Osteoporosis
+82023,Heart Disease
+33774,Hypertension
+50747,Stroke
+3862,Osteoporosis
+72737,Heart Disease
+36725,Diabetes
+19884,Osteoporosis
+44798,Anemia
+51491,Hypertension
+86105,Obesity
+17991,Hypothyroidism
+11507,Cancer
+95668,Hypertension
+50096,COPD
+68251,Stroke
+88866,Kidney Disease
+80274,COPD
+81988,Heart Disease
+89983,Hypertension
+29809,COPD
+54700,Stroke
+31504,Hypothyroidism
+75090,Epilepsy
+20021,Depression
+55897,Depression
+40944,Anemia
+79346,Kidney Disease
+43160,Diabetes
+58873,Epilepsy
+71071,Asthma
+17271,Cancer
+27100,Arthritis
+85520,Asthma
+18163,Osteoporosis
+76156,Depression
+70956,Stroke
+89659,Stroke
+26517,Anemia
+18102,Cancer
+40501,COPD
+90247,Kidney Disease
+92423,Asthma
+68656,COPD
+17727,Kidney Disease
+19025,Hypothyroidism
+86013,Hypothyroidism
+74035,Stroke
+20715,Anemia
+41614,Osteoporosis
+8888,Kidney Disease
+73051,Obesity
+69856,Diabetes
+94298,Cancer
+15517,Anemia
+24134,Cancer
+41628,Asthma
+19073,Hypertension
+95299,Diabetes
+41771,Diabetes
+54269,Heart Disease
+53903,Heart Disease
+39760,Depression
+58065,Cancer
+97728,Cancer
+83472,Hypertension
+96775,COPD
+35887,Arthritis
+19917,Osteoporosis
+24632,Osteoporosis
+13994,Hypothyroidism
+17241,Osteoporosis
+24215,Obesity
+3433,Arthritis
+99935,Depression
+80213,Hypothyroidism
+80864,Kidney Disease
+34978,Anemia
+79377,Cancer
+74323,Asthma
+80263,Asthma
+30266,Asthma
+78166,Arthritis
+30432,Heart Disease
+90095,Anemia
+3418,COPD
+47089,Arthritis
+10417,Hypertension
+90196,Asthma
+62469,Kidney Disease
+65840,Stroke
+79260,Heart Disease
+61441,Anemia
+93325,Diabetes
+85140,Anemia
+24114,Stroke
+50785,Hypothyroidism
+64414,Cancer
+62108,Epilepsy
+18024,Kidney Disease
+21467,Cancer
+25330,Hypertension
+29658,COPD
+53554,Kidney Disease
+1967,Hypertension
+35370,COPD
+54138,Hypertension
+29170,Arthritis
+97303,Osteoporosis
+87993,Heart Disease
+26585,Epilepsy
+99323,Obesity
+26812,Obesity
+8668,Asthma
+23209,Kidney Disease
+57577,Kidney Disease
+80879,Arthritis
+64217,Hypertension
+90159,COPD
+42584,Heart Disease
+59971,Hypertension
+32346,Hypothyroidism
+56040,Arthritis
+53066,Obesity
+79682,Epilepsy
+96381,Epilepsy
+94398,Obesity
+41012,Heart Disease
+51662,Kidney Disease
+80151,COPD
+97316,Osteoporosis
+74964,Heart Disease
+70275,Asthma
+68843,Heart Disease
+84068,Heart Disease
+92289,Obesity
+5047,Stroke
+68242,Obesity
+14328,Depression
+59193,Asthma
+59886,Diabetes
+5559,Obesity
+32207,Arthritis
+67987,Stroke
+70499,Arthritis
+51853,Osteoporosis
+96360,Osteoporosis
+5144,Kidney Disease
+73098,Depression
+50777,COPD
+67649,Anemia
+6461,Obesity
+24884,Asthma
+38165,Kidney Disease
+57613,Osteoporosis
+39918,Obesity
+37475,Hypothyroidism
+60469,Epilepsy
+21821,Epilepsy
+55372,Epilepsy
+38590,Obesity
+80364,Stroke
+7149,COPD
+90433,Epilepsy
+67760,Cancer
+60762,Hypertension
+84685,Asthma
+59204,Kidney Disease
+11854,Heart Disease
+94718,Hypertension
+65622,Anemia
+14833,COPD
+23562,Anemia
+76735,Anemia
+91241,Asthma
+71618,Hypothyroidism
+17734,Cancer
+51520,Arthritis
+42396,COPD
+59098,Osteoporosis
+3265,Hypothyroidism
+23445,Kidney Disease
+59464,Hypertension
+77373,Osteoporosis
+93406,Hypertension
+26467,Hypothyroidism
+59596,Diabetes
+11820,Anemia
+42477,Cancer
+90664,Kidney Disease
+85010,Diabetes
+93253,Anemia
+21495,Heart Disease
+94158,Heart Disease
+96110,Depression
+16193,Stroke
+11952,Heart Disease
+14963,Arthritis
+92566,Hypothyroidism
+58903,Diabetes
+83109,Cancer
+47571,COPD
+11181,Cancer
+68657,Hypothyroidism
+92704,Cancer
+50343,Epilepsy
+95272,Kidney Disease
+67065,Stroke
+80225,Asthma
+20958,Obesity
+49634,Depression
+72134,Arthritis
+49886,Hypothyroidism
+22398,Stroke
+43934,Heart Disease
+74120,Osteoporosis
+86445,Anemia
+19672,COPD
+21249,Asthma
+18953,Epilepsy
+23444,Cancer
+93329,Cancer
+6725,Hypertension
+54995,Depression
+40378,Obesity
+40569,Cancer
+95703,Diabetes
+58491,Kidney Disease
+37851,Arthritis
+82110,Anemia
+23684,Stroke
+15408,Heart Disease
+17245,Kidney Disease
+26588,Asthma
+463,Stroke
+81600,Cancer
+33175,Asthma
+1600,Epilepsy
+60115,Asthma
+65225,Asthma
+65358,Heart Disease
+71237,Heart Disease
+753,Kidney Disease
+79689,Anemia
+64679,Asthma
+31179,Osteoporosis
+28426,Osteoporosis
+77183,Epilepsy
+86438,Obesity
+62352,Diabetes
+59472,Arthritis
+53759,Stroke
+57917,Epilepsy
+10407,Arthritis
+78802,Hypertension
+78656,COPD
+861,Obesity
+32075,Arthritis
+71741,Diabetes
+36452,Kidney Disease
+81233,Arthritis
+82396,Cancer
+73079,Hypothyroidism
+6411,Stroke
+24227,Obesity
+19432,Depression
+7217,Epilepsy
+85626,Hypothyroidism
+45746,Epilepsy
+4813,Hypothyroidism
+19054,Diabetes
+4250,Diabetes
+87424,Kidney Disease
+75771,Obesity
+79073,Hypertension
+43399,Osteoporosis
+11495,Cancer
+6426,Kidney Disease
+14272,Anemia
+54651,COPD
+23363,Anemia
+21146,Osteoporosis
+88092,COPD
+37274,Heart Disease
+80096,Cancer
+90638,Heart Disease
+91730,Asthma
+77983,Depression
+75010,Kidney Disease
+73685,Depression
+23254,Obesity
+98216,Heart Disease
+75886,Kidney Disease
+47210,Hypothyroidism
+4697,Anemia
+12206,Hypertension
+39229,Cancer
+42312,COPD
+48309,Depression
+49668,Hypothyroidism
+8869,Arthritis
+99410,Cancer
+56010,Depression
+72151,Obesity
+8509,Anemia
+38382,Anemia
+61710,Obesity
+17635,Epilepsy
+15993,Stroke
+91045,Epilepsy
+35968,Hypothyroidism
+43150,Heart Disease
+69081,Diabetes
+54232,Cancer
+68766,Hypothyroidism
+27504,Asthma
+91203,Epilepsy
+27400,Asthma
+80223,Arthritis
+7626,Hypertension
+14326,Cancer
+74890,Kidney Disease
+95646,COPD
+82441,Arthritis
+69330,Asthma
+11491,Asthma
+63394,Asthma
+94905,Obesity
+90263,Heart Disease
+79269,Osteoporosis
+92642,Anemia
+37642,Hypertension
+55974,Kidney Disease
+79802,Arthritis
+41482,Depression
+34034,Stroke
+75385,Obesity
+46380,Osteoporosis
+17001,Hypertension
+80516,Epilepsy
+73745,Kidney Disease
+65063,Epilepsy
+68118,Epilepsy
+95575,Arthritis
+82818,Heart Disease
+64553,Asthma
+23580,Kidney Disease
+79876,Anemia
+30503,Depression
+92875,Diabetes
+38074,Arthritis
+25369,Diabetes
+207,Asthma
+15493,Heart Disease
+3143,Heart Disease
+60933,Asthma
+81980,Asthma
+15456,Kidney Disease
+96661,Cancer
+27175,Diabetes
+80649,Hypothyroidism
+54346,Heart Disease
+5962,Asthma
+43750,Diabetes
+45829,Asthma
+73454,COPD
+83558,Hypothyroidism
+27831,Asthma
+1480,Cancer
+83967,Depression
+26370,Heart Disease
+90441,Heart Disease
+36913,Kidney Disease
+33347,Diabetes
+8891,Hypothyroidism
+40340,Osteoporosis
+39358,Osteoporosis
+66412,Kidney Disease
+72088,Anemia
+42457,COPD
+803,Hypertension
+89893,Arthritis
+43684,Epilepsy
+51910,Heart Disease
+74569,Epilepsy
+3816,Anemia
+23020,Epilepsy
+43321,Asthma
+44294,Arthritis
+88142,Anemia
+62797,Depression
+62193,Heart Disease
+4660,Asthma
+84626,Stroke
+17793,Heart Disease
+63110,Anemia
+20366,Stroke
+82208,Asthma
+60374,Heart Disease
+43923,Kidney Disease
+60616,Cancer
+54257,COPD
+97332,Asthma
+7342,Osteoporosis
+68298,Kidney Disease
+39235,Obesity
+74048,Hypothyroidism
+95022,Epilepsy
+88892,Heart Disease
+41353,Heart Disease
+70239,Hypertension
+27297,Arthritis
+75680,Depression
+89848,Depression
+43479,Asthma
+8678,Hypertension
+19569,Diabetes
+36760,Arthritis
+4085,Cancer
+44453,Anemia
+49183,Hypothyroidism
+82118,Cancer
+70028,Kidney Disease
+21753,Depression
+74839,Anemia
+79388,Asthma
+51061,Heart Disease
+24560,Hypertension
+78012,Asthma
+15315,Epilepsy
+98505,Hypothyroidism
+40407,Heart Disease
+92440,Heart Disease
+93040,Diabetes
+4145,Hypothyroidism
+35585,Stroke
+54246,Cancer
+11376,Cancer
+65149,Stroke
+31148,Hypertension
+48704,Hypertension
+59232,Epilepsy
+39666,Kidney Disease
+28329,Asthma
+68825,Hypothyroidism
+39625,Heart Disease
+22939,Cancer
+14710,Anemia
+49049,Diabetes
+4901,Hypothyroidism
+26489,Stroke
+12137,Kidney Disease
+58166,Kidney Disease
+66321,Depression
+3268,Cancer
+63263,Depression
+65543,Obesity
+20195,Anemia
+44579,Diabetes
+63369,Osteoporosis
+96002,Cancer
+68632,Depression
+40679,Arthritis
+42904,Stroke
+18781,Epilepsy
+12878,Stroke
+67652,Stroke
+88698,Depression
+17395,Obesity
+26894,Heart Disease
+94970,Stroke
+4791,Osteoporosis
+60210,Hypothyroidism
+50801,Stroke
+93543,Anemia
+68464,Osteoporosis
+15182,Heart Disease
+538,Hypertension
+5771,Depression
+90053,Asthma
+77894,COPD
+11413,Epilepsy
+61194,Stroke
+6047,Arthritis
+13513,Hypothyroidism
+68233,Anemia
+97721,Hypertension
+40957,COPD
+2946,Heart Disease
+75701,Hypothyroidism
+99417,Cancer
+40913,Depression
+83735,COPD
+42058,Arthritis
+26287,Diabetes
+25237,Osteoporosis
+37560,Osteoporosis
+36261,Stroke
+69766,Diabetes
+41831,Heart Disease
+57817,Cancer
+87965,Hypertension
+15420,Cancer
+35737,Diabetes
+19571,Depression
+20643,Kidney Disease
+35866,Arthritis
+15002,Osteoporosis
+1999,Stroke
+81650,Obesity
+73351,Depression
+67378,Obesity
+13418,Hypertension
+27076,Asthma
+71110,Depression
+45916,Kidney Disease
+72006,Heart Disease
+41744,COPD
+35527,COPD
+18554,Anemia
+92321,Cancer
+75246,Depression
+32089,Heart Disease
+22449,Obesity
+9337,Heart Disease
+40812,COPD
+80381,Kidney Disease
+44399,Depression
+70854,Stroke
+58149,Arthritis
+6648,Depression
+17049,Cancer
+3800,Stroke
+61700,Cancer
+88538,Epilepsy
+6613,Asthma
+13884,Obesity
+50279,Cancer
+11287,Cancer
+51369,Epilepsy
+23459,COPD
+92363,COPD
+78134,Heart Disease
+77693,Obesity
+82505,Stroke
+90456,Osteoporosis
+91667,Depression
+58436,Osteoporosis
+80781,Asthma
+46612,Anemia
+40952,Anemia
+43559,Kidney Disease
+25971,Hypertension
+93441,Osteoporosis
+99405,Arthritis
+87932,Epilepsy
+10295,Stroke
+99056,Osteoporosis
+61039,Asthma
+74421,Hypertension
+17274,Arthritis
+12178,Cancer
+91566,Depression
+61377,Stroke
+12748,Obesity
+59714,Stroke
+40683,Cancer
+89715,Heart Disease
+84465,Osteoporosis
+93089,Kidney Disease
+61675,Osteoporosis
+30368,Diabetes
+29333,Asthma
+18837,Depression
+80863,Kidney Disease
+33823,Diabetes
+47638,Stroke
+51390,Hypertension
+24032,Anemia
+91699,Asthma
+87186,Epilepsy
+43296,Hypothyroidism
+42567,Heart Disease
+59412,Depression
+63898,Hypertension
+3966,Hypertension
+8567,COPD
+62303,Arthritis
+14796,Obesity
+46064,Hypertension
+62737,Heart Disease
+60455,Diabetes
+22387,Osteoporosis
+36996,Depression
+45693,Hypothyroidism
+79225,Depression
+75324,Heart Disease
+16697,Kidney Disease
+66577,Cancer
+13491,COPD
+53174,Osteoporosis
+93621,Heart Disease
+14022,Diabetes
+42712,Stroke
+72895,Anemia
+85124,Asthma
+9296,Kidney Disease
+69828,Epilepsy
+60420,Epilepsy
+52535,Diabetes
+77402,Arthritis
+54190,Anemia
+81379,Kidney Disease
+31941,Hypothyroidism
+71820,Stroke
+20843,Cancer
+63225,COPD
+50307,Arthritis
+8658,Diabetes
+44658,Stroke
+27294,Heart Disease
+90971,Cancer
+77459,Cancer
+56511,Osteoporosis
+57062,Arthritis
+74345,Heart Disease
+44852,Asthma
+71372,Kidney Disease
+90981,Diabetes
+30953,Obesity
+22686,Arthritis
+86849,Kidney Disease
+87766,Diabetes
+10209,Asthma
+96910,Hypertension
+93311,COPD
+75260,Stroke
+14984,Depression
+77616,Obesity
+78128,Kidney Disease
+60674,Depression
+42647,Depression
+72756,Heart Disease
+12799,Arthritis
+58355,Cancer
+23091,Diabetes
+40374,Osteoporosis
+53188,Osteoporosis
+9123,Hypertension
+78415,Hypothyroidism
+14253,Hypertension
+89850,Cancer
+49664,COPD
+42914,Osteoporosis
+64788,Anemia
+84540,Cancer
+86529,Hypothyroidism
+8058,Heart Disease
+11866,Obesity
+28522,Obesity
+18208,Anemia
+98957,COPD
+83379,Arthritis
+24,Heart Disease
+99231,Arthritis
+19231,Epilepsy
+86623,Hypothyroidism
+59372,Depression
+69632,Heart Disease
+38207,Diabetes
+51115,COPD
+80684,Asthma
+58610,Depression
+25646,Cancer
+26956,Hypertension
+89327,Cancer
+41497,Hypertension
+39286,Cancer
+89071,COPD
+39917,Obesity
+56980,Hypertension
+94082,Stroke
+45123,Cancer
+76379,COPD
+1064,Hypothyroidism
+80149,Cancer
+66902,Anemia
+52978,Stroke
+16718,Heart Disease
+38559,COPD
+8180,Osteoporosis
+48394,Epilepsy
+71943,Depression
+6963,Heart Disease
+110,Epilepsy
+92190,Stroke
+73404,Arthritis
+47086,Stroke
+14378,Obesity
+36989,Stroke
+4087,Epilepsy
+30833,Kidney Disease
+56585,Epilepsy
+92041,Hypothyroidism
+77353,Heart Disease
+51677,Anemia
+81948,Diabetes
+41697,Epilepsy
+93293,Hypertension
+50173,COPD
+53219,Hypertension
+50012,Depression
+57041,Kidney Disease
+71449,Stroke
+27684,Arthritis
+86833,Kidney Disease
+22729,Osteoporosis
+62242,Arthritis
+18228,Stroke
+24671,Obesity
+72800,Depression
+50409,Obesity
+47223,Cancer
+54687,Cancer
+20220,Diabetes
+37810,Osteoporosis
+87826,Anemia
+16455,COPD
+17600,Arthritis
+1520,COPD
+9403,Hypertension
+84985,Depression
+2058,Kidney Disease
+18873,Osteoporosis
+94547,Anemia
+63792,Obesity
+57243,Hypertension
+17796,Cancer
+11097,Hypothyroidism
+17985,Asthma
+84180,Epilepsy
+54507,Obesity
+59772,Obesity
+79223,Arthritis
+55797,Hypothyroidism
+81690,Heart Disease
+23566,COPD
+59558,Asthma
+66770,Osteoporosis
+55590,Kidney Disease
+58988,Hypothyroidism
+50425,Hypothyroidism
+46570,Arthritis
+29588,Epilepsy
+24352,Osteoporosis
+55675,Arthritis
+79242,Arthritis
+973,Osteoporosis
+75751,Arthritis
+65294,Anemia
+95802,COPD
+31031,Arthritis
+93340,Arthritis
+65762,Arthritis
+35291,Anemia
+53849,Arthritis
+71587,Anemia
+75543,Heart Disease
+48099,Obesity
+4385,Asthma
+4963,Stroke
+74468,Hypertension
+63342,Hypertension
+92390,Hypothyroidism
+48310,Hypertension
+14832,Kidney Disease
+76056,Kidney Disease
+63115,Epilepsy
+90504,Heart Disease
+18623,Diabetes
+95706,Stroke
+95852,Anemia
+68997,Cancer
+98380,Diabetes
+36624,Anemia
+60940,Epilepsy
+67757,Obesity
+10254,Heart Disease
+68597,Obesity
+11592,Epilepsy
+32142,Hypothyroidism
+82662,Hypothyroidism
+97214,Hypothyroidism
+86997,Heart Disease
+87650,Anemia
+10234,COPD
+89662,Epilepsy
+83058,Asthma
+70673,Stroke
+75973,Hypothyroidism
+40959,Cancer
+6917,COPD
+45029,Depression
+70127,Arthritis
+1413,Stroke
+61455,Heart Disease
+59511,Asthma
+67195,Diabetes
+61503,Cancer
+75230,Stroke
+96182,Depression
+43452,Epilepsy
+55183,Cancer
+46257,Diabetes
+38616,Cancer
+37907,Obesity
+21955,Depression
+4630,Anemia
+91101,Kidney Disease
+78333,Stroke
+98228,Asthma
+39855,Epilepsy
+95285,Hypertension
+73886,Osteoporosis
+34136,Cancer
+8050,Epilepsy
+82483,Obesity
+62018,Osteoporosis
+75778,Diabetes
+22161,Diabetes
+75085,Kidney Disease
+6765,Arthritis
+86025,Depression
+38240,Heart Disease
+96649,Hypertension
+3578,Obesity
+37593,Obesity
+63538,Heart Disease
+10814,Anemia
+16622,COPD
+66269,Asthma
+10074,Cancer
+36418,COPD
+33036,Arthritis
+17372,COPD
+80713,Epilepsy
+36827,Heart Disease
+36073,Obesity
+33679,Obesity
+1861,Asthma
+79144,Epilepsy
+22886,Depression
+77564,Arthritis
+96857,Depression
+19809,Osteoporosis
+86396,Stroke
+58543,Obesity
+48466,Obesity
+22989,Anemia
+34242,Depression
+91851,COPD
+30958,Epilepsy
+63559,Asthma
+23699,Heart Disease
+69125,Asthma
+4337,Heart Disease
+44937,Kidney Disease
+11062,Arthritis
+19014,Anemia
+78059,Hypertension
+20204,Osteoporosis
+65004,COPD
+98665,Stroke
+54125,Arthritis
+50222,Cancer
+31188,Depression
+86594,Anemia
+57695,Depression
+95158,Arthritis
+83568,Asthma
+21926,Stroke
+27637,Osteoporosis
+75727,Asthma
+96254,Epilepsy
+45229,Stroke
+7120,Diabetes
+34654,Asthma
+99022,Depression
+15203,Epilepsy
+6884,Asthma
+21967,Hypothyroidism
+60819,Anemia
+52264,Kidney Disease
+62420,Cancer
+39500,Cancer
+62425,Osteoporosis
+97799,Obesity
+98622,Stroke
+69798,Epilepsy
+30626,COPD
+49781,COPD
+89589,Cancer
+92485,Anemia
+51127,Heart Disease
+34422,Diabetes
+69526,Depression
+56981,Hypertension
+1554,Osteoporosis
+37852,Asthma
+50070,Diabetes
+88931,Arthritis
+41377,Anemia
+69501,COPD
+89505,Epilepsy
+12761,Anemia
+69637,Kidney Disease
+83548,Hypertension
+46376,Epilepsy
+56595,Osteoporosis
+80017,Obesity
+85467,COPD
+35728,Obesity
+43904,Obesity
+35432,Cancer
+35007,Cancer
+12881,Hypothyroidism
+33468,Stroke
+85766,COPD
+51269,Obesity
+60438,Diabetes
+88511,Depression
+98184,Hypertension
+31692,Obesity
+96247,Anemia
+88065,Kidney Disease
+77165,Heart Disease
+25549,Arthritis
+68151,Heart Disease
+44224,Heart Disease
+88829,Kidney Disease
+23582,Kidney Disease
+41060,Cancer
+71776,Asthma
+1386,Stroke
+88185,COPD
+8906,Obesity
+12805,Obesity
+68847,Kidney Disease
+13619,Cancer
+89849,Epilepsy
+58450,Stroke
+46073,Osteoporosis
+28759,Epilepsy
+95060,Hypothyroidism
+37132,Hypertension
+33016,Depression
+25307,Heart Disease
+4461,COPD
+3106,Epilepsy
+81185,Kidney Disease
+12050,Asthma
+77874,Anemia
+86062,Asthma
+28419,Kidney Disease
+78562,Stroke
+15963,Hypothyroidism
+15725,Obesity
+79257,Depression
+17027,Kidney Disease
+49277,Heart Disease
+86034,Heart Disease
+84922,Depression
+74195,Anemia
+24217,Hypothyroidism
+14528,Hypertension
+91180,Hypertension
+24151,Asthma
+33205,Obesity
+38609,Arthritis
+61204,Obesity
+86570,Obesity
+9924,Kidney Disease
+83726,COPD
+59433,Osteoporosis
+36226,COPD
+55965,Heart Disease
+90730,Kidney Disease
+42389,Depression
+33729,COPD
+9698,Hypothyroidism
+36344,Epilepsy
+8177,Stroke
+50174,Anemia
+50933,Obesity
+43601,Osteoporosis
+7872,Heart Disease
+33847,Cancer
+34690,Epilepsy
+23321,Depression
+57747,Asthma
+9096,Asthma
+64450,Anemia
+79993,Diabetes
+51463,Asthma
+23388,Osteoporosis
+84604,Arthritis
+64494,Kidney Disease
+14212,COPD
+18857,Osteoporosis
+70861,Osteoporosis
+56525,Osteoporosis
+28624,Hypertension
+13926,Arthritis
+57878,Asthma
+93768,Depression
+33947,Hypertension
+4569,Hypertension
+9557,Hypertension
+9229,Hypothyroidism
+74887,Hypothyroidism
+95360,Epilepsy
+32846,Cancer
+58442,Diabetes
+2459,Diabetes
+65234,Stroke
+19510,Depression
+85572,Cancer
+83930,Stroke
+113,Hypertension
+4959,Hypertension
+87111,COPD
+51181,Heart Disease
+34922,Asthma
+19871,Hypertension
+91757,Kidney Disease
+43231,Hypothyroidism
+51292,Hypothyroidism
+75319,Depression
+485,COPD
+92747,Arthritis
+64314,Arthritis
+62670,Osteoporosis
+52941,COPD
+95389,Epilepsy
+9188,Kidney Disease
+29602,Asthma
+433,Asthma
+50387,Cancer
+90342,Anemia
+63185,Asthma
+15886,Diabetes
+70163,Diabetes
+47044,Kidney Disease
+43704,Obesity
+89369,Anemia
+52509,Hypothyroidism
+7234,Obesity
+82873,Anemia
+84813,Epilepsy
+11883,Epilepsy
+47887,Anemia
+70074,Cancer
+44572,Hypothyroidism
+10545,COPD
+60245,Cancer
+99674,Epilepsy
+38005,Asthma
+84907,Osteoporosis
+26623,Cancer
+23149,Asthma
+72676,Heart Disease
+5155,Heart Disease
+50353,Epilepsy
+86603,Kidney Disease
+25035,Osteoporosis
+39173,Kidney Disease
+91210,Hypothyroidism
+51131,Heart Disease
+82656,Depression
+90287,Cancer
+63766,Kidney Disease
+11123,Kidney Disease
+82941,Cancer
+57407,COPD
+24833,Hypothyroidism
+18342,Obesity
+4679,Epilepsy
+25309,Cancer
+3324,Arthritis
+94337,Stroke
+77718,Hypertension
+31258,Epilepsy
+64124,COPD
+50956,Obesity
+8256,Depression
+70851,COPD
+84332,Asthma
+40334,COPD
+65494,Diabetes
+69984,Diabetes
+58891,Cancer
+2151,Anemia
+4855,Stroke
+44470,Anemia
+7347,Asthma
+44265,Obesity
+94504,COPD
+5611,Epilepsy
+53150,Cancer
+15491,Diabetes
+27745,Osteoporosis
+85701,Hypothyroidism
+87466,Epilepsy
+68566,Stroke
+60079,Epilepsy
+88877,COPD
+19523,Diabetes
+97131,Stroke
+75936,Depression
+30537,Stroke
+9441,COPD
+4833,Heart Disease
+96398,Arthritis
+18558,Stroke
+64080,Diabetes
+85699,Cancer
+2498,Obesity
+61763,Arthritis
+81051,Depression
+6003,Hypothyroidism
+31808,Cancer
+91920,Depression
+85037,Depression
+17109,Arthritis
+1882,Asthma
+22577,Osteoporosis
+82924,Osteoporosis
+6548,Kidney Disease
+40283,Depression
+12752,Anemia
+59793,Depression
+80114,Arthritis
+22372,COPD
+77469,Hypertension
+8383,Depression
+13937,Kidney Disease
+14965,Arthritis
+65161,Cancer
+77984,Stroke
+80691,Stroke
+28910,Hypothyroidism
+8271,Heart Disease
+26560,Stroke
+55864,Osteoporosis
+44216,Kidney Disease
+96721,COPD
+52692,COPD
+42498,Kidney Disease
+15833,Osteoporosis
+89664,Cancer
+75493,Stroke
+71550,COPD
+18000,Depression
+42151,Arthritis
+27948,Anemia
+5975,Hypertension
+77736,Asthma
+22734,Asthma
+43975,COPD
+8286,Hypertension
+35899,Kidney Disease
+18512,Epilepsy
+99293,Heart Disease
+54415,Epilepsy
+22026,COPD
+91264,Osteoporosis
+48487,Heart Disease
+72536,Epilepsy
+21627,Arthritis
+57496,Obesity
+31934,Diabetes
+76282,Asthma
+5334,Diabetes
+13102,Cancer
+82863,Diabetes
+80273,Asthma
+49300,Hypertension
+20677,COPD
+2048,COPD
+63827,Asthma
+10580,Osteoporosis
+832,Epilepsy
+23516,Osteoporosis
+11683,Diabetes
+92633,Arthritis
+77821,Hypertension
+37189,Asthma
+54555,Diabetes
+90898,Epilepsy
+62391,Arthritis
+90748,Obesity
+16632,Depression
+27021,COPD
+18754,Stroke
+83863,Stroke
+35513,Epilepsy
+68562,Obesity
+59037,Epilepsy
+54005,Osteoporosis
+22878,Stroke
+80024,Diabetes
+90659,Obesity
+4931,Hypertension
+78154,Anemia
+23593,Stroke
+94004,Asthma
+65521,Diabetes
+80222,COPD
+82207,Stroke
+39478,Depression
+45593,Hypertension
+54891,Cancer
+599,Epilepsy
+73100,Asthma
+30885,Arthritis
+25153,Hypothyroidism
+15401,Anemia
+69494,COPD
+12541,Anemia
+81123,Depression
+47435,Anemia
+99762,Diabetes
+70742,Hypertension
+66524,Stroke
+28740,Osteoporosis
+60845,Arthritis
+82111,Depression
+86419,Stroke
+27277,Epilepsy
+36231,Arthritis
+25391,Osteoporosis
+14769,Diabetes
+89816,Arthritis
+62182,Epilepsy
+65210,Osteoporosis
+23111,Stroke
+20940,Hypertension
+87836,Cancer
+5651,Kidney Disease
+7081,Arthritis
+84523,Epilepsy
+47735,Depression
+27471,Kidney Disease
+32949,COPD
+43816,Hypothyroidism
+80847,Obesity
+99406,Asthma
+59394,Kidney Disease
+5677,Osteoporosis
+13686,Diabetes
+97047,Osteoporosis
+6875,Hypothyroidism
+70432,Cancer
+3809,Cancer
+63577,Hypertension
+67489,COPD
+15212,Epilepsy
+30841,Kidney Disease
+58303,COPD
+77687,Arthritis
+75990,Obesity
+42725,Hypothyroidism
+54927,Diabetes
+26050,Anemia
+97922,Kidney Disease
+88716,Arthritis
+42688,Hypertension
+30154,Arthritis
+14435,Kidney Disease
+29855,Depression
+12853,Obesity
+31079,Diabetes
+96698,Asthma
+54079,Stroke
+26208,COPD
+49221,Heart Disease
+28922,Hypertension
+61733,Depression
+76689,Stroke
+63492,Arthritis
+7122,Diabetes
+57129,Diabetes
+18997,Heart Disease
+28333,Stroke
+79879,Osteoporosis
+59636,Epilepsy
+23338,Osteoporosis
+50768,Heart Disease
+48953,Asthma
+17878,Obesity
+59996,Stroke
+94348,Hypertension
+25448,Arthritis
+82840,Asthma
+47001,Epilepsy
+35349,Hypertension
+26504,Kidney Disease
+44025,Heart Disease
+16673,Obesity
+4206,Hypothyroidism
+90729,Stroke
+74536,Kidney Disease
+7818,Diabetes
+36779,Diabetes
+17891,Obesity
+14563,Kidney Disease
+61018,Asthma
+60106,Osteoporosis
+54817,Cancer
+99659,Stroke
+45033,Hypertension
+28816,Asthma
+38687,Epilepsy
+79119,Arthritis
+20550,Obesity
+83623,Cancer
+80154,Stroke
+22273,Kidney Disease
+75775,Stroke
+72450,Obesity
+30107,Stroke
+11334,Hypothyroidism
+53961,Epilepsy
+68389,Osteoporosis
+64122,Arthritis
+28369,Diabetes
+77539,Osteoporosis
+62061,Depression
+60655,Obesity
+36591,Osteoporosis
+1901,Asthma
+95684,COPD
+56113,Hypothyroidism
+96492,Diabetes
+32329,Epilepsy
+32483,Osteoporosis
+56917,Epilepsy
+75951,Cancer
+29151,COPD
+19525,Cancer
+75196,Osteoporosis
+665,Epilepsy
+54758,Arthritis
+5796,Heart Disease
+5250,Asthma
+61689,Cancer
+96138,Obesity
+4406,Obesity
+62818,Osteoporosis
+91311,Epilepsy
+12844,COPD
+59302,Anemia
+64918,Anemia
+31524,Heart Disease
+10890,Hypothyroidism
+73202,Anemia
+98707,Cancer
+1628,Asthma
+90853,Hypertension
+95916,Cancer
+53296,Asthma
+28574,Epilepsy
+17394,COPD
+46976,Anemia
+38769,COPD
+31334,Cancer
+84887,Obesity
+11892,Epilepsy
+2087,Diabetes
+62886,Stroke
+87691,Kidney Disease
+39955,Cancer
+21207,Depression
+92183,Osteoporosis
+60199,Asthma
+74760,Hypothyroidism
+97948,Diabetes
+76501,Heart Disease
+3199,Anemia
+59616,Obesity
+18169,Stroke
+92161,Heart Disease
+53131,Arthritis
+24241,Obesity
+48551,Osteoporosis
+82157,Hypertension
+60856,Kidney Disease
+92261,Cancer
+83021,Anemia
+178,Depression
+82222,Arthritis
+9266,Cancer
+43634,Kidney Disease
+4287,Epilepsy
+38874,Stroke
+55823,Cancer
+98682,Asthma
+35361,Heart Disease
+91495,COPD
+80281,Obesity
+71098,Depression
+75396,Kidney Disease
+27151,Obesity
+89740,Hypertension
+10611,Hypertension
+81324,Cancer
+44000,Kidney Disease
+96437,Hypertension
+7184,Diabetes
+67467,Anemia
+88428,Asthma
+47708,Asthma
+6758,Anemia
+14544,Diabetes
+50194,Arthritis
+47918,Hypertension
+60994,Epilepsy
+81151,Arthritis
+5357,Hypertension
+47916,Diabetes
+48029,Heart Disease
+22972,Kidney Disease
+84957,Anemia
+73241,Depression
+92389,Kidney Disease
+8782,Epilepsy
+73499,Cancer
+92974,Heart Disease
+26832,Osteoporosis
+43899,Heart Disease
+70730,COPD
+14884,Diabetes
+85070,Obesity
+62717,Arthritis
+98602,Heart Disease
+76037,Osteoporosis
+27498,Hypertension
+98719,Diabetes
+97650,Hypothyroidism
+99730,Hypothyroidism
+29548,Arthritis
+42003,Kidney Disease
+46230,Epilepsy
+35043,Hypothyroidism
+66003,Hypothyroidism
+89158,Anemia
+55434,Hypertension
+36325,Epilepsy
+7138,Stroke
+8305,Kidney Disease
+48865,Diabetes
+45249,Obesity
+59298,Cancer
+63730,Osteoporosis
+65726,Hypothyroidism
+69033,Depression
+16083,Anemia
+61625,Obesity
+93038,Stroke
+69717,Osteoporosis
+69842,Diabetes
+38307,Anemia
+59241,Heart Disease
+81389,COPD
+48253,Cancer
+88251,Diabetes
+90862,Osteoporosis
+8601,Hypertension
+24687,Anemia
+60014,COPD
+11443,Hypertension
+10508,Arthritis
+51207,Cancer
+23437,Hypertension
+37797,Hypertension
+10085,Osteoporosis
+21596,Arthritis
+36168,Cancer
+14683,Depression
+91367,Arthritis
+19392,Arthritis
+65054,Cancer
+19726,Kidney Disease
+68247,Arthritis
+82218,Heart Disease
+2974,Kidney Disease
+38426,Asthma
+89443,Cancer
+70966,Osteoporosis
+17305,Cancer
+62115,Depression
+45442,Osteoporosis
+55067,Hypertension
+58177,Stroke
+96693,Kidney Disease
+2815,Heart Disease
+38209,Obesity
+24780,Kidney Disease
+8250,Epilepsy
+2888,Osteoporosis
+30451,Kidney Disease
+68107,Depression
+44024,Hypothyroidism
+75851,Hypertension
+44930,Asthma
+85951,Stroke
+84679,Asthma
+42769,Cancer
+63720,Depression
+77772,Cancer
+87274,Obesity
+91339,Kidney Disease
+69489,Asthma
+71888,Cancer
+58360,Heart Disease
+60031,Epilepsy
+39856,Hypothyroidism
+74350,Obesity
+17295,Hypothyroidism
+40172,Obesity
+22509,Cancer
+34079,Obesity
+29724,Anemia
+63470,Obesity
+48745,Depression
+37767,Stroke
+6202,Kidney Disease
+19443,Depression
+46284,Anemia
+81085,Osteoporosis
+21075,Obesity
+70165,Heart Disease
+37387,Arthritis
+22984,Heart Disease
+92813,Cancer
+90814,Arthritis
+87340,Depression
+20117,Stroke
+21135,Cancer
+31182,Hypothyroidism
+15324,Osteoporosis
+5393,COPD
+41500,Obesity
+75304,Epilepsy
+16577,Epilepsy
+57788,Depression
+34132,Diabetes
+48453,Osteoporosis
+24182,Diabetes
+26890,COPD
+73726,Heart Disease
+92685,Diabetes
+4546,Cancer
+87235,Asthma
+41542,Hypothyroidism
+45068,COPD
+19391,Diabetes
+48878,COPD
+58776,Arthritis
+70761,Arthritis
+21311,Anemia
+69945,Obesity
+39526,Diabetes
+15923,Stroke
+3266,Anemia
+53026,Osteoporosis
+65459,Anemia
+19055,COPD
+41971,Hypothyroidism
+20454,Cancer
+562,Cancer
+96796,Cancer
+71584,Heart Disease
+43421,Hypothyroidism
+84835,Heart Disease
+92464,Asthma
+38739,Hypertension
+62116,Diabetes
+37988,Epilepsy
+98849,Obesity
+75199,Asthma
+19278,Asthma
+74086,COPD
+57947,Obesity
+44392,Hypothyroidism
+90327,Heart Disease
+14721,Arthritis
+95897,Arthritis
+5253,COPD
+18274,Stroke
+88867,COPD
+72215,Hypertension
+15319,Heart Disease
+40380,Depression
+3250,Heart Disease
+52642,Hypothyroidism
+80939,Arthritis
+28883,Osteoporosis
+58454,Hypertension
+46844,Osteoporosis
+12121,Obesity
+42777,Stroke
+7213,Epilepsy
+79711,Asthma
+25578,Epilepsy
+76471,Anemia
+69000,Hypothyroidism
+29116,Osteoporosis
+36428,Osteoporosis
+25652,Heart Disease
+2955,Anemia
+10956,Hypothyroidism
+70570,Hypertension
+58387,Heart Disease
+88744,Kidney Disease
+88022,COPD
+11452,Diabetes
+67081,Osteoporosis
+51697,Stroke
+25486,Heart Disease
+64286,Depression
+41649,Hypertension
+79058,Stroke
+79308,Diabetes
+67050,Hypothyroidism
+7346,Stroke
+87394,Obesity
+47325,Obesity
+52108,Hypothyroidism
+93842,Anemia
+56051,Depression
+48448,Depression
+50608,Hypothyroidism
+48867,Anemia
+1597,Hypertension
+37309,Anemia
+45209,Stroke
+46052,Arthritis
+40381,Osteoporosis
+58402,Kidney Disease
+73535,Anemia
+11481,Heart Disease
+28271,Hypothyroidism
+58224,Diabetes
+97193,Kidney Disease
+54474,Stroke
+57999,Kidney Disease
+37831,Depression
+21468,Diabetes
+95420,COPD
+55552,Cancer
+95499,Diabetes
+54289,Obesity
+18293,Cancer
+76962,Heart Disease
+11282,Asthma
+18827,Obesity
+27234,Cancer
+39745,Osteoporosis
+62208,Arthritis
+68852,Asthma
+43963,Diabetes
+77421,Kidney Disease
+99105,Osteoporosis
+49253,Depression
+11593,Epilepsy
+867,Stroke
+53668,Heart Disease
+83729,Heart Disease
+54331,Cancer
+22923,Hypertension
+72851,Arthritis
+60570,Depression
+93093,COPD
+74437,Stroke
+98991,Depression
+17947,Asthma
+26117,Asthma
+24380,Obesity
+50039,Hypertension
+37940,Epilepsy
+72596,Heart Disease
+64302,Osteoporosis
+5535,Diabetes
+39582,Cancer
+76704,Depression
+64762,COPD
+73306,Hypertension
+96974,Depression
+60745,Cancer
+29428,Depression
+3517,Stroke
+320,Osteoporosis
+20188,Asthma
+34429,Stroke
+39343,Asthma
+83958,Epilepsy
+83435,Cancer
+61936,Arthritis
+16276,Epilepsy
+85696,Depression
+87282,Kidney Disease
+54677,Heart Disease
+23510,Arthritis
+64472,Cancer
+90156,Heart Disease
+84513,Osteoporosis
+32079,Cancer
+3728,Arthritis
+15644,Arthritis
+36335,Hypertension
+64625,COPD
+8745,Stroke
+78497,Depression
+97722,Obesity
+47416,Kidney Disease
+76161,Hypothyroidism
+62978,Heart Disease
+74130,Hypertension
+57156,Hypertension
+33804,Kidney Disease
+82312,Depression
+89903,Depression
+62395,Obesity
+90996,Obesity
+15674,Arthritis
+67177,Obesity
+96070,Obesity
+75400,Heart Disease
+2299,Kidney Disease
+34018,Diabetes
+21344,Stroke
+76238,COPD
+7669,Asthma
+19154,Obesity
+41901,Heart Disease
+60429,Anemia
+90869,Stroke
+17759,Epilepsy
+46843,Heart Disease
+21405,Asthma
+6932,Epilepsy
+35739,Diabetes
+47338,Hypothyroidism
+54986,Anemia
+83394,Arthritis
+46659,Arthritis
+6385,Kidney Disease
+37992,Obesity
+38228,Asthma
+69417,Stroke
+83747,Osteoporosis
+10069,Anemia
+67353,Hypertension
+25403,Hypertension
+82317,Osteoporosis
+24018,Diabetes
+78480,Arthritis
+98648,Heart Disease
+21906,Hypothyroidism
+71265,Asthma
+41446,Anemia
+89780,Anemia
+39462,Anemia
+35580,COPD
+89842,Diabetes
+91483,Obesity
+90222,Osteoporosis
+12561,Stroke
+70047,Hypertension
+76027,COPD
+46088,Epilepsy
+1690,Epilepsy
+17950,Diabetes
+67917,Obesity
+36885,Arthritis
+48891,Osteoporosis
+63556,Cancer
+44605,Arthritis
+21368,Arthritis
+13424,Cancer
+28557,Cancer
+65979,Stroke
+28981,COPD
+24696,Cancer
+73224,Epilepsy
+80403,Heart Disease
+90394,Osteoporosis
+68898,Asthma
+69742,Osteoporosis
+93394,Osteoporosis
+72235,Kidney Disease
+92047,Diabetes
+99130,Depression
+14937,Heart Disease
+54702,Hypothyroidism
+60357,Kidney Disease
+10013,Cancer
+15278,Diabetes
+17200,COPD
+2277,Asthma
+62851,Diabetes
+45640,COPD
+90577,Arthritis
+47522,Stroke
+18220,Osteoporosis
+57925,Heart Disease
+78335,COPD
+44832,Diabetes
+22571,Epilepsy
+93047,Kidney Disease
+39935,Diabetes
+3769,Hypertension
+97577,Depression
+15544,Kidney Disease
+29144,COPD
+16870,Kidney Disease
+90995,Anemia
+18659,Hypothyroidism
+29697,Kidney Disease
+40295,Obesity
+16429,Anemia
+17067,Hypertension
+10302,Diabetes
+55680,COPD
+90546,Anemia
+14643,Hypothyroidism
+10188,Kidney Disease
+2464,Depression
+63472,Arthritis
+99265,Depression
+56524,Cancer
+5572,Osteoporosis
+25736,Hypertension
+14131,Hypothyroidism
+4298,Obesity
+86479,Epilepsy
+67302,Anemia
+77748,Heart Disease
+7768,Cancer
+61483,Hypertension
+15587,Asthma
+33162,Arthritis
+5672,Cancer
+8683,Epilepsy
+87501,Cancer
+1346,Hypothyroidism
+98900,Osteoporosis
+12648,Diabetes
+16225,Diabetes
+78878,Arthritis
+77018,Hypothyroidism
+26217,Cancer
+87896,COPD
+3835,Obesity
+11898,Epilepsy
+19078,Depression
+97805,Osteoporosis
+36356,Asthma
+75989,Diabetes
+45591,Obesity
+46163,Kidney Disease
+21044,Obesity
+65619,Obesity
+95493,Kidney Disease
+80341,COPD
+31696,Arthritis
+66179,Cancer
+74741,COPD
+8957,Stroke
+12989,Diabetes
+75777,Kidney Disease
+1832,COPD
+69315,Hypothyroidism
+28442,Depression
+93822,Hypothyroidism
+25106,Anemia
+36943,Diabetes
+22514,Cancer
+98830,COPD
+70402,Arthritis
+567,Asthma
+95072,Obesity
+12934,Hypothyroidism
+28051,Depression
+66085,Kidney Disease
+92767,Asthma
+62221,Hypertension
+48033,Osteoporosis
+91505,Depression
+77251,Cancer
+24264,Kidney Disease
+57627,Heart Disease
+88280,Anemia
+14067,Kidney Disease
+23704,Kidney Disease
+49756,Arthritis
+55586,Depression
+28085,Arthritis
+67403,Heart Disease
+29825,Asthma
+53422,Depression
+99799,COPD
+41193,Hypothyroidism
+16202,Heart Disease
+61066,Obesity
+14459,Epilepsy
+68121,Cancer
+17814,Asthma
+64987,Arthritis
+99912,Kidney Disease
+92370,Asthma
+37784,Heart Disease
+94651,Cancer
+5322,Kidney Disease
+10780,Stroke
+43006,Arthritis
+64711,Anemia
+15167,Asthma
+50434,COPD
+37173,Osteoporosis
+59892,Osteoporosis
+78694,Hypothyroidism
+96491,Cancer
+40895,Hypothyroidism
+90052,Asthma
+58190,Depression
+29605,Hypothyroidism
+72602,Stroke
+53383,Asthma
+38088,Kidney Disease
+56093,Hypothyroidism
+24744,Heart Disease
+62347,Hypothyroidism
+89015,Asthma
+48161,Obesity
+23500,Hypertension
+1675,Cancer
+88363,Cancer
+13785,Osteoporosis
+51952,Hypertension
+57417,Asthma
+68506,Obesity
+86317,Anemia
+88672,Hypothyroidism
+11141,Asthma
+15626,Osteoporosis
+18791,Diabetes
+51748,Stroke
+52510,Obesity
+91099,Hypothyroidism
+77405,Depression
+13332,Depression
+22114,COPD
+8481,Epilepsy
+47672,Osteoporosis
+26094,Hypothyroidism
+44385,Anemia
+26248,Hypothyroidism
+77982,Kidney Disease
+52990,Hypothyroidism
+16090,Osteoporosis
+30522,COPD
+55666,Asthma
+95053,Stroke
+65419,Arthritis
+36505,Hypertension
+93519,Asthma
+76273,Asthma
+77810,Diabetes
+35779,Stroke
+84388,Heart Disease
+52459,Heart Disease
+46674,COPD
+62367,Heart Disease
+87382,Heart Disease
+63508,Heart Disease
+67032,Arthritis
+36554,Heart Disease
+19316,Arthritis
+59589,Arthritis
+16015,Kidney Disease
+64138,Diabetes
+65178,Obesity
+30254,Hypertension
+82361,Osteoporosis
+17643,Stroke
+3895,Epilepsy
+96704,Asthma
+6927,Cancer
+8942,Anemia
+65291,Heart Disease
+88880,Epilepsy
+3506,Osteoporosis
+23474,Kidney Disease
+50152,Obesity
+79244,Asthma
+89024,Anemia
+42854,Depression
+20019,Epilepsy
+39682,Epilepsy
+81522,Asthma
+81688,Asthma
+12626,Arthritis
+99637,Arthritis
+10029,Diabetes
+86649,Depression
+98514,Stroke
+68150,Diabetes
+64512,Hypothyroidism
+61082,COPD
+38477,Depression
+86781,Arthritis
+65260,Osteoporosis
+64258,Kidney Disease
+66164,Arthritis
+34296,Stroke
+45038,Arthritis
+70848,Hypertension
+71646,Asthma
+2316,Hypothyroidism
+4141,Epilepsy
+56414,Anemia
+15615,Heart Disease
+50283,Epilepsy
+58997,Osteoporosis
+41229,Obesity
+49327,Anemia
+58006,Epilepsy
+60248,Hypothyroidism
+4716,Arthritis
+4306,Depression
+23182,Depression
+72963,Stroke
+39720,Diabetes
+92544,Heart Disease
+21514,Osteoporosis
+64419,Anemia
+17627,Depression
+40954,Osteoporosis
+93811,Obesity
+50997,Depression
+63891,Heart Disease
+14336,Osteoporosis
+74560,Heart Disease
+88476,Heart Disease
+86517,Cancer
+72585,Cancer
+89833,Kidney Disease
+70699,Hypothyroidism
+75000,Osteoporosis
+61580,Stroke
+62378,Diabetes
+73695,Cancer
+20487,Hypertension
+7305,Epilepsy
+51299,Epilepsy
+34523,Anemia
+64840,Hypothyroidism
+49518,Diabetes
+88668,Hypothyroidism
+46237,Arthritis
+37281,Cancer
+42006,Cancer
+3689,Depression
+77393,Osteoporosis
+5913,Diabetes
+16803,Cancer
+48026,Depression
+45727,Cancer
+97262,Stroke
+76541,Kidney Disease
+3525,Diabetes
+81940,Arthritis
+44729,COPD
+49882,Epilepsy
+12759,Depression
+56118,Hypothyroidism
+45238,COPD
+46840,Stroke
+53992,Anemia
+46041,COPD
+86670,Epilepsy
+32011,Asthma
+32455,Depression
+30752,COPD
+84945,Heart Disease
+40907,Hypothyroidism
+77664,Diabetes
+11133,Osteoporosis
+90176,Cancer
+8585,Hypothyroidism
+39965,Asthma
+15003,Epilepsy
+44249,Anemia
+22253,Kidney Disease
+2583,Epilepsy
+70571,Hypertension
+42744,Osteoporosis
+4899,Cancer
+60412,Hypertension
+86214,Asthma
+55374,Stroke
+74455,Heart Disease
+67470,Hypothyroidism
+55203,Osteoporosis
+34946,Cancer
+2674,Asthma
+91220,Depression
+61564,Depression
+77068,Obesity
+2914,Epilepsy
+41486,Diabetes
+49510,Asthma
+74757,Epilepsy
+51157,Heart Disease
+42260,Hypothyroidism
+75043,Osteoporosis
+12809,Hypothyroidism
+64010,Arthritis
+13114,Hypothyroidism
+90552,Epilepsy
+88488,Hypertension
+26988,COPD
+44035,Obesity
+65898,Osteoporosis
+87475,Kidney Disease
+44504,Hypothyroidism
+21840,Osteoporosis
+80586,Stroke
+39258,Asthma
+47622,Osteoporosis
+57146,Osteoporosis
+26444,Hypertension
+65136,Hypertension
+83288,Hypertension
+9872,Osteoporosis
+70232,Epilepsy
+28059,Kidney Disease
+37664,Obesity
+34754,Hypertension
+6230,Cancer
+38970,Osteoporosis
+75172,Depression
+52694,Osteoporosis
+29607,Stroke
+81863,Cancer
+97371,Heart Disease
+12053,Asthma
+94071,Depression
+75784,Cancer
+12416,Depression
+77576,Diabetes
+44150,Stroke
+35830,Asthma
+8817,Hypothyroidism
+74242,Obesity
+69607,Heart Disease
+55981,Anemia
+27490,Kidney Disease
+10048,Anemia
+85398,Asthma
+39563,Asthma
+66144,Anemia
+39309,Asthma
+56742,Asthma
+86960,Stroke
+70772,Osteoporosis
+26224,Diabetes
+54304,Depression
+52730,COPD
+32933,COPD
+81915,Osteoporosis
+67550,Stroke
+59405,Epilepsy
+71770,COPD
+23671,Kidney Disease
+2438,Asthma
+82292,Hypertension
+92187,Hypothyroidism
+67662,Asthma
+24450,Arthritis
+75608,Diabetes
+65431,Heart Disease
+27912,Stroke
+86613,COPD
+97282,Diabetes
+61249,Epilepsy
+35118,Epilepsy
+83614,Anemia
+69824,Epilepsy
+80533,Cancer
+56849,Stroke
+74202,Diabetes
+95238,Heart Disease
+82150,Hypothyroidism
+7848,Epilepsy
+68454,Arthritis
+26299,Arthritis
+47746,Heart Disease
+60619,Kidney Disease
+19365,Epilepsy
+31506,Epilepsy
+19722,Depression
+97836,Epilepsy
+89824,Hypertension
+39357,Heart Disease
+53773,Heart Disease
+41766,Diabetes
+8444,Arthritis
+83090,Hypothyroidism
+54059,Cancer
+34987,COPD
+37623,Heart Disease
+84678,Kidney Disease
+21048,Cancer
+78804,Anemia
+30950,Anemia
+53197,Arthritis
+19655,Diabetes
+25154,Asthma
+3631,Asthma
+32189,Diabetes
+40703,Kidney Disease
+60838,Obesity
+63620,Diabetes
+73377,Asthma
+57164,Anemia
+55314,Diabetes
+84793,Kidney Disease
+4850,Heart Disease
+26475,Anemia
+20887,Heart Disease
+35744,COPD
+17882,Obesity
+3819,Hypothyroidism
+33868,Hypertension
+36408,Diabetes
+86333,Hypertension
+72182,Depression
+23066,Asthma
+84448,Asthma
+94696,Kidney Disease
+63680,COPD
+2609,Heart Disease
+7251,Kidney Disease
+11000,Osteoporosis
+78852,Osteoporosis
+39056,Heart Disease
+8333,Heart Disease
+53347,Stroke
+47636,Cancer
+88037,Asthma
+86170,Epilepsy
+52021,Osteoporosis
+94926,Heart Disease
+18423,Obesity
+30938,Hypothyroidism
+14671,Diabetes
+74838,Hypertension
+96269,Stroke
+65568,COPD
+15812,Obesity
+68414,Obesity
+87060,Hypothyroidism
+76076,Depression
+68846,Anemia
+33004,Hypertension
+65070,Stroke
+11829,Depression
+31205,Anemia
+78619,Cancer
+16027,Hypertension
+76588,COPD
+96631,Epilepsy
+51111,Asthma
+98090,Hypertension
+97512,Osteoporosis
+30924,Anemia
+55426,COPD
+18910,Obesity
+14000,Cancer
+22957,Depression
+28063,Cancer
+35985,Arthritis
+57602,Osteoporosis
+53526,Arthritis
+33332,Heart Disease
+77264,Diabetes
+7330,Hypertension
+64272,Heart Disease
+49113,Osteoporosis
+91700,Kidney Disease
+14806,Cancer
+71531,Hypertension
+55545,Epilepsy
+89487,Osteoporosis
+32289,Osteoporosis
+36403,Heart Disease
+18993,Hypothyroidism
+47578,Stroke
+62288,Osteoporosis
+2762,COPD
+84593,Depression
+79405,Heart Disease
+4562,Anemia
+96921,Obesity
+86798,COPD
+7166,Cancer
+90529,Heart Disease
+88027,Heart Disease
+31414,Obesity
+33158,Hypothyroidism
+72447,Asthma
+40536,Heart Disease
+91831,Heart Disease
+47560,Epilepsy
+15997,Cancer
+70111,Osteoporosis
+30983,Kidney Disease
+57986,Epilepsy
+50917,Epilepsy
+1031,Stroke
+51508,Asthma
+33493,Hypothyroidism
+39438,Heart Disease
+99177,Arthritis
+30862,Osteoporosis
+38983,COPD
+27575,Arthritis
+21001,Diabetes
+57520,Hypertension
+82752,Diabetes
+41573,Epilepsy
+84466,Kidney Disease
+53253,Stroke
+4440,Hypertension
+35918,Osteoporosis
+10498,Anemia
+64447,Arthritis
+61746,Stroke
+96592,Heart Disease
+43610,Depression
+94029,Depression
+55360,Diabetes
+13159,Obesity
+34205,Obesity
+66366,Cancer
+8698,Stroke
+46118,Kidney Disease
+78920,Arthritis
+95581,Diabetes
+71791,Kidney Disease
+96703,Arthritis
+42830,Osteoporosis
+59409,COPD
+91122,COPD
+99873,Stroke
+6828,Hypertension
+84066,COPD
+84094,COPD
+24083,Cancer
+82595,Cancer
+58117,Obesity
+84030,Stroke
+17837,Diabetes
+403,Hypertension
+52515,Kidney Disease
+82352,Obesity
+40048,Obesity
+41120,Depression
+75472,Osteoporosis
+10778,Heart Disease
+14526,Heart Disease
+20686,Diabetes
+32716,Anemia
+93528,Asthma
+17051,Arthritis
+77858,Obesity
+89883,Anemia
+53780,Obesity
+41864,Hypothyroidism
+62700,Kidney Disease
+34167,Epilepsy
+22738,Hypothyroidism
+90107,Epilepsy
+77728,Stroke
+42936,Diabetes
+36935,Kidney Disease
+26039,Asthma
+54328,Epilepsy
+48182,Asthma
+23840,Kidney Disease
+51576,Epilepsy
+49456,Hypothyroidism
+74762,Anemia
+29423,Cancer
+2717,Hypothyroidism
+3010,Obesity
+73207,Epilepsy
+84817,Stroke
+80216,Anemia
+82133,Depression
+29977,Hypothyroidism
+11662,Osteoporosis
+60610,Diabetes
+25987,Anemia
+34312,Cancer
+91915,COPD
+22119,Heart Disease
+6525,Osteoporosis
+52564,Kidney Disease
+81003,Obesity
+56217,Cancer
+19562,Cancer
+11673,Diabetes
+48224,Arthritis
+22298,Heart Disease
+15381,Kidney Disease
+1850,Obesity
+94186,Stroke
+68922,Hypothyroidism
+57037,Hypothyroidism
+59468,Stroke
+88291,Obesity
+64769,Hypertension
+15533,Asthma
+26626,COPD
+24975,Anemia
+34891,Diabetes
+37743,Obesity
+97837,Depression
+64771,Kidney Disease
+50079,Cancer
+17065,Anemia
+56532,Asthma
+27080,Heart Disease
+78654,Heart Disease
+28254,Depression
+37089,Asthma
+95251,Heart Disease
+88760,Hypertension
+24820,Anemia
+54831,Stroke
+23641,Stroke
+53546,COPD
+19129,Osteoporosis
+3771,Anemia
+38036,Obesity
+34314,Osteoporosis
+30865,Diabetes
+80960,COPD
+59110,Depression
+32547,Hypertension
+48449,Epilepsy
+76402,Hypothyroidism
+89688,Arthritis
+84834,Obesity
+60052,Epilepsy
+11237,Anemia
+1352,COPD
+61457,Arthritis
+17459,Cancer
+42368,COPD
+90835,Asthma
+27815,Hypertension
+93498,Obesity
+50265,Stroke
+92858,Diabetes
+55481,Stroke
+96482,Arthritis
+78275,Hypothyroidism
+33584,Hypertension
+9575,Epilepsy
+12488,Cancer
+73007,Diabetes
+7700,Stroke
+6830,Epilepsy
+43628,Hypothyroidism
+30781,Cancer
+61726,Asthma
+46439,Arthritis
+79478,Obesity
+87921,Hypothyroidism
+78411,Epilepsy
+98073,Osteoporosis
+702,Anemia
+33247,Cancer
+66131,COPD
+81219,Stroke
+49930,Obesity
+39650,Asthma
+51733,Stroke
+87983,Anemia
+48614,Hypertension
+17332,Anemia
+73342,Cancer
+5390,Kidney Disease
+76085,Asthma
+22264,Arthritis
+66027,Osteoporosis
+64597,Diabetes
+44456,Epilepsy
+61352,Depression
+11750,Osteoporosis
+41591,Anemia
+93094,Cancer
+69523,Hypertension
+56744,Diabetes
+18585,COPD
+34131,Hypothyroidism
+15314,Diabetes
+5788,Kidney Disease
+16760,Anemia
+65432,Heart Disease
+36831,Anemia
+98018,Hypertension
+47263,Obesity
+56372,Epilepsy
+37083,Hypothyroidism
+34500,Diabetes
+80338,Hypertension
+99819,Cancer
+34571,Stroke
+41026,Kidney Disease
+57117,Osteoporosis
+21624,COPD
+41358,Diabetes
+96582,Heart Disease
+64392,Stroke
+19826,COPD
+72833,Kidney Disease
+86169,Hypothyroidism
+83447,Arthritis
+57670,Obesity
+6975,Arthritis
+24762,Arthritis
+19480,COPD
+30128,COPD
+24004,Cancer
+4700,Obesity
+61636,Stroke
+34108,Epilepsy
+21437,Kidney Disease
+92531,Hypertension
+61228,COPD
+57203,Asthma
+15207,Asthma
+64868,COPD
+5346,Hypertension
+57870,Diabetes
+46729,Heart Disease
+92933,Cancer
+73512,Cancer
+63596,Hypertension
+59999,Arthritis
+64616,Cancer
+14744,Obesity
+94340,Cancer
+19405,Obesity
+16207,COPD
+45823,Asthma
+12265,Osteoporosis
+26703,Stroke
+37239,COPD
+23678,Heart Disease
+22058,Arthritis
+98295,Asthma
+66681,Hypertension
+73825,COPD
+86918,Heart Disease
+76765,Hypothyroidism
+27839,Obesity
+76486,Cancer
+68945,Epilepsy
+74814,Diabetes
+23667,Asthma
+54580,Diabetes
+10070,Epilepsy
+32264,Hypothyroidism
+65288,Kidney Disease
+88723,Diabetes
+12360,Hypertension
+43077,Depression
+3402,Diabetes
+37261,Hypertension
+89300,Depression
+89212,Depression
+15989,Asthma
+51664,Osteoporosis
+48963,Heart Disease
+77376,Hypothyroidism
+13902,Heart Disease
+42406,Kidney Disease
+20155,Anemia
+3784,Osteoporosis
+10625,Osteoporosis
+60323,Epilepsy
+92760,Heart Disease
+86447,Obesity
+62895,COPD
+59513,Obesity
+82359,Anemia
+35300,Arthritis
+77883,Osteoporosis
+86246,Stroke
+760,Kidney Disease
+43178,Stroke
+86005,Cancer
+81574,Hypertension
+59388,Hypothyroidism
+42587,Stroke
+95885,Stroke
+96248,Epilepsy
+74600,Heart Disease
+16950,Asthma
+27704,Hypertension
+84363,Anemia
+37087,Stroke
+42358,Hypothyroidism
+7279,Osteoporosis
+97491,Epilepsy
+9269,Hypertension
+71716,Epilepsy
+78943,COPD
+49989,Kidney Disease
+12130,Kidney Disease
+52279,Osteoporosis
+33444,Stroke
+23332,Epilepsy
+31467,Epilepsy
+52286,Arthritis
+11690,Arthritis
+2688,Asthma
+27292,Anemia
+21356,Hypothyroidism
+50921,Heart Disease
+52742,COPD
+37347,Hypothyroidism
+84825,Obesity
+98639,Depression
+85729,Asthma
+15807,Osteoporosis
+39131,Hypothyroidism
+64336,Kidney Disease
+56670,Obesity
+96454,Stroke
+40645,Anemia
+89779,Hypothyroidism
+79103,Obesity
+17208,Epilepsy
+47060,Epilepsy
+87231,Diabetes
+12597,Hypertension
+48163,Epilepsy
+67194,Hypertension
+26197,Obesity
+64175,Epilepsy
+58385,Epilepsy
+50867,Anemia
+62447,Asthma
+35190,COPD
+73801,Stroke
+78687,Obesity
+55452,Heart Disease
+11825,Heart Disease
+99154,Asthma
+55382,Cancer
+48265,Hypertension
+24426,Depression
+56899,Anemia
+82665,Osteoporosis
+55838,Stroke
+12182,Hypertension
+5300,Obesity
+67284,Cancer
+44793,Kidney Disease
+60755,Hypertension
+88662,Stroke
+29390,COPD
+84883,Cancer
+89946,Epilepsy
+93537,Depression
+20325,Heart Disease
+64922,Depression
+69111,Arthritis
+82517,Heart Disease
+84833,Arthritis
+68770,Cancer
+11006,Asthma
+38103,Epilepsy
+61370,Depression
+57325,Hypertension
+10378,Obesity
+62601,Arthritis
+19478,Anemia
+16749,Osteoporosis
+39375,Heart Disease
+56063,Depression
+38729,Stroke
+74519,Depression
+6255,Heart Disease
+72219,Stroke
+10031,Obesity
+5910,Cancer
+67294,Osteoporosis
+14107,Arthritis
+66932,Asthma
+55694,Kidney Disease
+54135,Kidney Disease
+12384,Hypertension
+60903,Osteoporosis
+86619,Hypothyroidism
+74511,Osteoporosis
+33211,Heart Disease
+46590,Anemia
+33405,Epilepsy
+10717,Hypertension
+65987,Heart Disease
+2132,Heart Disease
+14933,Epilepsy
+97060,Obesity
+86714,Cancer
+60670,Hypertension
+23534,Anemia
+23882,Epilepsy
+5932,Asthma
+10917,COPD
+54558,Depression
+92324,Hypertension
+39013,Heart Disease
+41149,Hypertension
+76966,Kidney Disease
+94908,Anemia
+59637,Heart Disease
+87852,Stroke
+58975,Anemia
+81764,Depression
+34743,Obesity
+44739,Epilepsy
+24535,Kidney Disease
+27665,Kidney Disease
+24259,Diabetes
+10252,Hypertension
+97914,Arthritis
+79174,Anemia
+33989,Asthma
+88265,Hypothyroidism
+13936,Heart Disease
+56858,Hypothyroidism
+70041,Stroke
+766,Kidney Disease
+51764,Stroke
+15293,Diabetes
+1743,Stroke
+85957,Asthma
+62537,Kidney Disease
+60314,Asthma
+90676,Epilepsy
+53096,Cancer
+86208,COPD
+97549,Depression
+78890,Heart Disease
+95146,Heart Disease
+63795,Epilepsy
+39688,Arthritis
+81067,Arthritis
+80837,Kidney Disease
+47281,Hypothyroidism
+90526,Obesity
+88316,COPD
+90478,Heart Disease
+88487,Stroke
+39669,Hypothyroidism
+11486,Kidney Disease
+16395,COPD
+1818,Hypothyroidism
+25008,Hypothyroidism
+14668,Depression
+2082,Osteoporosis
+91230,Hypothyroidism
+24670,Obesity
+3514,Hypertension
+27424,Heart Disease
+63060,Diabetes
+85016,Heart Disease
+85162,Cancer
+31690,Depression
+57119,Anemia
+82058,Asthma
+70593,Anemia
+25023,COPD
+11284,Diabetes
+39441,Obesity
+60742,Hypothyroidism
+19420,Cancer
+2859,Diabetes
+15264,Diabetes
+21771,Osteoporosis
+19978,Cancer
+96833,Anemia
+92090,Obesity
+58361,Hypertension
+63576,Anemia
+61799,COPD
+2572,Anemia
+58918,Diabetes
+76706,Arthritis
+31801,Depression
+26389,Osteoporosis
+38644,Heart Disease
+74636,Depression
+51345,Kidney Disease
+6674,Obesity
+43758,Osteoporosis
+1032,Depression
+13456,Depression
+82629,Depression
+93466,Depression
+54484,Cancer
+64972,Arthritis
+96610,Kidney Disease
+75846,Asthma
+78097,Epilepsy
+95823,Asthma
+72653,Arthritis
+38112,Cancer
+4851,Depression
+63897,Anemia
+63714,Hypothyroidism
+77468,Obesity
+94976,Anemia
+88954,Depression
+63950,Asthma
+30396,COPD
+93623,Anemia
+69246,Kidney Disease
+2492,Asthma
+55312,Asthma
+75550,Diabetes
+41399,Hypertension
+72516,Kidney Disease
+8324,Diabetes
+35107,Asthma
+84974,Osteoporosis
+54675,Hypothyroidism
+62041,Epilepsy
+15327,Kidney Disease
+64852,Depression
+81618,Asthma
+45451,Hypertension
+58762,Asthma
+91424,Kidney Disease
+57177,Stroke
+2727,Depression
+37750,Anemia
+95185,Epilepsy
+25192,Hypothyroidism
+61504,Stroke
+30422,Osteoporosis
+66536,Heart Disease
+28796,Hypothyroidism
+77025,Depression
+78918,Heart Disease
+86108,Asthma
+61402,Epilepsy
+17191,Cancer
+38455,Depression
+94764,Cancer
+93242,Anemia
+51166,Epilepsy
+54638,Depression
+88225,Obesity
+85524,Arthritis
+96283,Asthma
+47219,Depression
+61908,Heart Disease
+21237,Diabetes
+81506,Heart Disease
+27159,Epilepsy
+37022,Anemia
+90531,Osteoporosis
+98206,Arthritis
+11297,Osteoporosis
+87432,Cancer
+63293,COPD
+16920,Depression
+22713,Hypothyroidism
+26146,Cancer
+20488,Heart Disease
+79396,Obesity
+64511,Diabetes
+13225,Diabetes
+54523,Heart Disease
+64713,Epilepsy
+39800,Osteoporosis
+30765,Obesity
+27450,Hypertension
+72984,Heart Disease
+6166,Epilepsy
+2376,Osteoporosis
+34184,Hypertension
+46798,Asthma
+88726,Osteoporosis
+20788,Osteoporosis
+22900,Cancer
+65991,Anemia
+4190,Stroke
+8344,Stroke
+44267,COPD
+56442,Epilepsy
+14938,Cancer
+80945,Hypertension
+29712,Cancer
+15818,Hypothyroidism
+73660,Heart Disease
+29372,Hypertension
+63748,Arthritis
+33793,Epilepsy
+44606,Kidney Disease
+46562,Osteoporosis
+6117,Kidney Disease
+73010,Kidney Disease
+35060,Hypertension
+19815,Kidney Disease
+90457,Kidney Disease
+79205,Cancer
+87750,Stroke
+13650,Heart Disease
+92589,COPD
+6608,Heart Disease
+57386,Diabetes
+59917,Hypothyroidism
+99059,Obesity
