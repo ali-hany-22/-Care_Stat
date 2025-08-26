@@ -1,0 +1,2 @@
+CREATE DATABASE Care_Stat;
+
